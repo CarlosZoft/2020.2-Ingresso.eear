@@ -10,4 +10,5 @@ nav:
         - Home: index.md
         - Planejamento: planejamento.md
         - Apresentações: apresentacoes.md
-
+        - Atas:
+                - 23/02/2021: atas/reuniao-23-02-2021.md
