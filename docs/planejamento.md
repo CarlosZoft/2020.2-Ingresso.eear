@@ -5,7 +5,7 @@
 
 ## Sites avaliados
 
-- SIGAA - Daniel Barcelos;
+- SIGAA - Daniel Barcelos e Bruno Felix;
 - MPU - Daniel Porto;
 - Ingresso.EEAR - Denys Rogeres;
 - CAESB - Yan Andrade.
@@ -58,3 +58,4 @@
 |--|--|--|--|
 | 1.0 | 27/02/2021 | Criação do documento | Daniel Porto |
 | 1.1 | 27/02/2021 | Adição da introdução, dos sites avaliados, da metodologia e do processo de design | Daniel Porto |
+| 1.2 | 28/02/2021 | Correção do tópico dos sites avaliados | Daniel Porto |
