@@ -1,0 +1,19 @@
+site_name: Ingresso.EEAR
+
+repo_url: https://github.com/Interacao-Humano-Computador/2020.2-Ingresso.eear
+
+extra_css: 
+        - assets/stylesheets/extra.css
+
+theme:
+        name: material
+        language: pt
+        logo: assets/imagens/logo_eear.png
+        favicon: assets/imagens/favicon.ico
+
+nav:
+        - Home: index.md
+        - Planejamento: planejamento.md
+        - Apresentações: apresentacoes.md
+        - Atas:
+                - 23/02/2021: atas/reuniao-23-02-2021.md
