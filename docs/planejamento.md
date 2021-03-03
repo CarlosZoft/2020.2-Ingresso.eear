@@ -17,6 +17,7 @@
 ### Cronograma Completo
 
 ## Quadro de Disponibilidade
+![Quadro de disponiblidade](assets/imagens/heatmap.jpg)
 
 ## Metodologia
 ### GitHub Kanbam:
