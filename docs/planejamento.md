@@ -58,8 +58,10 @@ Ferramenta | Nome | Descrição
 ![Alt text](./assets/imagens/Figma.png) | Figma | Ferramenta utilizada para a elaboração de protótipos de design.
 ![Alt text](./assets/imagens/Google_Slides_logo.png) | Apresentações Google | Ferramenta utilizada para criação de slides simultaneamente entre os integrantes.
 ![Alt text](./assets/imagens/GitHub.png) | GitHub | Plataforma de versionamento em que iremos armazenar todos os artefatos relacionados ao projeto.
-![Alt text](./assets/imagens/Teams.png) | Microsoft Teams | Plataforma usada para reunião e para gravação das apresentações do projeto.
 ![Alt text](./assets/imagens/mkdocs.png) | MKdocs | Plataforma utilizada para gerar um site estático na web.
+![Alt text](./assets/imagens/streamyard.png) | StreamYard | Plataforma utilizada para gravação das apresentações do projeto.
+![Alt text](./assets/imagens/discord.png) | Discord | Plataforma utilizada para reunião com os integrantes do projeto.
+
 
 ## Bibliografia
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador",
