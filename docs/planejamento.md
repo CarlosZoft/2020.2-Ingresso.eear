@@ -12,9 +12,7 @@
 
 ## Cronograma de Atividades
 
-### Cronograma de Etapas
-
-### Cronograma Completo
+![Cronograma de atividades](assets/imagens/cronograma.jpeg)
 
 ## Quadro de Disponibilidade
 
