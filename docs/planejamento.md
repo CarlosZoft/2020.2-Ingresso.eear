@@ -15,6 +15,7 @@
 ![Cronograma de atividades](assets/imagens/cronograma.jpeg)
 
 ## Quadro de Disponibilidade
+![Quadro de disponiblidade](assets/imagens/heatmap.jpg)
 
 ## Metodologia
 ### GitHub Kanbam:
@@ -72,3 +73,4 @@ Ferramenta | Nome | Descrição
 | 1.2 | 28/02/2021 | Correção do tópico dos sites avaliados | Daniel Porto |
 | 1.3 | 02/03/2021 | Adição das ferramentas utilizadas | Yan Andrade |
 | 1.4 | 05/03/2021 | Adição do versionamento do cronograma | Daniel Barcelos |
+| 1.5 | 05/03/2021 | Adição do versionamento do cronograma | Denys Rógeres |
