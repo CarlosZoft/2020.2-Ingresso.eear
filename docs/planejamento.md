@@ -71,3 +71,4 @@ Ferramenta | Nome | Descrição
 | 1.1 | 27/02/2021 | Adição da introdução, dos sites avaliados, da metodologia e do processo de design | Daniel Porto |
 | 1.2 | 28/02/2021 | Correção do tópico dos sites avaliados | Daniel Porto |
 | 1.3 | 02/03/2021 | Adição das ferramentas utilizadas | Yan Andrade |
+| 1.4 | 05/03/2021 | Adição do versionamento do cronograma | Daniel Barcelos |
