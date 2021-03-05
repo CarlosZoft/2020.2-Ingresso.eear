@@ -18,8 +18,12 @@ Esse repositório é destinado à disciplina de <strong>Interação Interação 
 
 ## Escolha do Site
 
+<p style="text-align: justify;">&emsp;&emsp;
+Um de nossos integrantes participou do <strong>concurso da EEAR em 2017</strong>, fazendo a inscrição, acompanhamento e visualizando o resultado pelo site. A experiência de uso da aplicação não foi boa, gerando diversas dificuldades e confusões.
+</p>
+
 <p style="text-align: justify;">&emsp;&emsp; 
-Alguns sites foram avaliados para serem trabalhados na disciplina, o Ingresso.eear foi o escolhido por fornecer as maiores possibilidades de estudo, análise e elaboração de um processo de redesign.    
+Alguns sites foram avaliados para serem trabalhados na disciplina, mas o Ingresso.eear foi o escolhido por já termos uma prática de uso e o mesmo também fornecer boas possibilidades de estudo, análise e de elaboração de um <strong>processo de redesign</strong>.
 </p>
 
 
