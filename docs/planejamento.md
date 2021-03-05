@@ -12,9 +12,7 @@
 
 ## Cronograma de Atividades
 
-### Cronograma de Etapas
-
-### Cronograma Completo
+![Cronograma de atividades](assets/imagens/cronograma.jpeg)
 
 ## Quadro de Disponibilidade
 ![Quadro de disponiblidade](assets/imagens/heatmap.jpg)
@@ -51,6 +49,19 @@
    <center>Figura 2: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
 ## Ferramentas
 
+Ferramenta | Nome | Descrição 
+ :--: | :--: | :--: 
+![Alt text](./assets/imagens/Google_Drive_icon.png) | Google Drive | Plataforma utilizada para armazenar os slides da apresentação e outros artefatos gerados.
+![Alt text](./assets/imagens/planilhas.png) | Planilhas Google | Ferramenta para criação de planilhas.
+![Alt text](./assets/imagens/Telegram.png) | Telegram | Ferramenta de comunicação rápida entre os integrantes.
+![Alt text](./assets/imagens/Figma.png) | Figma | Ferramenta utilizada para a elaboração de protótipos de design.
+![Alt text](./assets/imagens/Google_Slides_logo.png) | Apresentações Google | Ferramenta utilizada para criação de slides simultaneamente entre os integrantes.
+![Alt text](./assets/imagens/GitHub.png) | GitHub | Plataforma de versionamento em que iremos armazenar todos os artefatos relacionados ao projeto.
+![Alt text](./assets/imagens/mkdocs.png) | MKdocs | Plataforma utilizada para gerar um site estático na web.
+![Alt text](./assets/imagens/streamyard.png) | StreamYard | Plataforma utilizada para gravação das apresentações do projeto.
+![Alt text](./assets/imagens/discord.png) | Discord | Plataforma utilizada para reunião com os integrantes do projeto.
+
+
 ## Bibliografia
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador",
 
@@ -60,3 +71,6 @@
 | 1.0 | 27/02/2021 | Criação do documento | Daniel Porto |
 | 1.1 | 27/02/2021 | Adição da introdução, dos sites avaliados, da metodologia e do processo de design | Daniel Porto |
 | 1.2 | 28/02/2021 | Correção do tópico dos sites avaliados | Daniel Porto |
+| 1.3 | 02/03/2021 | Adição das ferramentas utilizadas | Yan Andrade |
+| 1.4 | 05/03/2021 | Adição do versionamento do cronograma | Daniel Barcelos |
+| 1.5 | 05/03/2021 | Adição do versionamento do cronograma | Denys Rógeres |
