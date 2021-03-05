@@ -23,7 +23,7 @@ Um de nossos integrantes participou do <strong>concurso da EEAR em 2017</strong>
 </p>
 
 <p style="text-align: justify;">&emsp;&emsp; 
-Alguns sites foram avaliados para serem trabalhados na disciplina, mas o Ingresso.eear foi o escolhido por já termos uma prática de uso e o mesmo também fornecer boas possibilidades de estudo, análise e de elaboração de um <strong>processo de redesign</strong>.
+Alguns sites foram avaliados para serem trabalhados na disciplina, mas o <strong>Ingresso.eear</strong> foi o escolhido por já termos uma <strong>prática</strong> e também fornecer boas oportunidades de estudo, avaliação e de elaboração de um <strong>processo de redesign</strong>.
 </p>
 
 
