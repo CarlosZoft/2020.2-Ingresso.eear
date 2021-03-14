@@ -14,6 +14,11 @@ theme:
 nav:
         - Home: index.md
         - Planejamento: planejamento.md
+        - Análise de Requisitos:
+                - Perfil do Usuário: analise-de-requisitos/perfil-do-usuario.md
+                - Personas: analise-de-requisitos/personas.md
+                - Análise de Tarefas: analise-de-requisitos/analise-de-tarefas.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 23/02/2021: atas/reuniao-23-02-2021.md
+                - 13/03/2021: atas/reuniao-13-03-2021.md
