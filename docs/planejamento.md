@@ -5,10 +5,14 @@
 
 ## Sites avaliados
 
-- SIGAA - Daniel Barcelos e Bruno Felix;
-- MPU - Daniel Porto;
-- Ingresso.EEAR - Denys Rogeres;
-- CAESB - Yan Andrade.
+- SIGAA - Daniel Barcelos e Bruno Felix; <br>
+O SIGAA (Sistema Integrado de Gestão das Atividades Acadêmicas) é a principal ferramenta de administração da vida acadêmica, pois com ele através de um único login é possível ter acesso a muitos dos serviços de gestão da vida acadêmica oferecidos pela UnB.
+- MPU - Daniel Porto; <br>
+O Ministério Público da União compreende os ramos do Ministério Público Federal, Ministério Público do Trabalho, Ministério Público Militar, Ministério Público do Distrito Federal e Territórios. No site do mesmo são divulgadas informações sobre concursos.
+- Ingresso.EEAR - Denys Rogeres; <br>
+No site é possível obter informações sobre a Escola de Especialistas de Aeronáutica e fazer a inscrição para participar da mesma.
+- CAESB - Yan Andrade. <br>
+A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em todas as regiões administrativas do DF e em alguns municípios do entorno.
 
 ## Cronograma de Atividades
 
