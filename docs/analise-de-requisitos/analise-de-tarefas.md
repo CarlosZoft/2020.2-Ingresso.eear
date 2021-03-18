@@ -3,7 +3,7 @@
 <p style="text-align: justify;">&emsp;&emsp; 
 Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o <strong>trabalho dos usuários</strong>, como
 eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em volta dos <strong>objetivos</strong> que os
-usuários querem ou precisam atingir e, assim, elaborar uma lista das ações realizadas por um agente para alcançar-los.
+usuários querem ou precisam atingir e, assim, elaborar uma lista das ações realizadas por um agente para alcançá-los.
 </p>
 
 <p style="text-align: justify;">&emsp;&emsp; 
@@ -13,6 +13,7 @@ A <strong>Análise Hierárquica de Tarefas</strong> é usada para entender as co
 <p style="text-align: justify;">&emsp;&emsp; 
 Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamos <strong> 2 grandes objetivos</strong> no site escolhido para estudo. Esses objetivos são baseados fundamentalmente nas principais práticas que compõem a <strong>interação com os concursos</strong>. O primeiro grande objetivo é a <strong>inscrição no concurso</strong>, o início da jornada. O segundo grande objetivo é o <strong>acompanhamento das informações do concurso</strong>, como local, hora e resultados, assim englobando a parte restante da jornada.
 </p>
+
 
 ## Efetuar a Inscrição em Concurso
 
@@ -46,8 +47,10 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 | 2. Busca de Inscrições | <strong>Input: </strong> Preencher nome, senha e CPF; <br> <strong>Feedback: </strong> Redirecionar para a página do candidato; <br> <strong>Plano: </strong> Acesso aos concursos; <br> <strong>Problema: </strong> A página insinua que é um login, mas na verdade busca inscrições com os inputs informados, sendo pouco intuitiva; <br> <strong>Recomendação: </strong> Deixar claro seu real funcionamento. |
 | 2.1. Selecionar Concurso em que está Inscrito | <strong>Plano: </strong> Acessar as informações do concurso em que o candidato está inscrito. | 
 
+
 ## Bibliografia
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador",
+
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
