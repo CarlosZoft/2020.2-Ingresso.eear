@@ -1,4 +1,4 @@
-#Planejamento
+# Planejamento
 
 ## Introdução
 &emsp;&emsp;Este documento aborda o Planejamento da equipe para o desenvolvimento das demandas ao longo do projeto. Estão incluidos aqui os site que a equipe avaliou para a escolha daquele que será trabalhado, o cronograma de atividades contendo as etapas e a integra do cronograma da equipe, a metodologia que será utilizada ao decorrer da disciplina, o processo de Design que será seguido e as ferramentas que serão utilizadas.
@@ -20,7 +20,7 @@ A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em t
 <center>Figura 1: Cronograma de atividades.</center>
 
 ## Quadro de Disponibilidade
-![Quadro de disponiblidade](assets/imagens/heatmap.jpg)
+![Quadro de disponiblidade](assets/imagens/heatmap.jpeg)
 <center>Figura 2: Quadro de disponibilidade.</center>
 
 ## Metodologia
@@ -41,7 +41,7 @@ A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em t
 &emsp;&emsp; Cada artefato ou atividade será revisado por um ou mais integrantes da equipe alheios ao desenvolvimento do que será avaliado. Isso será feito por meio de Pull Requests.
 
 ### Reuniões de planejamento:
-&emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina. Também serão definidos os pareamentos para a entrega, porém devido ao número ímpar de integrantes no grupo será escolhida uma pessoa para ter uma carga maior de trabalho em revisar o que foi feito.
+&emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina. Também serão definidos os pareamentos para a entrega, porém devido ao número ímpar de integrantes no grupo será escolhida de maneira alternada uma pessoa para ter uma carga maior de trabalho em revisar o que foi feito na entrega.
 
 ## Processo de Design
 &emsp;&emsp; A equipe optou por seguir o Processo de Design proposto por Deborah Mayhew (1999). Essa escolha se deveu ao fato de que esse processo reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa.<br>
