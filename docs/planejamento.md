@@ -20,7 +20,7 @@ A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em t
 <center>Figura 1: Cronograma de atividades.</center>
 
 ## Quadro de Disponibilidade
-![Quadro de disponiblidade](assets/imagens/heatmap.jpg)
+![Quadro de disponiblidade](assets/imagens/heatmap.jpeg)
 <center>Figura 2: Quadro de disponibilidade.</center>
 
 ## Metodologia
