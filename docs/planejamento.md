@@ -17,9 +17,11 @@ A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em t
 ## Cronograma de Atividades
 
 ![Cronograma de atividades](assets/imagens/cronograma.jpeg)
+<center>Figura 1: Cronograma de atividades.</center>
 
 ## Quadro de Disponibilidade
 ![Quadro de disponiblidade](assets/imagens/heatmap.jpg)
+<center>Figura 2: Quadro de disponibilidade.</center>
 
 ## Metodologia
 ### GitHub Kanbam:
@@ -50,7 +52,8 @@ A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em t
    - **Instalação:** quando o designer coleta opiniões dos usuários depois de algum tempo de uso para melhorar o sistema em versões futuras ou apontar necessidades de novos sistemas.
 
    ![Ciclo de vida de Mayhew](assets/imagens/ciclo_mayhew.png)
-   <center>Figura 2: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
+   <center>Figura 3: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
+   
 ## Ferramentas
 
 Ferramenta | Nome | Descrição 
@@ -77,4 +80,5 @@ Ferramenta | Nome | Descrição
 | 1.2 | 28/02/2021 | Correção do tópico dos sites avaliados | Daniel Porto |
 | 1.3 | 02/03/2021 | Adição das ferramentas utilizadas | Yan Andrade |
 | 1.4 | 05/03/2021 | Adição do versionamento do cronograma | Daniel Barcelos |
-| 1.5 | 05/03/2021 | Adição do versionamento do cronograma | Denys Rógeres |
+| 1.5 | 05/03/2021 | Adição do versionamento do quadro de disponibilidade | Denys Rógeres |
+| 1.6 | 18/03/2021 | Correções após primeiro feedback | Daniel Barcelos |
