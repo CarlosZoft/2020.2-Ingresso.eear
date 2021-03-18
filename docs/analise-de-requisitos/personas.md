@@ -1,6 +1,6 @@
 ## Introdução 
 
-&emsp;&emsp;Este documento visa apresentar um  grupo de personas, persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criado para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. 
+&emsp;&emsp;Este documento visa apresentar um  grupo de personas, persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criado para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006). É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. 
 
 &emsp;&emsp;Para criar as personas foi necessário uma releitura do documento de perfil do usuário. Assim possibilitando a identificação de grupos característicos de usuários dos sistemas de ingresso na EEAR. Após a identificação desses grupos e de suas características predominantes, foi utilizado o site [uxpressia](https://uxpressia.com/) para inspiração ao criar os cartões de cada persona. 
 
@@ -26,7 +26,8 @@
 <center>Figura 3: Antipersona: Fátima Albuquerque.</center>
 
 ## Bibliografia
-> - BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
+> - Cooper, A.; Reimann, R.; Cronin, D. About Face 3: Th e Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
+> - Pruitt, J. & Adlin, T. Th e Persona Lifecycle: keeping people in mind throughout product design. San Francisco, CA: Morgan Kaufmann Publishers, 2006.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
@@ -34,3 +35,5 @@
 |0.1|17/03/2021| Criação das personas | Daniel P. e Yan |
 |1.0|18/03/2021| Adição das personas e antipersona | Daniel P. e Yan |
 |2.0|18/03/2021| Adição da introdução e alteração do quadro das personas e antipersona | Yan |
+|2.0.1|18/03/2021| Alteração da referência bibliográfica | Yan |
+|2.0.2|18/03/2021| Correção de pequenos erros ortográficos | Yan |
