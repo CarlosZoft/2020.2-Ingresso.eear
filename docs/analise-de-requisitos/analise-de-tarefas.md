@@ -49,7 +49,7 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 
 
 ## Bibliografia
-> BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador",
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) <i>Interação Humano-Computador e Experiência do usuário</i>.
 
 
 ## Versionamento
