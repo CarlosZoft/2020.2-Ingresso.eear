@@ -41,7 +41,7 @@ A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em t
 &emsp;&emsp; Cada artefato ou atividade será revisado por um ou mais integrantes da equipe alheios ao desenvolvimento do que será avaliado. Isso será feito por meio de Pull Requests.
 
 ### Reuniões de planejamento:
-&emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina.
+&emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina. Também serão definidos os pareamentos para a entrega, porém devido ao número ímpar de integrantes no grupo será escolhida uma pessoa para ter uma carga maior de trabalho em revisar o que foi feito.
 
 ## Processo de Design
 &emsp;&emsp; A equipe optou por seguir o Processo de Design proposto por Deborah Mayhew (1999). Essa escolha se deveu ao fato de que esse processo reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa.<br>
@@ -53,7 +53,7 @@ A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em t
 
    ![Ciclo de vida de Mayhew](assets/imagens/ciclo_mayhew.png)
    <center>Figura 3: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
-   
+
 ## Ferramentas
 
 Ferramenta | Nome | Descrição 
