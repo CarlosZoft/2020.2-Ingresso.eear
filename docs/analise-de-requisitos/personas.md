@@ -36,3 +36,4 @@
 |1.0|18/03/2021| Adição das personas e antipersona | Daniel P. e Yan |
 |2.0|18/03/2021| Adição da introdução e alteração do quadro das personas e antipersona | Yan |
 |2.0.1|18/03/2021| Alteração da referência bibliográfica | Yan |
+|2.0.2|18/03/2021| Correção de pequenos erros ortográficos | Yan |
