@@ -38,7 +38,7 @@
 &emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina.
 
 ## Processo de Design
-&emsp;&emsp; A equipe optou por seguir o Processo de Design proposto por Deborah Mayhew (1999).<br>
+&emsp;&emsp; A equipe optou por seguir o Processo de Design proposto por Deborah Mayhew (1999). Essa escolha se deveu ao fato de que esse processo reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa.<br>
 &emsp;&emsp; O Cilco de Vida de Mayhew é composto por três fases iterativas: 
 		
    - **Análise de Requisitos:** quando são definidas as metas de usabilidade baseando-se no perfil dos usuários, na anpalise das tarefas, nas possibilidades e limitações da plataforma de execução do sistema e nos princípios gerais de design de IHC;
