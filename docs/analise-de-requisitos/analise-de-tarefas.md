@@ -17,7 +17,8 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 
 ## Efetuar a Inscrição em Concurso
 
-![Cronograma de atividades](/assets/imagens/analise_tarefa_1.jpg)
+![Efetuar a inscrição em concurso](../assets/imagens/analise_tarefa_1.jpg)
+<center>Figura 1: Efetuar a Inscrição em Concurso</center>
 
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 | --- | --- |
@@ -32,7 +33,8 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 
 ## Acompanhar Inscrição em Concurso
 
-![Cronograma de atividades](/assets/imagens/analise_tarefa_2.jpg)
+![Acompanhar inscrição em concurso](../assets/imagens/analise_tarefa_2.jpg)
+<center>Figura 2: Acompanhar Inscrição em Concurso</center>
 
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 | --- | --- |
