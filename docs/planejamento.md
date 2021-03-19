@@ -1,21 +1,27 @@
-#Planejamento
+# Planejamento
 
 ## Introdução
 &emsp;&emsp;Este documento aborda o Planejamento da equipe para o desenvolvimento das demandas ao longo do projeto. Estão incluidos aqui os site que a equipe avaliou para a escolha daquele que será trabalhado, o cronograma de atividades contendo as etapas e a integra do cronograma da equipe, a metodologia que será utilizada ao decorrer da disciplina, o processo de Design que será seguido e as ferramentas que serão utilizadas.
 
 ## Sites avaliados
 
-- SIGAA - Daniel Barcelos e Bruno Felix;
-- MPU - Daniel Porto;
-- Ingresso.EEAR - Denys Rogeres;
-- CAESB - Yan Andrade.
+- SIGAA - Daniel Barcelos e Bruno Felix; <br>
+O SIGAA (Sistema Integrado de Gestão das Atividades Acadêmicas) é a principal ferramenta de administração da vida acadêmica, pois com ele através de um único login é possível ter acesso a muitos dos serviços de gestão da vida acadêmica oferecidos pela UnB.
+- MPU - Daniel Porto; <br>
+O Ministério Público da União compreende os ramos do Ministério Público Federal, Ministério Público do Trabalho, Ministério Público Militar, Ministério Público do Distrito Federal e Territórios. No site do mesmo são divulgadas informações sobre concursos.
+- Ingresso.EEAR - Denys Rogeres; <br>
+No site é possível obter informações sobre a Escola de Especialistas de Aeronáutica e fazer a inscrição para participar da mesma.
+- CAESB - Yan Andrade. <br>
+A CAESB é a Companhia de Saneamento Ambiental do Distrito Federal que atua em todas as regiões administrativas do DF e em alguns municípios do entorno.
 
 ## Cronograma de Atividades
 
 ![Cronograma de atividades](assets/imagens/cronograma.jpeg)
+<center>Figura 1: Cronograma de atividades.</center>
 
 ## Quadro de Disponibilidade
-![Quadro de disponiblidade](assets/imagens/heatmap.jpg)
+![Quadro de disponiblidade](assets/imagens/heatmap.jpeg)
+<center>Figura 2: Quadro de disponibilidade.</center>
 
 ## Metodologia
 ### GitHub Kanbam:
@@ -35,10 +41,10 @@
 &emsp;&emsp; Cada artefato ou atividade será revisado por um ou mais integrantes da equipe alheios ao desenvolvimento do que será avaliado. Isso será feito por meio de Pull Requests.
 
 ### Reuniões de planejamento:
-&emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina.
+&emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina. Também serão definidos os pareamentos para a entrega, porém devido ao número ímpar de integrantes no grupo será escolhida de maneira alternada uma pessoa para ter uma carga maior de trabalho em revisar o que foi feito na entrega.
 
 ## Processo de Design
-&emsp;&emsp; A equipe optou por seguir o Processo de Design proposto por Deborah Mayhew (1999).<br>
+&emsp;&emsp; A equipe optou por seguir o Processo de Design proposto por Deborah Mayhew (1999). Essa escolha se deveu ao fato de que esse processo reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa.<br>
 &emsp;&emsp; O Cilco de Vida de Mayhew é composto por três fases iterativas: 
 		
    - **Análise de Requisitos:** quando são definidas as metas de usabilidade baseando-se no perfil dos usuários, na anpalise das tarefas, nas possibilidades e limitações da plataforma de execução do sistema e nos princípios gerais de design de IHC;
@@ -46,7 +52,8 @@
    - **Instalação:** quando o designer coleta opiniões dos usuários depois de algum tempo de uso para melhorar o sistema em versões futuras ou apontar necessidades de novos sistemas.
 
    ![Ciclo de vida de Mayhew](assets/imagens/ciclo_mayhew.png)
-   <center>Figura 2: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
+   <center>Figura 3: Ciclo de vida de Mayhew. Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</center>
+
 ## Ferramentas
 
 Ferramenta | Nome | Descrição 
@@ -73,4 +80,5 @@ Ferramenta | Nome | Descrição
 | 1.2 | 28/02/2021 | Correção do tópico dos sites avaliados | Daniel Porto |
 | 1.3 | 02/03/2021 | Adição das ferramentas utilizadas | Yan Andrade |
 | 1.4 | 05/03/2021 | Adição do versionamento do cronograma | Daniel Barcelos |
-| 1.5 | 05/03/2021 | Adição do versionamento do cronograma | Denys Rógeres |
+| 1.5 | 05/03/2021 | Adição do versionamento do quadro de disponibilidade | Denys Rógeres |
+| 1.6 | 18/03/2021 | Correções após primeiro feedback | Daniel Barcelos |
