@@ -66,8 +66,33 @@
 <center>Figura 5: Grid da página de notícias.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552641-e9ff3600-8da1-11eb-997e-7d4d6fbcd596.png)</center>
 
 ### Janelas
+&emsp;&emsp;O site da ingresso.EEAR possui algumas janelas. Dentre as janelas existentes, encontram-se a Homepage, a tela de login, a tela de noticía, questões anteriores e gabarito, entre outras. Colocamos abaixo alguns exemplos das janelas do site.
+
+<center>![Homepage](../assets/imagens/homepage.png)</center>
+<center>Figura 6 - Hompage</center><br><br>
+
+<center>![Login](../assets/imagens/candidato.png)</center>
+<center>Figura 7 - Tela de login</center><br><br>
+
+<center>![Tela](../assets/imagens/tela.png)</center>
+<center>Figura 8 - Tela dentro do sistema</center><br><br>
+
+<center>![Inscricao](../assets/imagens/inscricao.png)</center>
+<center>Figura 9 - Informação de inscricão</center><br><br>
+
+<center>![Informações](../assets/imagens/informacao.png)</center>
+<center>Figura 10 - Tela de informações</center><br><br>
+
+<center>![Prova](../assets/imagens/informacao.png)</center>
+<center>Figura 11 - Provas e gabaritos</center><br><br>
+
+<center>![Exame](../assets/imagens/exame.png)</center>
+<center>Figura 12 - Informações candidato</center><br><br>
 
 ### Tipografia
+&emsp;&emsp;A tipografia do site utiliza as seguintes fontes:<br>
+<center>![Exame](../assets/imagens/fontes.png)</center>
+<center>Figura 13 - Informações candidato</center><br><br>
 
 ### Símbolos não tipográficos
 
@@ -90,12 +115,14 @@
 
 ### Preenchimento de campos
 &emsp;&emsp;O usuário deve preencher campos quando for realizar login e realizar a inscrição em algum exame.
+<center>![Realizar Login](../assets/imagens/realizar_login.png)</center>
+<center>Figura 14: Formulário para realizar o login.</center>
 
 ### Seleção
 &emsp;&emsp;Não foi encontrado opção de seleção no site.
 
 ### Ativação
-&emsp;&emsp;Após o preenchimento dos campos o usuário deve clicar no botão de "enviar".
+&emsp;&emsp;Após o preenchimento dos campos o usuário deve clicar no botão de "Entrar".
 
 ## Vocabulário e Padrões
 
@@ -117,4 +144,6 @@
 |:-:|--|--|--|
 | 0.1 | 23/03/2021 | Criação do Guia de Estilo | Daniel B. e Yan |
 | 1.0 | 24/03/2021 | Adição do grid da Homepage | Daniel P. e Denys |
-| 1.1 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
+| 1.1 | 25/03/2021 | Adição da imagem de realizar login | Yan |
+| 1.2 | 25/03/2021 | Adição das imagens da janela | Denys |
+| 1.3 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
