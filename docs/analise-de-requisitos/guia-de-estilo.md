@@ -33,13 +33,38 @@
 
 ### Disposição espacial e grid
 &emsp;&emsp;O site usa as tags de tabela do HTML para montar o grido. Além disso, o site não segue um padrão de páginas o que ocasiona a existência de mais de um tipo de grid utilizado no site para apresentar a disposição espacial dos elementos. Por isso tem-se que analizar e identificar os tipos de disposições usadas.<br>
-&emsp;&emsp;Sendo assim, foram separados 4 tipos de grids principais no site:
+&emsp;&emsp;Sendo assim, foram separados 5 tipos de grids principais no site:
 
 #### Homepage:
 &emsp;&emsp;A Homepage do site é bem simples. Utilizando tabelas HTML para dispor os elementos, possui um espaço para o título na parte superior com uma barra de pesquisa logo abaixo. Também é separada por uma linha vertical onde na direita se encotra um conjustos de botões quadrados em volta de outro quadrado central o qual contem alguns botões para se acessar as notícias. Na esqerda da linha divisória está um espaço direcionado para as noticias do dia. Segue abaixo o grid que foi citado anteriormente: 
 
-![Grid Homepage](https://user-images.githubusercontent.com/48573556/112408369-6c322080-8cf6-11eb-8b1c-6a45c5fea30c.png)
-<center>[link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112408369-6c322080-8cf6-11eb-8b1c-6a45c5fea30c.png)</center>
+![Grid Homepage](../assets/imagens/guia-de-estilo/grid-homepage.png)
+<center>Figura 1: Grid da homepage.<br>[link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112408369-6c322080-8cf6-11eb-8b1c-6a45c5fea30c.png)</center>
+
+#### Login:
+&emsp;&emsp;O site não possui persistência de dados de usuário. Por isso, sempre que o usuário precise acessar alguma funcionalidade fora da área do participante, é preciso realizar o login. Isso causa algum transtorno por conta da repetição de atividades visto que são preciso preencher 4 campos para fazer o login. Segue abaixo o grid que foi citado anteriormente:
+
+![Grid Login](../assets/imagens/guia-de-estilo/grid-login.png)
+<center>Figura 2: Grid da página de login.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552402-7c530a00-8da1-11eb-9013-4f2e44e00662.png)</center>
+
+#### Área do Candidato:
+&emsp;&emsp;A área do candidato é onde o usuário consegue acessar os concursos abertos e com inscrições disponíveis. Ele possui um layout bem simples com elementos quadrados e com algumas formas curvas. A disposição dos elementos não é muito intuitiva e passa uma ideia de desorganização para o usuário. Segue abaixo o grid que foi citado anteriormente:
+
+![Grid Área do Candidato](../assets/imagens/guia-de-estilo/grid-area-candidato.png)
+<center>Figura 3: Grid da página da área do Candidato.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552472-a6a4c780-8da1-11eb-9a9f-1ee568989c3a.png)</center>
+
+#### Provas Anteriores:
+&emsp;&emsp;Nessa página o usuário pode obter os gabaritos de provas de concursos anteriores. A página é bem simples e direta, os dados de cada prova é separado por uma linha horizontal. No lado esquedo de cada bloco está a identificação da prova e no direito se encontra um link direto para o gabarito. Segue abaixo o grid que foi citado anteriomente: 
+
+![Grid Provas Anteriores](../assets/imagens/guia-de-estilo/grid-provas-anteriores.png)
+<center>Figura 4: Grid da página de provas anteriores.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552581-d522a280-8da1-11eb-821a-0d0f60faae6f.png)</center>
+
+#### Notícias:
+&emsp;&emsp;A abordagem dessa página é muito simples e direta. As notícias publicadas são dispostas sequencialmente identificadas por seu título. A baixo do título fica um link extenso que dericiona o usuário para um arquivo ondestão as informações. Segue abaixo o grid que foi citado anteriormente:
+
+![Grid Notícias](../assets/imagens/guia-de-estilo/grid-noticia.png)
+<center>Figura 5: Grid da página de notícias.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552641-e9ff3600-8da1-11eb-997e-7d4d6fbcd596.png)</center>
+
 ### Janelas
 
 ### Tipografia
@@ -92,3 +117,4 @@
 |:-:|--|--|--|
 | 0.1 | 23/03/2021 | Criação do Guia de Estilo | Daniel B. e Yan |
 | 1.0 | 24/03/2021 | Adição do grid da Homepage | Daniel P. e Denys |
+| 1.1 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
