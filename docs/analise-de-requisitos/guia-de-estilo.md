@@ -65,12 +65,14 @@
 
 ### Preenchimento de campos
 &emsp;&emsp;O usuário deve preencher campos quando for realizar login e realizar a inscrição em algum exame.
+<center>![Realizar Login](../assets/imagens/realizar_login.png)</center>
+<center>Figura 2: Formulário para realizar o login.</center>
 
 ### Seleção
 &emsp;&emsp;Não foi encontrado opção de seleção no site.
 
 ### Ativação
-&emsp;&emsp;Após o preenchimento dos campos o usuário deve clicar no botão de "enviar".
+&emsp;&emsp;Após o preenchimento dos campos o usuário deve clicar no botão de "Entrar".
 
 ## Vocabulário e Padrões
 
@@ -92,3 +94,4 @@
 |:-:|--|--|--|
 | 0.1 | 23/03/2021 | Criação do Guia de Estilo | Daniel B. e Yan |
 | 1.0 | 24/03/2021 | Adição do grid da Homepage | Daniel P. e Denys |
+| 1.1 | 25/03/2021 | Adição da imagem de realizar login | Yan |
