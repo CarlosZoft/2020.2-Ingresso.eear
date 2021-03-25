@@ -69,11 +69,18 @@
 ### Tipografia
 &emsp;&emsp;A tipografia do site utiliza as seguintes fontes:<br>
 <center>![Exame](../assets/imagens/fontes.png)</center>
-<center>Figura 7 - Informações candidato</center><br><br>
+<center>Figura 8 - Informações candidato</center><br><br>
 
 ### Símbolos não tipográficos
 
 ### Cores
+Aqui está a paleta de cores utilizada nas logos do site:
+<center>![Exame](../assets/imagens/logo.png)</center>
+<center>Figura 9 - Informações candidato</center><br><br>
+
+Estas foram as cores predominantes no site:
+<center>![Exame](../assets/imagens/cores.png)</center>
+<center>Figura 10 - Informações candidato</center><br><br>
 
 ### Animações
 
