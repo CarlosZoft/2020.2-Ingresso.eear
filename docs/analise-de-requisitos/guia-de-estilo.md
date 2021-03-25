@@ -40,9 +40,36 @@
 
 ![Grid Homepage](https://user-images.githubusercontent.com/48573556/112408369-6c322080-8cf6-11eb-8b1c-6a45c5fea30c.png)
 <center>[link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112408369-6c322080-8cf6-11eb-8b1c-6a45c5fea30c.png)</center>
+
 ### Janelas
+&emsp;&emsp;O site da ingresso.EEAR possui algumas janelas. Dentre as janelas existentes, encontram-se a Homepage, a tela de login, a tela de noticía, questões anteriores e gabarito, entre outras. Colocamos abaixo alguns exemplos das janelas do site.
+
+<center>![Homepage](../assets/imagens/homepage.png)</center>
+<center>Figura 1 - Hompage</center><br><br>
+
+<center>![Login](../assets/imagens/candidato.png)</center>
+<center>Figura 2 - Tela de login</center><br><br>
+
+<center>![Tela](../assets/imagens/tela.png)</center>
+<center>Figura 3 - Tela dentro do sistema</center><br><br>
+
+<center>![Inscricao](../assets/imagens/inscricao.png)</center>
+<center>Figura 4 - Informação de inscricão</center><br><br>
+
+<center>![Informações](../assets/imagens/informacao.png)</center>
+<center>Figura 5 - Tela de informações</center><br><br>
+
+<center>![Prova](../assets/imagens/informacao.png)</center>
+<center>Figura 6 - Provas e gabaritos</center><br><br>
+
+<center>![Exame](../assets/imagens/exame.png)</center>
+<center>Figura 7 - Informações candidato</center><br><br>
+
 
 ### Tipografia
+&emsp;&emsp;A tipografia do site utiliza as seguintes fontes:<br>
+<center>![Exame](../assets/imagens/fontes.png)</center>
+<center>Figura 7 - Informações candidato</center><br><br>
 
 ### Símbolos não tipográficos
 
@@ -95,3 +122,4 @@
 | 0.1 | 23/03/2021 | Criação do Guia de Estilo | Daniel B. e Yan |
 | 1.0 | 24/03/2021 | Adição do grid da Homepage | Daniel P. e Denys |
 | 1.1 | 25/03/2021 | Adição da imagem de realizar login | Yan |
+| 1.2 | 25/03/2021 | Adição das imagens da janela | Denys |
