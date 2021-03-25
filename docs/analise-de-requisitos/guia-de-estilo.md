@@ -32,7 +32,14 @@
 ## Elementos de Interface
 
 ### Disposição espacial e grid
+&emsp;&emsp;O site usa as tags de tabela do HTML para montar o grido. Além disso, o site não segue um padrão de páginas o que ocasiona a existência de mais de um tipo de grid utilizado no site para apresentar a disposição espacial dos elementos. Por isso tem-se que analizar e identificar os tipos de disposições usadas.<br>
+&emsp;&emsp;Sendo assim, foram separados 4 tipos de grids principais no site:
 
+#### Homepage:
+&emsp;&emsp;A Homepage do site é bem simples. Utilizando tabelas HTML para dispor os elementos, possui um espaço para o título na parte superior com uma barra de pesquisa logo abaixo. Também é separada por uma linha vertical onde na direita se encotra um conjustos de botões quadrados em volta de outro quadrado central o qual contem alguns botões para se acessar as notícias. Na esqerda da linha divisória está um espaço direcionado para as noticias do dia. Segue abaixo o grid que foi citado anteriormente: 
+
+![Grid Homepage](https://user-images.githubusercontent.com/48573556/112408369-6c322080-8cf6-11eb-8b1c-6a45c5fea30c.png)
+<center>[link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112408369-6c322080-8cf6-11eb-8b1c-6a45c5fea30c.png)</center>
 ### Janelas
 
 ### Tipografia
@@ -84,3 +91,4 @@
 | Versão | Data | Modificação | Autor |
 |:-:|--|--|--|
 | 0.1 | 23/03/2021 | Criação do Guia de Estilo | Daniel B. e Yan |
+| 1.0 | 24/03/2021 | Adição do grid da Homepage | Daniel P. e Denys |
