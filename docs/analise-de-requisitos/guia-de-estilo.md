@@ -32,7 +32,7 @@
 ## Elementos de Interface
 
 ### Disposição espacial e grid
-&emsp;&emsp;O site usa as tags de tabela do HTML para montar o grido. Além disso, o site não segue um padrão de páginas o que ocasiona a existência de mais de um tipo de grid utilizado no site para apresentar a disposição espacial dos elementos. Por isso tem-se que analizar e identificar os tipos de disposições usadas.<br>
+&emsp;&emsp;O site usa as tags de tabela do HTML para montar o grid. Além disso, o site não segue um padrão de páginas o que ocasiona a existência de mais de um tipo de grid utilizado no site para apresentar a disposição espacial dos elementos. Por isso tem-se que analizar e identificar os tipos de disposições usadas.<br>
 &emsp;&emsp;Sendo assim, foram separados 5 tipos de grids principais no site:
 
 #### Homepage:
@@ -95,10 +95,18 @@
 <center>Figura 13 - Informações candidato</center><br><br>
 
 ### Símbolos não tipográficos
+&emsp;&emsp;A plataforma não utiliza muitos elementos não tipográficos que não sejam emblemas e simbolos militares. Segue abaixo alguns dos elementos não tipográficos presentes na página:
+
+- Lupa da barra de pesquisa 🔍
+- Simbolo de delete <div class="ico"><img src="../../assets/imagens/guia-de-estilo/delete.gif"></div>
+- Gladio Alado <div class="ico"><img src="../../assets/imagens/guia-de-estilo/gladio.gif"></div>
+- Distintivo de terceiro sargento <div class="ico"><img src="../../assets/imagens/guia-de-estilo/3S.gif"></div>
 
 ### Cores
 
 ### Animações
+&emsp;&emsp;O site possui poucas animações. Nas páginas referentes a área do participante, ao passar o mouse na imagem da lapela, a area do concurso escurece e surge um texto em vermelho na área em arco no suṕerior da página.<br>
+&emsp;&emsp;Outra animação diponível no site fica na página de notícias, onde é possivel esconder o conteúdo da página clicando no ícone do gládio alado.
 
 ## Elementos de Interação
 
@@ -147,3 +155,4 @@
 | 1.1 | 25/03/2021 | Adição da imagem de realizar login | Yan |
 | 1.2 | 25/03/2021 | Adição das imagens da janela | Denys |
 | 1.3 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
+| 1.4 | 25/03/2021 | Adição dos tópicos simbolos não tipográficos e animaçẽos | Daniel P. |
