@@ -92,7 +92,7 @@
 ### Tipografia
 &emsp;&emsp;A tipografia do site utiliza as seguintes fontes:<br>
 <center>![Exame](../assets/imagens/fontes.png)</center>
-<center>Figura 13 - Informações candidato</center><br><br>
+<center>Figura 13 - Tipografia</center><br><br>
 
 ### Símbolos não tipográficos
 &emsp;&emsp;A plataforma não utiliza muitos elementos não tipográficos que não sejam emblemas e simbolos militares. Segue abaixo alguns dos elementos não tipográficos presentes na página:
@@ -103,6 +103,13 @@
 - Distintivo de terceiro sargento <div class="ico"><img src="../../assets/imagens/guia-de-estilo/3S.gif"></div>
 
 ### Cores
+Aqui está a paleta de cores utilizada nas logos do site:
+<center>![Exame](../assets/imagens/logo.png)</center>
+<center>Figura 14 - Paleta de cores logo</center><br><br>
+
+Estas foram as cores predominantes no site:
+<center>![Exame](../assets/imagens/cores.png)</center>
+<center>Figura 15 - Paleta de cores site</center><br><br>
 
 ### Animações
 &emsp;&emsp;O site possui poucas animações. Nas páginas referentes a área do participante, ao passar o mouse na imagem da lapela, a area do concurso escurece e surge um texto em vermelho na área em arco no suṕerior da página.<br>
