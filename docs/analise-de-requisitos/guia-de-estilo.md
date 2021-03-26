@@ -131,7 +131,7 @@ Estas foram as cores predominantes no site:
 ### Preenchimento de campos
 &emsp;&emsp;O usuário deve preencher campos quando for realizar login e realizar a inscrição em algum exame.
 <center>![Realizar Login](../assets/imagens/realizar_login.png)</center>
-<center>Figura 14: Formulário para realizar o login.</center>
+<center>Figura 16: Formulário para realizar o login.</center>
 
 ### Seleção
 &emsp;&emsp;Não foi encontrado opção de seleção no site.
