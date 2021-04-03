@@ -21,6 +21,12 @@ nav:
                 - Metas de Usabilidade: analise-de-requisitos/metas-de-usabilidade.md
                 - Princípios Gerais do Projeto: analise-de-requisitos/principios-gerais.md
                 - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
+        - Design, avaliação e desenvolvimento:
+                - Nível 1:
+                        - Storyboard: design-ava-dese/nivel-1/storyboard.md
+                        - Avalições: 
+                                - Planejamento e Avaliação do Storyboard: design-ava-dese/nivel-1/avaliacoes/plan-ava-storyboard.md
+                                - Planejamento e Avaliação da Análise de Tarefas: design-ava-dese/nivel-1/avaliacoes/plan-ava-ana-tarefas.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 23/02/2021: atas/reuniao-23-02-2021.md
