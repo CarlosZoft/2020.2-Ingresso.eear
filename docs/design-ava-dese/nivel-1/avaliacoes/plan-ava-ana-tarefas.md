@@ -20,7 +20,7 @@
 - Descrever as ações que serão necessárias para realizar a tarefa.
 
 ### Coleta de Dados
-&emsp;&emsp;Na etapa de preparação, Nas atividades de coleta e interpretação dos dados, o avaliador simula a execução das tarefas que fazem parte do escopo de avaliação.<br>
+&emsp;&emsp;Nas atividades de coleta e interpretação dos dados, o avaliador **simula a execução das tarefas** que fazem parte do escopo de avaliação.<br>
 &emsp;&emsp;Sendo assim, nessa etapa o avaliador deverá:
 
 - Percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa;
@@ -32,7 +32,7 @@
 - Relatar uma história aceitável sobre o sucesso ou falha em realizar cada ação que compõe a tarefa.
 
 ### Interpretação e Consolidação dos Resultados
-&emsp;&emsp;Na atividade de consolidação dos resultados, os avaliadores analisam as histórias de sucesso e insucesso sobre a realização das tarefas.<br>
+&emsp;&emsp;Na atividade de consolidação dos resultados, os avaliadores **analisam as histórias de sucesso e insucesso** sobre a realização das tarefas.<br>
 &emsp;&emsp;Sendo assim, nessa etapa deverá sintetizar os resultados sobre:
 
 - O que o usuário precisa saber a priori para realizar as tarefas;
