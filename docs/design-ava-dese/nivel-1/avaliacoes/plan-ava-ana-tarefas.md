@@ -45,7 +45,7 @@
 - Uma breve descrição do método de percurso cognitivo, incluindo as perguntas que devem ser res-
 pondidas;
 - O número e o perfil de avaliadores;
-- A descrição das tarefas analisadas.<br><br>
+- A descrição das tarefas analisadas.<br>
 
 &emsp;&emsp;Para cada tarefa analisada, o relatório deve conter:<br>
 
