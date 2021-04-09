@@ -1,5 +1,5 @@
 ## Introdução
-&emsp;&emsp;Em um processo de desenvolvimento de sistemas interativos de alta qualidade de uso, faz-se fundamental e muito necessária a valiação de IHC.Alguns dos métodos de avalição de IHC permitem usar como objetos de estudo desde uma lista de tarefas a serem realizadas individualmente até a usabilidade geral do sistema.<br>
+&emsp;&emsp;Em um processo de desenvolvimento de sistemas interativos de alta qualidade de uso, faz-se fundamental e muito necessária a valiação de IHC. Alguns dos métodos de avalição de IHC permitem usar como objetos de estudo desde uma lista de tarefas a serem realizadas individualmente até a usabilidade geral do sistema.<br>
 &emsp;&emsp;Sendo assim, esse documento visa destrinchar o planejamento da avaliações do artefato de [análise de tarefas](../../../analise-de-requisitos/analise-de-tarefas.md) e o relato de seus resultados.
 
 ## Metodologia
@@ -7,12 +7,12 @@
 
 - **Checar a coerência da análise de tarefas e sua fidelidade com a utilização do sistema.**
 
-&emsp;&emsp;Definido o objetivo, para partir ao planejamento da avaliação, será necessário definir também um método de avaliação. Sendo assim, lenvando em considerção o contexto e que se trata de uma avalição de um artefato sobre as tarefas realizadas no sistema, a equipe optou po utilizar o métodos de inspeção denomindao **Percurso Cognitivo.**<br>
+&emsp;&emsp;Definido o objetivo, para partir ao planejamento da avaliação, será necessário definir também um método de avaliação. Sendo assim, lenvando em considerção o contexto e que se trata de uma avalição de um artefato sobre as tarefas realizadas no sistema, a equipe optou por utilizar o método de inspeção denominada __Percurso Cognitivo.__<br>
 &emsp;&emsp;Através da exploração de interface, essa técnica visa a avaliação da facilidade de aprendizado do sistema. O percurso cognitivo guia a inspeção da interface pelas tarefas do usuário o que facilitará na avaliação da análise de tarefas.<br>
-&emsp;&emsp;Os tópicos a segui irão abordar o planejamento das etapas das avaliações que serão realizadas.
+&emsp;&emsp;Os tópicos a seguir irão abordar o planejamento das etapas das avaliações que serão realizadas.
 
 ### Preparação
-&emsp;&emsp;Na etapa de preparação, o avaliador deve organizar os objetos do estudo e prepara o material de apoio.<br>
+&emsp;&emsp;Na etapa de preparação, o avaliador deve organizar os objetos do estudo e preparar o material de apoio.<br>
 &emsp;&emsp;Sendo assim, nessa etapa o avaliador deverá:
 
 - Definir a tarefa que será avaliada;
@@ -42,8 +42,7 @@
 &emsp;&emsp;O relato dos resultados do percurso cognitivo costuma conter:<br>
 
 - Os objetivos e escopo da avaliação;
-- Uma breve descrição do método de percurso cognitivo, incluindo as perguntas que devem ser res-
-pondidas;
+- Uma breve descrição do método de percurso cognitivo, incluindo as perguntas que devem ser respondidas;
 - O número e o perfil de avaliadores;
 - A descrição das tarefas analisadas.<br>
 
@@ -70,3 +69,4 @@ tarefa;
 |1.0|04/04/2021|Abertura do documento| Bruno F., Daniel P. |
 |1.1|06/04/2021|Adição da introdução, da argumentação pré planejamento e do tópico de preparação| Daniel P. |
 |1.2|08/04/2021|Adição do tópico de Coleta de Dados, Interpretação e Consolidação dos Resultados, Relato dos resultados| Bruno F. |
+|1.2|08/04/2021|Correção de erros de digitação| Daniel P. |
