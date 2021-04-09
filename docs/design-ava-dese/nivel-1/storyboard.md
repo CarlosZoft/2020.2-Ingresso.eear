@@ -40,6 +40,8 @@ Realizar inscrição para o concurso escolhido<br>
 Permitir a realização da inscrição para concursos da EEAR<br>
 
 ![Storyboard-1](../../assets/imagens/storyboard/Storyboard-1.png)
+<center>Figura 1: Storyboard Realizar a inscrição</center>
+<center>Fonte: Autor</center>
 
 
 ## Storyboard 2: Dificuldade para realizar inscrição
@@ -70,7 +72,9 @@ Realizar inscrição para o concurso escolhido<br>
 <b>Definição das necessidades que a aplicação se propõe a sanar</b><br>
 Permitir a realização da inscrição para concursos da EEAR<br>
 
-![Storyboard-1](../../assets/imagens/storyboard/Storyboard-2.png)
+![Storyboard-2](../../assets/imagens/storyboard/Storyboard-2.png)
+<center>Figura 2: Dificuldade para realizar inscrição</center>
+<center>Fonte: Autor</center>
 
 ## Storyboard 3: Acompanhar inscrição no concurso escolhido
 ### Preparo
@@ -100,8 +104,9 @@ Acompanhar inscrição para o concurso escolhido<br>
 <b>Definição das necessidades que a aplicação se propõe a sanar</b><br>
 Acompanhar andamento do concurso<br>
 
-![Storyboard-1](../../assets/imagens/storyboard/Storyboard-3.png)
-
+![Storyboard-3](../../assets/imagens/storyboard/Storyboard-3.png)
+<center>Figura 3: Acompanhar inscrição no concurso escolhido</center>
+<center>Fonte: Autor</center>
 
 ## Referências
 Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
@@ -110,3 +115,4 @@ Livro: ROGERS, Y. Et al. Design de Interação: Além da Interação Humano-Comp
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
 |1.0|09/04/2021|Abertura do documento e adição de informações| Denys Rógeres |
+|1.1| 09/04/2021| Adição das legendas nas imagens | Yan |
