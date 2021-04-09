@@ -40,6 +40,7 @@ Realizar inscrição para o concurso escolhido<br>
 Permitir a realização da inscrição para concursos da EEAR<br>
 
 ![Storyboard-1](../../assets/imagens/storyboard/Storyboard-1.png)
+<center>[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/114180003-0a88cd80-9916-11eb-80e2-68cc02cc32d4.png)</center>
 <center>Figura 1: Storyboard Realizar a inscrição</center>
 <center>Fonte: Autor</center>
 
@@ -73,6 +74,7 @@ Realizar inscrição para o concurso escolhido<br>
 Permitir a realização da inscrição para concursos da EEAR<br>
 
 ![Storyboard-2](../../assets/imagens/storyboard/Storyboard-2.png)
+<center>[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/114180368-7bc88080-9916-11eb-9e6a-01ac0e606a53.png)</center>
 <center>Figura 2: Dificuldade para realizar inscrição</center>
 <center>Fonte: Autor</center>
 
@@ -105,6 +107,7 @@ Acompanhar inscrição para o concurso escolhido<br>
 Acompanhar andamento do concurso<br>
 
 ![Storyboard-3](../../assets/imagens/storyboard/Storyboard-3.png)
+<center>[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/114180471-9d296c80-9916-11eb-9a37-4e2ad80dbdbe.png)</center>
 <center>Figura 3: Acompanhar inscrição no concurso escolhido</center>
 <center>Fonte: Autor</center>
 
@@ -116,3 +119,4 @@ Livro: ROGERS, Y. Et al. Design de Interação: Além da Interação Humano-Comp
 |:-:|--|--|--|
 |1.0|09/04/2021|Abertura do documento e adição de informações| Denys Rógeres |
 |1.1| 09/04/2021| Adição das legendas nas imagens | Yan |
+|1.2| 09/04/2021| Adição dos links para expandir as imagens | Yan |
