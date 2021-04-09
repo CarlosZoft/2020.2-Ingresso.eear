@@ -7,7 +7,7 @@
 
 - **Checar a coerência da análise de tarefas e sua fidelidade com a utilização do sistema.**
 
-&emsp;&emsp;Definido o objetivo, para partir ao planejamento da avaliação, será necessário definir também um método de avaliação. Sendo assim, lenvando em considerção o contexto e que se trata de uma avalição de um artefato sobre as tarefas realizadas no sistema, a equipe optou por utilizar o método de inspeção denominada __Percurso Cognitivo.__<br>
+&emsp;&emsp;Definido o objetivo, para partir ao planejamento da avaliação, será necessário definir também um método de avaliação. Sendo assim, levando em consideração o contexto e que se trata de uma avalição de um artefato sobre as tarefas realizadas no sistema, a equipe optou por utilizar o método de inspeção denominada __Percurso Cognitivo.__<br>
 &emsp;&emsp;Através da exploração de interface, essa técnica visa a avaliação da facilidade de aprendizado do sistema. O percurso cognitivo guia a inspeção da interface pelas tarefas do usuário o que facilitará na avaliação da análise de tarefas.<br>
 &emsp;&emsp;Os tópicos a seguir irão abordar o planejamento das etapas das avaliações que serão realizadas.
 
