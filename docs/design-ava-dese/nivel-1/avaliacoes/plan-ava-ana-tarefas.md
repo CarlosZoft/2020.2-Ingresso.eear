@@ -57,9 +57,12 @@ tarefa;
     - Descrição e justificativa do problema.
 - Sugestões de solução.
  
-<!-- ## Análises -->
+## Análises
+&emsp;&emsp;A seguir estão as avaliações com suas etapas detalhadas e os resultados de cada tarefa avaliada;
 
-<!-- ## Relatório dos Resultados -->
+- [Avaliação 1: Efetuar a inscrição em Concurso;](avaliacao-efetua.md)
+- [Avaliação 2: Acompanhar inscrição em Concurso.](avaliacao-acompanha.md)
+
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
 ## Versionamento
