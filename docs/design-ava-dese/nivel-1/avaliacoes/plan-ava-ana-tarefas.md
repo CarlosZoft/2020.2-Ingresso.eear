@@ -25,18 +25,17 @@
 
 - Percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa;
 - Para cada ação enumerada, analisar se o usuário executaria a ação corretamente, respondendo e justificando a resposta às seguintes perguntas:
-    - O usuário vai tentar atingir o efeito correto?
-    - O usuário vai notar que a ação correta está disponı́vel?
-    - O usuário vai associar a ação correta com o efeito que está tentando atingir?
-    - Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
-- Relatar uma história aceitável sobre o sucesso ou falha em realizar cada ação que compõe a tarefa.
-
+    - Essa ação está representada de alguma forma no diagrama HTA?
+    - Os objetivos e operações estão corretamente representados e descritos?
+    - As relações entre os subobjetivos está correta?
+    - A descrição textual está correta?
+    
 ### Interpretação e Consolidação dos Resultados
 &emsp;&emsp;Na atividade de consolidação dos resultados, os avaliadores **analisam as histórias de sucesso e insucesso** sobre a realização das tarefas.<br>
 &emsp;&emsp;Sendo assim, nessa etapa deverá sintetizar os resultados sobre:
 
-- O que o usuário precisa saber a priori para realizar as tarefas;
-- O que o usuário deve aprender enquanto realiza as tarefas.
+- A conformidade do diagrama e da descrição do HTA com a realidade;
+- O que precisa ser modificado no diagrama e na descrição do hta;
 
 ### Relato dos resultados
 &emsp;&emsp;O relato dos resultados do percurso cognitivo costuma conter:<br>
@@ -48,18 +47,17 @@
 
 &emsp;&emsp;Para cada tarefa analisada, o relatório deve conter:<br>
 
-- Um resumo do conhecimento que os usuários devem ter a priori para serem capazes de executar a
-tarefa;
-- Um resumo do conhecimento que os usuários deveriam aprender enquanto realizam a tarefa;
-- Lista de problemas encontrados, indicando:
-    - A ação que o usuário deveria executar;
-    - Local na interface onde ocorreu o problema;
-    - Descrição e justificativa do problema.
+- Um resumo de como o diagrama e a descrição do hta estão ou não condizentes com a realidade;
+- Um resumo do que precisa ser modificado no diagrama e na descrição do hta;
 - Sugestões de solução.
  
-<!-- ## Análises -->
+## Análises
+&emsp;&emsp;A seguir estão as avaliações com suas etapas detalhadas e os resultados de cada tarefa avaliada;
 
-<!-- ## Relatório dos Resultados -->
+- [Teste Piloto;](teste-piloto-ana.md)
+- [Avaliação 1: Efetuar a inscrição em Concurso;](avaliacao-efetua.md)
+- [Avaliação 2: Acompanhar inscrição em Concurso.](avaliacao-acompanha.md)
+
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
 ## Versionamento
@@ -69,4 +67,6 @@ tarefa;
 |1.0|04/04/2021|Abertura do documento| Bruno F., Daniel P. |
 |1.1|06/04/2021|Adição da introdução, da argumentação pré planejamento e do tópico de preparação| Daniel P. |
 |1.2|08/04/2021|Adição do tópico de Coleta de Dados, Interpretação e Consolidação dos Resultados, Relato dos resultados| Bruno F. |
-|1.2|08/04/2021|Correção de erros de digitação| Daniel P. |
+|1.3|08/04/2021|Correção de erros de digitação| Daniel P. |
+|1.4|14/04/2021|Adição das análises|Daniel P.|
+|1.5|22/04/2021|Ajustes no planejamento para avaliação de artefato| Daniel P.|

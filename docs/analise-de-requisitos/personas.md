@@ -10,20 +10,18 @@
 
 ## Personas Primárias
 
-## Persona 1
-[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/111655003-091d2700-87e8-11eb-8d3f-0daa2c4b23c0.png)
+### Cristina Guerra
 ![Cristina Guerra](../assets/imagens/personas/persona-cristina.png)
-<center>Figura 1: Persona primária 1: Cristina Guerra.</center>
+<center>Figura 1: Persona primária 1: Cristina Guerra.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/111655003-091d2700-87e8-11eb-8d3f-0daa2c4b23c0.png)</center>
 
-## Persona 2
-[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/111655762-abd5a580-87e8-11eb-90d4-c5a2403792e9.png)
+### Alberto da Silva
 ![Alberto da Silva](../assets/imagens/personas/persona-alberto.png)
-<center>Figura 2: Persona primária 2: Alberto da Silva.</center>
+<center>Figura 2: Persona primária 2: Alberto da Silva.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/111655762-abd5a580-87e8-11eb-90d4-c5a2403792e9.png)</center>
 
 ## Antipersona
-[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/111655483-7630bc80-87e8-11eb-8bbc-e3268b4b0bed.png)
+### Fátima Albuquerque
 ![Fátima Albuquerque](../assets/imagens/personas/antipersona.png)
-<center>Figura 3: Antipersona: Fátima Albuquerque.</center>
+<center>Figura 3: Antipersona: Fátima Albuquerque.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/111655483-7630bc80-87e8-11eb-8bbc-e3268b4b0bed.png)</center>
 
 ## Bibliografia
 > - Cooper, A.; Reimann, R.; Cronin, D. About Face 3: Th e Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
@@ -35,5 +33,6 @@
 |0.1|17/03/2021| Criação das personas | Daniel P. e Yan |
 |1.0|18/03/2021| Adição das personas e antipersona | Daniel P. e Yan |
 |2.0|18/03/2021| Adição da introdução e alteração do quadro das personas e antipersona | Yan |
-|2.0.1|18/03/2021| Alteração da referência bibliográfica | Yan |
-|2.0.2|18/03/2021| Correção de pequenos erros ortográficos | Yan |
+|2.1|18/03/2021| Alteração da referência bibliográfica | Yan |
+|2.2|18/03/2021| Correção de pequenos erros ortográficos | Yan |
+|2.3|13/04/2021| Substituição dos subtítulos pelos nomes das personas | Daniel P. |
