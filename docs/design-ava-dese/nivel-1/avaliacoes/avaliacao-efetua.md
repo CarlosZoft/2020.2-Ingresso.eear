@@ -1,6 +1,6 @@
 # Avaliação 1: Efetuar inscrição em concurso
 
-##Preparação
+## Preparação
 #### Tarefa: [Efetuar a inscrição em concurso](../../../../analise-de-requisitos/analise-de-tarefas/#efetuar-a-inscricao-em-concurso)
 #### Persona: [Cristina Guerra](../../../../analise-de-requisitos/personas/#cristina-guerra)
 #### Ações:
@@ -97,7 +97,7 @@
 
 - Adicionar a representação das ações números 3, 4, 5, 6, 8 e 10 no diagrama do HTA e suas respectivas descrições textuais;
 - Adicionar o fluxo da opção "Área do candidato";
-- Corrigir a descrição textual referente a ação número 2, já incluinod a adição do novo fluxo;
+- Corrigir a descrição textual referente a ação número 2, já incluindo a adição do novo fluxo;
 - Corrigir as relaçõe dos subobjetivos;
 - Especificar as opreações.
 ## Versionamento

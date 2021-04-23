@@ -54,6 +54,7 @@
 ## Análises
 &emsp;&emsp;A seguir estão as avaliações com suas etapas detalhadas e os resultados de cada tarefa avaliada;
 
+- [Teste Piloto;](teste-piloto-ana.md)
 - [Avaliação 1: Efetuar a inscrição em Concurso;](avaliacao-efetua.md)
 - [Avaliação 2: Acompanhar inscrição em Concurso.](avaliacao-acompanha.md)
 
@@ -67,4 +68,5 @@
 |1.1|06/04/2021|Adição da introdução, da argumentação pré planejamento e do tópico de preparação| Daniel P. |
 |1.2|08/04/2021|Adição do tópico de Coleta de Dados, Interpretação e Consolidação dos Resultados, Relato dos resultados| Bruno F. |
 |1.3|08/04/2021|Correção de erros de digitação| Daniel P. |
-|1.4|22/04/2021|Ajustes no planejamento para avaliação de artefato| Daniel P.|
+|1.4|14/04/2021|Adição das análises|Daniel P.|
+|1.5|22/04/2021|Ajustes no planejamento para avaliação de artefato| Daniel P.|

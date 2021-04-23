@@ -1,6 +1,6 @@
 # Avaliação 2: Acompanhar inscrição em concurso
 
-##Preparação
+## Preparação
 #### Tarefa: [Acompanhar inscriçao em concurso](../../../../analise-de-requisitos/analise-de-tarefas/#acompanhar-inscricao-em-concurso)
 #### Persona: [Alberto da Silva](../../../../analise-de-requisitos/personas/#alberto-da-silva)
 
