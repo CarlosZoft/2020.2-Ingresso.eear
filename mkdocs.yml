@@ -27,7 +27,9 @@ nav:
                         - Avaliações: 
                                 - Planejamento e Avaliação do Storyboard: design-ava-dese/nivel-1/avaliacoes/plan-ava-storyboard.md
                                 - Planejamento e Avaliação da Análise de Tarefas: design-ava-dese/nivel-1/avaliacoes/plan-ava-ana-tarefas.md
-                                - Relato dos Resultados do Storyboard: design-ava-dese/nivel-1/avaliacoes/resultado-ava-storyboard.md
+                - Nível 2:
+                        - Relato dos Resultados do Storyboard: design-ava-dese/nivel-1/avaliacoes/resultado-ava-storyboard.md
+                        - Planejamento da Protótipo de Papel: design-ava-dese/nivel-2/plan-prototipo-papel.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 23/02/2021: atas/reuniao-23-02-2021.md
