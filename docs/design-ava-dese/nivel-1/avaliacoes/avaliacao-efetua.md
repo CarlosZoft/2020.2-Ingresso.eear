@@ -1,7 +1,7 @@
 # Avaliação 1: Efetuar inscrição em concurso
 
 ##Preparação
-#### Tarefa: [Efetuar a inscricao em concurso](../../../../analise-de-requisitos/analise-de-tarefas/#efetuar-a-inscricao-em-concurso)
+#### Tarefa: [Efetuar a inscrição em concurso](../../../../analise-de-requisitos/analise-de-tarefas/#efetuar-a-inscricao-em-concurso)
 #### Persona: [Cristina Guerra](../../../../analise-de-requisitos/personas/#cristina-guerra)
 #### Ações:
 1. Acessar a plataforma ingresso.EEAR;
