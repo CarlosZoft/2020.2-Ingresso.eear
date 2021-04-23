@@ -1,10 +1,10 @@
 # Planejamento do protótipo de papel
 
 ## Introdução
-&emsp;&emsp;O método de protótipo em papel visa avaliar a usabilidade de um design de IHC representado em papel, por meio de simulações de uso com a participação de potenciais usuários (Syner, 2003). Com este método, é possível identificar inconsistências de usabilidade de forma rápida e barata antes mesmo de fazer uma solução de IHC executável. Tendo isso como base, vale destacar que por ser um protótipo de baixa fidelidade, a ênfase maior é na funcionalidade do sistema e não na estética. Abaixo, apresentamos o planejamento da avaliação que usará o protótipo de papel.<br>
+&emsp;&emsp;É inegável que o uso de protótipos durante a ativade de design é de extrema importância para consolidação de ideias e correção das ideias do projeto. Dito isto, estaremos utilizando o método de Prototipação de Papel para a avaliação devido ao seu baixo custo e rapidez. O método de prototipação em papel avalia a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Abaixo, apresentamos o planejamento da avaliação que usará o protótipo de papel.<br>
 
 ## Metodologia
-&emsp;&emsp;A metodologia a ser utilizada será a metodologia de avaliação para prototipação em papel, que foi extraída diretamente do livro de IHC de Simone Barbosa e Bruno Silva. Esse método consiste em 4 fases diferentes: Preparação, Coleta e Interpretação de Dados, Consolidação dos Resultados e Relato dos Resultados. A metodologia será aplicada à distância, devido a situação atual da pandemia.<br>
+&emsp;&emsp;No nosso projeto, a metodologia a ser utilizada será a metodologia de avaliação para prototipação em papel, que foi extraída diretamente do livro de IHC de Simone Barbosa e Bruno Silva. Esse método consiste em 4 fases diferentes: Preparação, Coleta e Interpretação de Dados, Consolidação dos Resultados e Relato dos Resultados. Devido a situação atual da pandemia, a metodologia será aplicada à distância através de uma chamada online com compartilhamento de tela. <br>
 
 ### Preparação
 &emsp;&emsp;Na etapa de preparação, além do material de apoio elaborado na maioria das avaliações com usuários, o avaliador deve elaborar protótipos em papel.<br>
@@ -60,3 +60,4 @@
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
 |1.0|23/04/2021|Abertura do documento| Daniel B., Denys, Yan |
+|1.1|23/04/2021|Modicação da introdução| Denys | 
