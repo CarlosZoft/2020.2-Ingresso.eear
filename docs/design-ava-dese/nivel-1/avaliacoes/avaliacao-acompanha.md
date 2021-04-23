@@ -13,27 +13,27 @@
 - 6 Clicar em Entrar nas Inscrições;
 - 7 Visualizar a tela com os Concursos Inscritos;
 - 8 Selecionar Concurso em que está Inscrito;
-- 9 Visualizar as indormações do Concurso.
+- 9 Visualizar as informações do Concurso.
 
 ## Coleta dos dados
 
 #### 1. Acessar a plataforma ingresso.EEAR
 - **Essa ação está representada de alguma forma no diagrama HTA?**<br> Sim, está representada como o objetivo 1.
-- **Os objetivos e operações estão corretamente representados e descritos?**<br> Sim, acessar a plataforma está representada como um objetivo.
+- **Os objetivos e operações estão corretamente representados e descritos?**<br> Sim, acessar a plataforma está representado como um objetivo.
 - **As relações entre os subobjetivos está correta?**<br> Parcialmente, poderiam ter mais 1 subobjetivo advindo do objetivo 1.
 - **A descrição textual está correta?**<br> Parcialmente, o plano correto deveria abordar o acesso a página inicial do site. 
 
 #### 2. Clicar em Área do Candidato
-- **Essa ação está representada de alguma forma no diagrama HTA?**<br> Sim, está presentada como o subobjetivos 1.1.
+- **Essa ação está representada de alguma forma no diagrama HTA?**<br> Sim, está apresentada como o subobjetivos 1.1.
 - **Os objetivos e operações estão corretamente representados e descritos?**<br> Sim
-- **As relações entre os subobjetivos está correta?**<br> Parcialmente, poderiam ter mais 1 subobjetivo de Preencher os campos do usuário.
-- **A descrição textual está correta?**<br> Parcialmente, a Recomendação não parece está de acordo com o objetivo. 
+- **As relações entre os subobjetivos está correta?**<br> Parcialmente, poderiam ter mais 1 subobjetivo de preencher os campos do usuário.
+- **A descrição textual está correta?**<br> Parcialmente, a Recomendação não parece estar de acordo com o objetivo. 
 
 #### 3. Clicar em Local das Provas Escritas
-- **Essa ação está representada de alguma forma no diagrama HTA?**<br> Sim, está presentada como o subobjetivos 1.2.
+- **Essa ação está representada de alguma forma no diagrama HTA?**<br> Sim, está apresentada como o subobjetivos 1.2.
 - **Os objetivos e operações estão corretamente representados e descritos?**<br> Sim
 - **As relações entre os subobjetivos está correta?**<br> Parcialmente, talvez devesse obter a ação de Preencher os campos do usuário.
-- **A descrição textual está correta?**<br> Parcialmente, a Recomendação não parece está de acordo com o objetivo. 
+- **A descrição textual está correta?**<br> Parcialmente, a Recomendação não parece estar de acordo com o objetivo. 
 
 #### 4. Clicar em Solicitação de Recursos
 - **Essa ação está representada de alguma forma no diagrama HTA?**<br> Não.
@@ -62,10 +62,10 @@
 
 
 #### 8. Selecionar Concurso em que está Inscrito
-- **Essa ação está representada de alguma forma no diagrama HTA?**<br> Sim, está presentada como o subobjetivos 2.1.
+- **Essa ação está representada de alguma forma no diagrama HTA?**<br> Sim, está apresentada como o subobjetivos 2.1.
 - **Os objetivos e operações estão corretamente representados e descritos?**<br> Sim
 - **As relações entre os subobjetivos está correta?**<br> Parcialmente, talvez devesse ter uma outra etapa posterior a isso.
-- **A descrição textual está correta?**<br> Parcialmente, talvez o feedback de visualizar as informações poderiam estar mais esclarecida.
+- **A descrição textual está correta?**<br> Parcialmente, talvez o feedback de visualizar as informações poderiam estar mais esclarecidas.
 
 #### 9. Visualizar as infsormações do Concurso
 - **Essa ação está representada de alguma forma no diagrama HTA?**<br> Não.
