@@ -23,13 +23,23 @@ nav:
                 - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md
         - Design, avaliação e desenvolvimento:
                 - Nível 1:
-                        - Storyboard: design-ava-dese/nivel-1/storyboard.md
-                        - Avaliações: 
-                                - Planejamento e Avaliação do Storyboard: design-ava-dese/nivel-1/avaliacoes/plan-ava-storyboard.md
-                                - Planejamento e Avaliação da Análise de Tarefas: design-ava-dese/nivel-1/avaliacoes/plan-ava-ana-tarefas.md
+                        - Análise de Tarefas:
+                                - Planejamento e Avaliação da Análise de Tarefas: design-ava-dese/nivel-1/ana-tarefas/plan-ava-ana-tarefas.md
+                                - Relato dos Resultados da Avaliação da Análise de Tarefas:
+                                        - Avaliação da Tarefa 1: design-ava-dese/nivel-1/ana-tarefas/resultados/avaliacao-efetua.md
+                                        - Avaliação da Tarefa 2: design-ava-dese/nivel-1/ana-tarefas/resultados/avaliacao-acompanha.md
+                        - Storyboards: 
+                                - Storyboards: design-ava-dese/nivel-1/storyboards/storyboards.md
+                                - Planejamento da Avaliação do Storyboard: design-ava-dese/nivel-1/storyboards/plan-ava-storyboard.md
+                                - Relato dos Resultados da Avaliação do Storyboard: design-ava-dese/nivel-1/storyboards/resultado-ava-storyboard.md
                 - Nível 2:
-                        - Relato dos Resultados do Storyboard: design-ava-dese/nivel-1/avaliacoes/resultado-ava-storyboard.md
-                        - Planejamento da Protótipo de Papel: design-ava-dese/nivel-2/plan-prototipo-papel.md
+                        - Protótipo de Baixa Fidelidade: design-ava-dese/nivel-2/prototipo-papel.md
+                        - Planejamento do Protótipo de Baixa Fidelidade: design-ava-dese/nivel-2/plan-prototipo-papel.md
+                        - Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade: design-ava-dese/nivel-2/resultado-prot-papel.md
+                - Nível 3:
+                        - Protótipo de Alta Fidelidade: design-ava-dese/nivel-3/prototipo-alta.md
+                        - Planejamento do Protótipo de Alta Fidelidade: design-ava-dese/nivel-3/plan-prototipo-alta.md
+                        - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design-ava-dese/nivel-3/resultado-prot-alta.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 23/02/2021: atas/reuniao-23-02-2021.md

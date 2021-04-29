@@ -50,9 +50,8 @@
     - Sugestões de correção;
     - Indicações de partes do sistema que podem ser mais bem elaboradas.
  
-<!-- ## Análises -->
+## Resultados
 
-<!-- ## Relatório dos Resultados -->
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
 ## Versionamento

@@ -54,9 +54,9 @@
 ## Análises
 &emsp;&emsp;A seguir estão as avaliações com suas etapas detalhadas e os resultados de cada tarefa avaliada;
 
-- [Teste Piloto;](teste-piloto-ana.md)
-- [Avaliação 1: Efetuar a inscrição em Concurso;](avaliacao-efetua.md)
-- [Avaliação 2: Acompanhar inscrição em Concurso.](avaliacao-acompanha.md)
+- [Teste Piloto;](./resultados/teste-piloto-ana.md)
+- [Avaliação 1: Efetuar a inscrição em Concurso;](./resultados/avaliacao-efetua.md)
+- [Avaliação 2: Acompanhar inscrição em Concurso.](./resultados/avaliacao-acompanha.md)
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
