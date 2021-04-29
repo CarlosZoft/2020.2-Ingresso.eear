@@ -6,14 +6,16 @@
 ## Metodologia
 &emsp;&emsp;No nosso projeto, a metodologia a ser utilizada será a metodologia de avaliação para prototipação em papel, que foi extraída diretamente do livro de IHC de Simone Barbosa e Bruno Silva. Esse método consiste em 4 fases diferentes: Preparação, Coleta e Interpretação de Dados, Consolidação dos Resultados e Relato dos Resultados. Devido a situação atual da pandemia, a metodologia será aplicada à distância através de uma chamada online com compartilhamento de tela. <br>
 
-| Atividade | <center>Tarefas |
-|:---:|:----------|
-| Preparação | <ul><li>Definir tarefas para os participantes executarem</li> <li>Definir o perfil dos participantes e recrutá-los</li><li>Criar protótipos em papel da interface para executar as tarefas</li><li>Executar um teste-piloto</li></ul> |
-| Coleta e Interpretação de Dados | <ul><li>Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador</li><li>O avaliador deve listar os problemas encontrados; e refinar os protótipos em papel para resolver os problemas mais simples</li> </ul> |
-| Consolidação dos Resultados | <ul><li>Priorizar a correção dos problemas não resolvidos</li><li>Sugerir correções</li> </ul> |
-| Relato dos Resultados | <ul><li>Relatar os problemas encontrados e sugestões de correção</li> </ul> |
+| Atividade | Tarefas |
+|--|--|
+| Preparação | Definir tarefas para os participantes executarem;<br>Definir o perfil dos participantes e recrutá-los;<br>Criar protótipos em papel da interface para executar as tarefas;<br>Executar um teste-piloto.|
+| Coleta & Interpretação de Dados | Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador;<br>O avaliador deve listar os problemas encontrados;<br> Refinar os protótipos em papel para resolver os problemas mais simples |
+| Consolidação dos Resultados | Priorizar a correção dos problemas não resolvidos<br>Sugerir correções |
+| Relato dos Resultados | Relatar os problemas encontrados e sugestões de correção |
  
 ## Termo de Consentimento
+&emsp;&emsp;Visando uma maio lisura de todo o processo, os participantes convidados para a avalição terão que concorda com o seguinte termo:
+
 &emsp;&emsp;Somos alunos de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface de um site e sugerir melhorias segundo às normas de IHC. <br>
 &emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado no protótipo de papel e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista:
 
@@ -31,22 +33,23 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 ## Preparação
 
 ### Tarefas
-- Realizar a inscrição em um concurso
-- Acompanhar a inscrição
+- [Efetuar a inscrição em concurso;](../../../analise-de-requisitos/analise-de-tarefas/#efetuar-a-inscricao-em-concurso)
+- [Acompanhar inscriçao em concurso.](../../../analise-de-requisitos/analise-de-tarefas/#acompanhar-inscricao-em-concurso)
 
 ### Perfil dos Participantes
 &emsp;&emsp;Serão convidadas pessoas que possuam um perfil semelhante a das personas e usuários do Ingresso EEAR para serem entrevistados.
 
 ### Protótipos em Papel
+&emsp;&emsp;Foram desenvolvidos em papel os prótotipos da plataforma sugerido pela equipe levando em consideração as tarefas a serem realizadas e todas as informações levantadas até então.
 
-![Area do Candidato](../../assets/imagens/prototipo-de-papel/areaDoCandidato.jpg)
-<center>Figura 1: Área do Candidato</center>
+![Página de acompanhamento](../../assets/imagens/prototipo-de-papel/areaDoCandidato.jpg)
+<center>Figura 1: Página de acompanhamento</center>
 
 ![Exame](../../assets/imagens/prototipo-de-papel/exame.jpg)
-<center>Figura 2: Exame</center>
+<center>Figura 2: Página do exame</center>
 
 ![Exame Logado](../../assets/imagens/prototipo-de-papel/exameLogado.jpg)
-<center>Figura 3: Exame Logado</center>
+<center>Figura 3: Página do exame para usuário inscrito e logado</center>
 
 ![Exames Disponíveis](../../assets/imagens/prototipo-de-papel/examesDisponiveis.jpg)
 <center>Figura 4: Exames Disponíveis</center>
