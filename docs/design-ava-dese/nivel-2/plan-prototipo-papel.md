@@ -9,7 +9,7 @@
 | Atividade | Tarefas |
 |--|--|
 | Preparação | Definir tarefas para os participantes executarem;<br>Definir o perfil dos participantes e recrutá-los;<br>Criar protótipos em papel da interface para executar as tarefas;<br>Executar um teste-piloto.|
-| Coleta & Interpretação de Dados | Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador;<br>O avaliador deve listar os problemas encontrados;<br> Refinar os protótipos em papel para resolver os problemas mais simples |
+| Coleta & Interpretação de Dados | Cada usuário deve executar as tarefas propostas interagindo com os protótipos, mediado pelo avaliador;<br>O avaliador deve listar os problemas encontrados;<br> Refinar os protótipos para resolver os problemas mais simples |
 | Consolidação dos Resultados | Priorizar a correção dos problemas não resolvidos<br>Sugerir correções |
 | Relato dos Resultados | Relatar os problemas encontrados e sugestões de correção |
  
@@ -40,7 +40,9 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 &emsp;&emsp;Serão convidadas pessoas que possuam um perfil semelhante a das personas e usuários do Ingresso EEAR para serem entrevistados.
 
 ### Protótipos em Papel
-&emsp;&emsp;Foram desenvolvidos em papel os prótotipos da plataforma sugerido pela equipe levando em consideração as tarefas a serem realizadas e todas as informações levantadas até então.
+&emsp;&emsp;Foram desenvolvidos em papel os prótotipos da plataforma sugerido pela equipe levando em consideração as tarefas a serem realizadas e todas as informações levantadas até então. Para realizar a interação do usuário com o protótipo, serár utilizada a plataforma **Marvel**.
+
+[Link do protótipo na plataforma.](https://marvelapp.com/prototype/63d369a/screen/78909748)
 
 ![Página de acompanhamento](../../assets/imagens/prototipo-de-papel/areaDoCandidato.jpg)
 <center>Figura 1: Página de acompanhamento</center>
@@ -70,20 +72,21 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 <center>Figura 9: Todos os Exames</center>
 
 ### Teste piloto
-&emsp;&emsp;Será feito um teste piloto para avaliar se o planejamento está adequado, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
+&emsp;&emsp;O presente teste piloto foi realizado com o intuito de identificar e corrigir potenciais erros no planejamento da avaliação.
 
 ## Coleta e Interpretação de Dados
-&emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário. Foi feito o seguinte roteiro de perguntas para auxiliar o entrevistador na coleta e interpretação de dados:
+&emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por auxiliar o participante com a utilização da plataforma que simular o sistema outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário. <br>
+&emsp;&emsp;Além disso foi elaborado o seguinte roteiro de perguntas que serão feitas no antes do início da interação e ao término da mesma para auxiliar o entrevistador na coleta e interpretação de dados:
 
-| Número | <center>Pergunta | <center>Opções de resposta |
-|:---:|:----------|:-------------------|
+| Número | Pergunta | Opções de resposta |
+|:-:|:----------|-------------------|
 | 1 | Qual seu grau de experiência com a plataforma Ingresso EEAR? | [ ] Muito experiente <br>[ ] Experiente<br>[ ] Neutro <br>[ ] Inexperiente<br>[ ] Muito inexperiente <br>|
 | 2 | Avalie o grau de dificuldade na execução das tarefas | [ ] Muito difícil <br>[ ] Difícil<br>[ ] Neutro <br>[ ] Fácil<br>[ ] Muito fácil <br> |
 | 3 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta discursiva|
 
 
 ## Consolidação dos resultados
-&emsp;&emsp;Aqui os avaliadores verificam quais problemas não puderam ser resolvidos no reprojeto rápido do protótipo de interface e sugerem propostas de correção desses problemas ou de caminhos que podem ser explorados para melhorar a interface.
+&emsp;&emsp;Aqui os avaliadores verificam quais problemas não puderam ser resolvidos no reprojeto rápido do protótipo de interface e sugerem propostas de correção desses problemas ou de caminhos que podem ser explorados para melhorar a interface. Além disso, o avaliador deve definir a hierarquia e severidade dos erros, para auxíliar na posterio correção.
 
 ## Relato dos Resultados
 &emsp;&emsp;Nesta etapa os avaliadores devem comunicar aos interessados:
@@ -115,3 +118,4 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 |1.0|23/04/2021|Abertura do documento| Daniel B., Denys, Yan |
 |1.1|23/04/2021|Modificação da introdução| Denys | 
 |1.2|29/04/2021|Ajuste geral no documento| Daniel B. | 
+|1.3|29/04/2021|Melhorias dos tópicos| Daniel P.|
