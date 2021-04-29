@@ -108,4 +108,4 @@ Não consinto com a sua realização.
 |:-:|--|--|--|
 |1.0|23/04/2021|Abertura do documento| Daniel B., Denys, Yan |
 |1.1|23/04/2021|Modicação da introdução| Denys | 
-|1.|29/04/2021|Ajuste geral no documento| Daniel B. | 
+|1.2|29/04/2021|Ajuste geral no documento| Daniel B. | 
