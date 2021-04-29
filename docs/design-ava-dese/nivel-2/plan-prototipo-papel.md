@@ -16,14 +16,14 @@
 ## Termo de Consentimento
 &emsp;&emsp;Visando uma maio lisura de todo o processo, os participantes convidados para a avalição terão que concorda com o seguinte termo:
 
-&emsp;&emsp;Somos alunos de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface de um site e sugerir melhorias segundo às normas de IHC. <br>
-&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado no protótipo de papel e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista:
+&emsp;&emsp;Somos Estudantes de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface da plataforma Ingresso.EEAR e sugerir melhorias segundo às normas de IHC. <br>
+&emsp;&emsp;O objetivo desta avaliação é analisar o fluxo de atividades apresentado no protótipo de papel desenvolvido pela equipe e fornecer possíveis sugestões de melhoria para o mesmo. Por isso, o presente termo visa solicitar o seu consentimento para a realziação dessa avaliação. Sendo assim, e para decidir sobre o seu consentimento, é importante que conheça as seguintes informações sobre a entrevista:
 
-- Os dados coletados durante a entrevista destinam-se estritamente a atividades relacionadas à disciplina;<br>
-- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A entrevista será gravada e divulgada na GitHub Pages do grupo.<br>
+- Os dados coletados durante a entrevista destinam-se estritamente à atividades relacionadas à disciplina;<br>
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para os responsávei pela plataforma em estudo. A entrevista será gravada e divulgada na GitHub Pages do grupo.<br>
 - O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.<br>
 - A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.<br>
-- A entrevista terá duração entre 5 a 10 minutos.
+- A entrevista terá duração entre 5 a 15 minutos.
 
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: <br>
 
@@ -37,7 +37,7 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 - [Acompanhar inscriçao em concurso.](../../../analise-de-requisitos/analise-de-tarefas/#acompanhar-inscricao-em-concurso)
 
 ### Perfil dos Participantes
-&emsp;&emsp;Serão convidadas pessoas que possuam um perfil semelhante a das personas e usuários do Ingresso EEAR para serem entrevistados.
+&emsp;&emsp;Serão convidadas pessoas que possuam um perfil semelhante ao das personas e usuários do Ingresso EEAR para serem entrevistados.
 
 ### Protótipos em Papel
 &emsp;&emsp;Foram desenvolvidos em papel os prótotipos da plataforma sugerido pela equipe levando em consideração as tarefas a serem realizadas e todas as informações levantadas até então. Para realizar a interação do usuário com o protótipo, serár utilizada a plataforma **Marvel**.
@@ -74,22 +74,24 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 ### Teste piloto
 &emsp;&emsp;O presente teste piloto foi realizado com o intuito de identificar e corrigir potenciais erros no planejamento da avaliação.
 
+[Teste Piloto](./teste-piloto-baixa.md)
+
 ## Coleta e Interpretação de Dados
-&emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por auxiliar o participante com a utilização da plataforma que simular o sistema outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário. <br>
+&emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por auxiliar o participante com a utilização da plataforma que simulará o sistema e outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário. <br>
 &emsp;&emsp;Além disso foi elaborado o seguinte roteiro de perguntas que serão feitas no antes do início da interação e ao término da mesma para auxiliar o entrevistador na coleta e interpretação de dados:
 
 | Número | Pergunta | Opções de resposta |
 |:-:|:----------|-------------------|
-| 1 | Qual seu grau de experiência com a plataforma Ingresso EEAR? | [ ] Muito experiente <br>[ ] Experiente<br>[ ] Neutro <br>[ ] Inexperiente<br>[ ] Muito inexperiente <br>|
-| 2 | Avalie o grau de dificuldade na execução das tarefas | [ ] Muito difícil <br>[ ] Difícil<br>[ ] Neutro <br>[ ] Fácil<br>[ ] Muito fácil <br> |
+| 1 | Em uma escala de 1 a 5, onde 1 equivale a muito inexperiente e 5 a muito experiente, qual é seu grau de experiência com a plataforma Ingresso EEAR? | 5 - Muito experiente <br>4 - Experiente<br>3 - Neutro <br>2 - Inexperiente<br>1 - Muito inexperiente <br>|
+| 2 | Em uma escala de 1 a 5, onde 1 equivale a muito fácil e 5 a muito difícil, avalie o grau de dificuldade na execução das tarefas | 5 - Muito difícil <br>4 - Difícil<br>3 - Neutro <br>2 - Fácil<br>1 - Muito fácil <br> |
 | 3 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta discursiva|
 
-
+&emsp;&emsp;A pergunta número 1 deverá ser feita antes do inicio da interação e as demais após o término.
 ## Consolidação dos resultados
 &emsp;&emsp;Aqui os avaliadores verificam quais problemas não puderam ser resolvidos no reprojeto rápido do protótipo de interface e sugerem propostas de correção desses problemas ou de caminhos que podem ser explorados para melhorar a interface. Além disso, o avaliador deve definir a hierarquia e severidade dos erros, para auxíliar na posterio correção.
 
 ## Relato dos Resultados
-&emsp;&emsp;Nesta etapa os avaliadores devem comunicar aos interessados:
+&emsp;&emsp;Nesta etapa os avaliadores devem documentar:
 
 - Os objetivos da avaliação;
 - Uma breve descrição do método de prototipação em papel;
@@ -119,3 +121,4 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 |1.1|23/04/2021|Modificação da introdução| Denys | 
 |1.2|29/04/2021|Ajuste geral no documento| Daniel B. | 
 |1.3|29/04/2021|Melhorias dos tópicos| Daniel P.|
+|1.4|29/04/2021|Melhoria do termo de consentimento e ajustes após o teste piloto| Daniel P.|
