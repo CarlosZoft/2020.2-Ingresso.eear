@@ -1,7 +1,7 @@
 # Planejamento do protótipo de papel
 
 ## Introdução
-&emsp;&emsp;É inegável que o uso de protótipos durante a ativade de design é de extrema importância para consolidação de ideias e correção das ideias do projeto. Dito isto, estaremos utilizando o método de Prototipação de Papel para a avaliação devido ao seu baixo custo e rapidez. O método de prototipação em papel avalia a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Abaixo, apresentamos o planejamento da avaliação que usará o protótipo de papel.<br>
+&emsp;&emsp;É inegável que o uso de protótipos durante a atividade de design é de extrema importância para consolidação de ideias e correção das ideias do projeto. Dito isto, estaremos utilizando o método de Prototipação de Papel para a avaliação devido ao seu baixo custo e rapidez. O método de prototipação em papel avalia a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Abaixo, apresentamos o planejamento da avaliação que usará o protótipo de papel.<br>
 
 ## Metodologia
 &emsp;&emsp;No nosso projeto, a metodologia a ser utilizada será a metodologia de avaliação para prototipação em papel, que foi extraída diretamente do livro de IHC de Simone Barbosa e Bruno Silva. Esse método consiste em 4 fases diferentes: Preparação, Coleta e Interpretação de Dados, Consolidação dos Resultados e Relato dos Resultados. Devido a situação atual da pandemia, a metodologia será aplicada à distância através de uma chamada online com compartilhamento de tela. <br>
@@ -15,11 +15,12 @@
  
 ## Termo de Consentimento
 &emsp;&emsp;Somos alunos de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface de um site e sugerir melhorias segundo às normas de IHC. <br>
-&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado no protótipo de papel e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista: <br>
-- Os dados coletados durante a entrevista destinam-se estritamente a atividades relacionadas à disciplina;
-- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A entrevista será gravada e divulgada na GitHub Pages do grupo.
-- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
-- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado no protótipo de papel e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista:
+
+- Os dados coletados durante a entrevista destinam-se estritamente a atividades relacionadas à disciplina;<br>
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A entrevista será gravada e divulgada na GitHub Pages do grupo.<br>
+- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.<br>
+- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.<br>
 - A entrevista terá duração entre 5 a 10 minutos.
 
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: <br>
@@ -37,32 +38,7 @@ Não consinto com a sua realização.
 
 ### Protótipos em Papel
 
-![Area do Candidato](../../assets/imagens/prototipo-de-papel/areaDoCandidato.jpg)
-<center>Figura 1: Área do Candidato</center>
-
-![Exame](../../assets/imagens/prototipo-de-papel/exame.jpg)
-<center>Figura 2: Exame</center>
-
-![Exame Logado](../../assets/imagens/prototipo-de-papel/exameLogado.jpg)
-<center>Figura 3: Exame Logado</center>
-
-![Exames Disponíveis](../../assets/imagens/prototipo-de-papel/examesDisponiveis.jpg)
-<center>Figura 4: Exames Disponíveis</center>
-
-![Formulario](../../assets/imagens/prototipo-de-papel/formulario.jpg)
-<center>Figura 5: Formulário</center>
-
-![Home](../../assets/imagens/prototipo-de-papel/home.jpg)
-<center>Figura 6: Home</center>
-
-![Login](../../assets/imagens/prototipo-de-papel/login.jpg)
-<center>Figura 7: Login</center>
-
-![Meus Exames](../../assets/imagens/prototipo-de-papel/meusExames.jpg)
-<center>Figura 8: Meus Exames</center>
-
-![Todos os Exames](../../assets/imagens/prototipo-de-papel/todosExames.jpg)
-<center>Figura 9: Todos os Exames</center>
+- Inserir as imagens aqui
 
 ### Teste piloto
 &emsp;&emsp;Será feito um teste piloto para avaliar se o planejamento está adequado, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
@@ -82,6 +58,7 @@ Não consinto com a sua realização.
 
 ## Relato dos Resultados
 &emsp;&emsp;Nesta etapa os avaliadores devem comunicar aos interessados:
+
 - Os objetivos da avaliação;
 - Uma breve descrição do método de prototipação em papel;
 - O número e o perfil de avaliadores e dos participantes;
@@ -107,5 +84,5 @@ Não consinto com a sua realização.
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
 |1.0|23/04/2021|Abertura do documento| Daniel B., Denys, Yan |
-|1.1|23/04/2021|Modicação da introdução| Denys | 
-|1.2|29/04/2021|Ajuste geral no documento| Daniel B. | 
+|1.1|23/04/2021|Modificação da introdução| Denys | 
+|1.|29/04/2021|Ajuste geral no documento| Daniel B. | 
