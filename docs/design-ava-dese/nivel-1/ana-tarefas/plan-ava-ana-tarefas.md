@@ -52,7 +52,7 @@
 - 9 Visualizar as informações do Concurso.
 
 ### Teste Piloto
-&emsp;&emsp;O presente teste piloto foi realizado com o untuito de identificar e corrigir potenciais erros no planejamento da avaliação.
+&emsp;&emsp;O presente teste piloto foi realizado com o intuito de identificar e corrigir potenciais erros no planejamento da avaliação.
 
 - [Teste Piloto](./resultados/teste-piloto-ana.md)
 ## Coleta de Dados
