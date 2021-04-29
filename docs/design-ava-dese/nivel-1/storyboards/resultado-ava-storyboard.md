@@ -15,8 +15,9 @@
 - A entrevista terá duração entre 5 a 10 minutos.
 
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: <br>
-Dou meu consentimento para a sua realização.<br> 
-Não consinto com a sua realização.
+
+- Dou meu consentimento para a sua realização.<br> 
+- Não consinto com a sua realização.
 
 ## Objetivo da avaliação
 &emsp;&emsp;O Relato dos resultados tem como objetivo saber se o storyboard elaborado pela equipe está de acordo com o que se espera com qualidade e clareza.<br>

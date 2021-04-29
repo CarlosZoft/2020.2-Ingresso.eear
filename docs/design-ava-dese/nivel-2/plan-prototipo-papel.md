@@ -24,8 +24,9 @@
 - A entrevista terá duração entre 5 a 10 minutos.
 
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: <br>
-Dou meu consentimento para a sua realização.<br> 
-Não consinto com a sua realização.
+
+- Dou meu consentimento para a sua realização.<br> 
+- Não consinto com a sua realização.
 
 ## Preparação
 
@@ -38,7 +39,32 @@ Não consinto com a sua realização.
 
 ### Protótipos em Papel
 
-- Inserir as imagens aqui
+![Area do Candidato](../../assets/imagens/prototipo-de-papel/areaDoCandidato.jpg)
+<center>Figura 1: Área do Candidato</center>
+
+![Exame](../../assets/imagens/prototipo-de-papel/exame.jpg)
+<center>Figura 2: Exame</center>
+
+![Exame Logado](../../assets/imagens/prototipo-de-papel/exameLogado.jpg)
+<center>Figura 3: Exame Logado</center>
+
+![Exames Disponíveis](../../assets/imagens/prototipo-de-papel/examesDisponiveis.jpg)
+<center>Figura 4: Exames Disponíveis</center>
+
+![Formulario](../../assets/imagens/prototipo-de-papel/formulario.jpg)
+<center>Figura 5: Formulário</center>
+
+![Home](../../assets/imagens/prototipo-de-papel/home.jpg)
+<center>Figura 6: Home</center>
+
+![Login](../../assets/imagens/prototipo-de-papel/login.jpg)
+<center>Figura 7: Login</center>
+
+![Meus Exames](../../assets/imagens/prototipo-de-papel/meusExames.jpg)
+<center>Figura 8: Meus Exames</center>
+
+![Todos os Exames](../../assets/imagens/prototipo-de-papel/todosExames.jpg)
+<center>Figura 9: Todos os Exames</center>
 
 ### Teste piloto
 &emsp;&emsp;Será feito um teste piloto para avaliar se o planejamento está adequado, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
@@ -85,4 +111,4 @@ Não consinto com a sua realização.
 |:-:|--|--|--|
 |1.0|23/04/2021|Abertura do documento| Daniel B., Denys, Yan |
 |1.1|23/04/2021|Modificação da introdução| Denys | 
-|1.|29/04/2021|Ajuste geral no documento| Daniel B. | 
+|1.2|29/04/2021|Ajuste geral no documento| Daniel B. | 
