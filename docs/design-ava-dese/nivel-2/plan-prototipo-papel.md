@@ -37,13 +37,39 @@ Serão convidadas pessoas que possuam características semelhantes dos usuários
 
 ### Protótipos em Papel
 
-- Inserir as imagens aqui
+![Area do Candidato](../../assets/imagens/prototipo-de-papel/areaDoCandidato.jpg)
+<center>Figura 1: Área do Candidato</center>
+
+![Exame](../../assets/imagens/prototipo-de-papel/exame.jpg)
+<center>Figura 2: Exame</center>
+
+![Exame Logado](../../assets/imagens/prototipo-de-papel/exameLogado.jpg)
+<center>Figura 3: Exame Logado</center>
+
+![Exames Disponíveis](../../assets/imagens/prototipo-de-papel/examesDisponiveis.jpg)
+<center>Figura 4: Exames Disponíveis</center>
+
+![Formulario](../../assets/imagens/prototipo-de-papel/formulario.jpg)
+<center>Figura 5: Formulário</center>
+
+![Home](../../assets/imagens/prototipo-de-papel/home.jpg)
+<center>Figura 6: Home</center>
+
+![Login](../../assets/imagens/prototipo-de-papel/login.jpg)
+<center>Figura 7: Login</center>
+
+![Meus Exames](../../assets/imagens/prototipo-de-papel/meusExames.jpg)
+<center>Figura 8: Meus Exames</center>
+
+![Todos os Exames](../../assets/imagens/prototipo-de-papel/todosExames.jpg)
+<center>Figura 9: Todos os Exames</center>
 
 ### Teste piloto
 Será feito um teste piloto para avaliar se o planejamento está adequado, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
 
 ## Coleta e Interpretação de Dados
 &emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário. Foi feito o seguinte roteiro de perguntas para auxiliar o entrevistador na coleta e interpretação de dados:
+
 | Número | <center>Pergunta | <center>Opções de resposta |
 |:---:|:----------|:-------------------|
 | 1 | Qual seu grau de experiência com a plataforma Ingresso EEAR? | [ ] Muito experiente <br>[ ] Experiente<br>[ ] Neutro <br>[ ] Inexperiente<br>[ ] Muito inexperiente <br>|
