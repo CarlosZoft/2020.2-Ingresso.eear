@@ -6,7 +6,7 @@
 
 ### Termo de consentimento
 &emsp;&emsp;Somos alunos de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface de um site e sugerir melhorias segundo às normas de IHC. <br>
-&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado no protótipo de papel e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista: <br>
+&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado nos storyboards e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista: <br>
 - Os dados coletados durante a entrevista destinam-se estritamente a atividades relacionadas à disciplina;
 - Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documento que elaborarmos.
 - O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.

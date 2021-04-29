@@ -33,7 +33,7 @@ Não consinto com a sua realização.
 - Acompanhar a inscrição
 
 ### Perfil dos Participantes
-Serão convidadas pessoas que possuam características semelhantes dos usuários do ingresso EEAR para serem entrevistados.
+&emsp;&emsp;Serão convidadas pessoas que possuam um perfil semelhante a das personas e usuários do Ingresso EEAR para serem entrevistados.
 
 ### Protótipos em Papel
 
@@ -65,7 +65,7 @@ Serão convidadas pessoas que possuam características semelhantes dos usuários
 <center>Figura 9: Todos os Exames</center>
 
 ### Teste piloto
-Será feito um teste piloto para avaliar se o planejamento está adequado, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
+&emsp;&emsp;Será feito um teste piloto para avaliar se o planejamento está adequado, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
 
 ## Coleta e Interpretação de Dados
 &emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário. Foi feito o seguinte roteiro de perguntas para auxiliar o entrevistador na coleta e interpretação de dados:
@@ -108,4 +108,4 @@ Será feito um teste piloto para avaliar se o planejamento está adequado, e ana
 |:-:|--|--|--|
 |1.0|23/04/2021|Abertura do documento| Daniel B., Denys, Yan |
 |1.1|23/04/2021|Modicação da introdução| Denys | 
-|1.2|29/04/2021|Ajuste geral no documento| Daniel B. | 
+|1.|29/04/2021|Ajuste geral no documento| Daniel B. | 
