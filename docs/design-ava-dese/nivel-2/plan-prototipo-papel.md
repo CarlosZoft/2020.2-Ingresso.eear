@@ -6,32 +6,56 @@
 ## Metodologia
 &emsp;&emsp;No nosso projeto, a metodologia a ser utilizada será a metodologia de avaliação para prototipação em papel, que foi extraída diretamente do livro de IHC de Simone Barbosa e Bruno Silva. Esse método consiste em 4 fases diferentes: Preparação, Coleta e Interpretação de Dados, Consolidação dos Resultados e Relato dos Resultados. Devido a situação atual da pandemia, a metodologia será aplicada à distância através de uma chamada online com compartilhamento de tela. <br>
 
-### Preparação
-&emsp;&emsp;Na etapa de preparação, além do material de apoio elaborado na maioria das avaliações com usuários, o avaliador deve elaborar protótipos em papel.<br>
-&emsp;&emsp;Sendo assim, nessa etapa o avaliador deve:
+| Atividade | <center>Tarefas |
+|:---:|:----------|
+| Preparação | <ul><li>Definir tarefas para os participantes executarem</li> <li>Definir o perfil dos participantes e recrutá-los</li><li>Criar protótipos em papel da interface para executar as tarefas</li><li>Executar um teste-piloto</li></ul> |
+| Coleta e Interpretação de Dados | <ul><li>Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador</li><li>O avaliador deve listar os problemas encontrados; e refinar os protótipos em papel para resolver os problemas mais simples</li> </ul> |
+| Consolidação dos Resultados | <ul><li>Priorizar a correção dos problemas não resolvidos</li><li>Sugerir correções</li> </ul> |
+| Relato dos Resultados | <ul><li>Relatar os problemas encontrados e sugestões de correção</li> </ul> |
+ 
+## Termo de Consentimento
+&emsp;&emsp;Somos alunos de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface de um site e sugerir melhorias segundo às normas de IHC. <br>
+&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado no protótipo de papel e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista: <br>
+- Os dados coletados durante a entrevista destinam-se estritamente a atividades relacionadas à disciplina;
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A entrevista será gravada e divulgada na GitHub Pages do grupo.
+- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+- A entrevista terá duração entre 5 a 10 minutos.
 
-- Definir tarefas para os participantes executarem;
-- Definir o perfil dos participantes e recrutá-los;
-- Criar protótipos em papel da interface para executar as tarefas;
-- Executar um teste-piloto.
+De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: <br>
+Dou meu consentimento para a sua realização.<br> 
+Não consinto com a sua realização.
 
-### Coleta e Interpretação de Dados
-&emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário.<br>
-&emsp;&emsp;Sendo assim, nessa etapa é necessário que:
+## Preparação
 
-- Cada usuário execute as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador;
-- O avaliador liste os problemas encontrados e refine os protótipos em papel para resolver os problemas mais simples.
+### Tarefas
+- Realizar a inscrição em um concurso
+- Acompanhar a inscrição
 
-### Consolidação dos Resultados
-&emsp;&emsp;Na atividade de consolidação dos resultados, os avaliadores verificam quais problemas não puderam ser resolvidos no reprojeto rápido do protótipo de interface e sugerem propostas de correção desses problemas ou de caminhos que podem ser explorados para melhorar a interface.<br>
-&emsp;&emsp;Sendo assim, nessa etapa será necessário:
+### Perfil dos Participantes
+Serão convidadas pessoas que possuam características semelhantes dos usuários do ingresso EEAR para serem entrevistados.
 
-- Priorizar a correção dos problemas não resolvidos;
-- Sugerir correções.
+### Protótipos em Papel
 
-### Relato dos resultados
-&emsp;&emsp;No relato dos resultados, os avaliadores devem comunicar aos interessados:<br>
+- Inserir as imagens aqui
 
+### Teste piloto
+Será feito um teste piloto para avaliar se o planejamento está adequado, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
+
+## Coleta e Interpretação de Dados
+&emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário. Foi feito o seguinte roteiro de perguntas para auxiliar o entrevistador na coleta e interpretação de dados:
+| Número | <center>Pergunta | <center>Opções de resposta |
+|:---:|:----------|:-------------------|
+| 1 | Qual seu grau de experiência com a plataforma Ingresso EEAR? | [ ] Muito experiente <br>[ ] Experiente<br>[ ] Neutro <br>[ ] Inexperiente<br>[ ] Muito inexperiente <br>|
+| 2 | Avalie o grau de dificuldade na execução das tarefas | [ ] Muito difícil <br>[ ] Difícil<br>[ ] Neutro <br>[ ] Fácil<br>[ ] Muito fácil <br> |
+| 3 | Alguma sugestão de melhoria para a realização das tarefas? | Pergunta discursiva|
+
+
+## Consolidação dos resultados
+&emsp;&emsp;Aqui os avaliadores verificam quais problemas não puderam ser resolvidos no reprojeto rápido do protótipo de interface e sugerem propostas de correção desses problemas ou de caminhos que podem ser explorados para melhorar a interface.
+
+## Relato dos Resultados
+&emsp;&emsp;Nesta etapa os avaliadores devem comunicar aos interessados:
 - Os objetivos da avaliação;
 - Uma breve descrição do método de prototipação em papel;
 - O número e o perfil de avaliadores e dos participantes;
@@ -49,8 +73,6 @@
     - Prioridade para correção;
     - Sugestões de correção;
     - Indicações de partes do sistema que podem ser mais bem elaboradas.
- 
-## Resultados
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
@@ -60,3 +82,4 @@
 |:-:|--|--|--|
 |1.0|23/04/2021|Abertura do documento| Daniel B., Denys, Yan |
 |1.1|23/04/2021|Modicação da introdução| Denys | 
+|1.2|29/04/2021|Ajuste geral no documento| Daniel B. | 
