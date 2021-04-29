@@ -8,11 +8,11 @@
 </p>
 
 | Atividade | Tarefa |
-|:--|:---|
-| Preparação | <ul><li>Definir tarefas para os participantes executarem</li><li>Definir o perfil dos participantes e recrutá-los</li><li>Criar protótipo de alta fidelidade para executar as tarefas</li><li>Executar um teste-piloto</li></ul> |
-| Coleta de dados & Interpretação |  <ul><li>Cada usuário deve executar as tarefas propostas interagindo com o protótipo de alta fidelidade, mediado pelo avaliador</li><li>O avaliador deve listar os problemas encontrados; e refinar o protótipo para resolver mais simples</li> </ul> |
-| Consolidação dos resultados | Priorizar a correção dos problemas não resolvidos sugerir correções |
-| Relato dos resultados | Relatar os problemas encontrados e sugestões de correção |
+|--|--|
+| Preparação |Definir tarefas para os participantes executarem<br> Definir o perfil dos participantes e recrutá-los<br>Criar protótipo de alta fidelidade para executar as tarefas<br>Executar um teste-piloto<br> |
+| Coleta de dados & Interpretação | Cada usuário deve executar as tarefas propostas interagindo com o protótipo de alta fidelidade, mediado pelo avaliador<br> O avaliador deve listar os problemas encontrados; e refinar o protótipo para resolver mais simples<br>|
+| Consolidação dos resultados<br> | Priorizar a correção dos problemas não resolvidos sugerir correções<br> |
+| Relato dos resultados<br> | Relatar os problemas encontrados e sugestões de correção<br> |
 </br>
 ## Termo de consentimento
 &emsp;&emsp;Somos alunos de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface de um site e sugerir melhorias segundo às normas de IHC. <br>
@@ -33,13 +33,15 @@ Não consinto com a sua realização.
 - Acompanhar inscrição
 
 #### Perfil dos convidados
-&emsp;&emsp;Para essa atividade, buscaremos trazer alguns perfis próximos aos levantados nas personas, mais especificamente o da segunda persona primária (Alberto da Silva). O motivo dessa escolha é justamente a familiaridade prévia com a plataforma Ingresso EEAR.
+&emsp;&emsp;Para essa atividade, buscaremos trazer alguns perfis próximos aos levantados nas personas.
 
 #### Teste Piloto
-&emsp;&emsp;O objetivo do teste piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder as questões e objetivos do estudo.
+&emsp;&emsp;O objetivo do teste piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder as questões e objetivos do estudo. 
+
+&emsp;&emsp;O teste piloto não foi realizado por causa da última entrega onde diversas sugestões de mudanças foram levantadas pelo professor e pelos monitores. 
 
 #### Protótipos de Alta Fidelidade
-&emsp;&emsp;Esses são os protótipos de alta fidelidade feitos na plataforma [Figma](https://www.figma.com/) que definimos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Ingresso EEAR.
+&emsp;&emsp;O protótipo de alta fidelidade não foi realizado ainda por causa do imprevisto relatado no tópico anterior. Iremos utilizar a ferramenta [Figma](https://www.figma.com/) para a elaboração dos protótipos de alta fidelidade, previamente definidos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Ingresso EEAR.
 
 
 ## Versionamento
@@ -47,3 +49,4 @@ Não consinto com a sua realização.
 |:-:|--|--|--|
 |1.0|27/04/2021|Abertura do documento| Todos Integrantes |
 |1.1|28/04/2021|Adição dos tópicos Introdução, Metodologia, Termo de consentimento, Preparação | Bruno, Denys e Yan |
+|1.1.0| 28/04/2021 |Correção de pequenos erros | Yan |
