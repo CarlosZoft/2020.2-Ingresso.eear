@@ -14,18 +14,21 @@
 | Consolidação dos resultados<br> | Priorizar a correção dos problemas não resolvidos sugerir correções<br> |
 | Relato dos resultados<br> | Relatar os problemas encontrados e sugestões de correção<br> |
 </br>
+
 ## Termo de consentimento
 &emsp;&emsp;Somos alunos de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface de um site e sugerir melhorias segundo às normas de IHC. <br>
-&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado no protótipo de alta fidelidade e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista: <br>
+&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado no protótipo de alta fidelidade e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista:
+
 - Os dados coletados durante a entrevista destinam-se estritamente a atividades relacionadas à disciplina;
-- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A entrevista será gravada e divulgada na GitHub Pages do grupo.
-- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A entrevista será gravada e divulgada na GitHub Pages do grupo;
+- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa;
 - A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
 - A entrevista terá duração entre 5 a 10 minutos.
 
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: <br>
-Dou meu consentimento para a sua realização.<br> 
-Não consinto com a sua realização.
+
+- Dou meu consentimento para a sua realização;
+- Não consinto com a sua realização.
 
 ## Preparação
 #### Tarefas
