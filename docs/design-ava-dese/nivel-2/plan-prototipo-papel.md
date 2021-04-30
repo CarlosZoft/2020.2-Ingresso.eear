@@ -14,7 +14,7 @@
 | Relato dos Resultados | Relatar os problemas encontrados e sugestões de correção |
  
 ## Termo de Consentimento
-&emsp;&emsp;Visando uma maio lisura de todo o processo, os participantes convidados para a avalição terão que concorda com o seguinte termo:
+&emsp;&emsp;Visando uma maior lisura de todo o processo, os participantes convidados para a avalição terão que concordar com o seguinte termo:
 
 &emsp;&emsp;Somos Estudantes de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface da plataforma Ingresso.EEAR e sugerir melhorias segundo às normas de IHC. <br>
 &emsp;&emsp;O objetivo desta avaliação é analisar o fluxo de atividades apresentado no protótipo de papel desenvolvido pela equipe e fornecer possíveis sugestões de melhoria para o mesmo. Por isso, o presente termo visa solicitar o seu consentimento para a realziação dessa avaliação. Sendo assim, e para decidir sobre o seu consentimento, é importante que conheça as seguintes informações sobre a entrevista:

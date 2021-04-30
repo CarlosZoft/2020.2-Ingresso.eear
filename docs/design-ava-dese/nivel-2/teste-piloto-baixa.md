@@ -6,7 +6,7 @@
 ## Aplicação
 &emsp;&emsp;Para a aplicação do teste, a equipe simulou uma aplicação conforme a metodologia planejada previamente. o teste foi realizado com um dos integrantes da equipe se colocando no lugar do usuário e sendo guiado por outro integrante da equipe.<br>
 &emsp;&emsp;O vídeo a seguir mostra como se desenvolveu a aplicação do teste piloto.<br>
-<iframe width="1246" height="701" src="https://www.youtube.com/embed/vEMQUYVpMNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/vEMQUYVpMNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusão
 &emsp;&emsp;Alguns aspectos e detalhes foram detectados no teste piloto e foram corrigidos para a aplicação oficial da avaliação.<br> 
