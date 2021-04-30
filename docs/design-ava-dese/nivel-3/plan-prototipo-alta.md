@@ -1,10 +1,10 @@
 ## Introdução
 &emsp;&emsp;Este documento tem como objetivo elaborar e estruturar o planejamento do protótipo de alta fidelidade. Um protótipo de alta fidelidade é uma representação interativa do produto, já apresentando uma maior semelhança com o design final em termos de detalhes e funcionalidade.
 
-&emsp;&emsp;Durante todo o semestre estudamos e avaliamos o site <strong>Ingresso.EEAR</strong>, aplicando todo o conteúdo da disciplin, é justamente no protótipo de alta fidelidade que culminaremos tudo examinado na plataforma.
+&emsp;&emsp;Durante todo o semestre estudamos e avaliamos o site <strong>Ingresso.EEAR</strong>, aplicando todo o conteúdo da disciplina, é justamente no protótipo de alta fidelidade que culminaremos tudo examinado na plataforma.
 
 ## Metodologia
-&emsp;&emsp;Estaremos usandoa seguinte tabela para fazer a divisão da preparação do prototípo de alta fidelidade:
+&emsp;&emsp;Estaremos usando a seguinte tabela para fazer a divisão da preparação do prototípo de alta fidelidade:
 </p>
 
 | Atividade | Tarefa |
