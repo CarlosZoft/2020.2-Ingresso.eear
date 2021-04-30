@@ -43,7 +43,7 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 #### Teste Piloto
 &emsp;&emsp;O objetivo do teste piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder as questões e objetivos do estudo. 
 
-&emsp;&emsp;O teste piloto não foi realizado, por causa da última entrega onde diversas sugestões de mudanças foram levantadas pelo professor e pelos monitores. 
+&emsp;&emsp;O teste piloto ainda não foi realizado, por causa de imprevistos que atrasaram a avaliação do protótipo de baixa fidelidade acarretando na impossibilidade do desenvolvimento do protótipo de alta fidelidade. 
 
 #### Protótipo de Alta Fidelidade
 &emsp;&emsp;Iremos utilizar a ferramenta [Figma](https://www.figma.com/) para a elaboração dos protótipos de alta fidelidade, previamente definidos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Ingresso EEAR.
@@ -79,7 +79,8 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
     - Sugestões de correção;
     - Partes do sistema que podem ser mais bem elaboradas.
 
-
+## Bibliografia
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
 
 ## Versionamento
 |Versão|Data|Modificação|Autor|
