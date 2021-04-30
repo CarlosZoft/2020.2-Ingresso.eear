@@ -19,7 +19,7 @@
 
 &emsp;&emsp;Somos Estudantes de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface da plataforma Ingresso.EEAR e sugerir melhorias segundo às normas de IHC.
 
-&emsp;&emsp;O objetivo desta avaliação é analisar o fluxo de atividades apresentado no protótipo de alta fidelidade desenvolvido pela equipe e fornecer possíveis sugestões de melhoria para o mesmo. Por isso, o presente termo visa solicitar o seu consentimento para a realziação dessa avaliação. Sendo assim, e para decidir sobre o seu consentimento, é importante que conheça as seguintes informações sobre a entrevista:
+&emsp;&emsp;O objetivo desta avaliação é analisar o fluxo de atividades apresentado no protótipo de alta fidelidade desenvolvido pela equipe e fornecer possíveis sugestões de melhoria para o mesmo. Por isso, o presente termo visa solicitar o seu consentimento para a realização dessa avaliação. Sendo assim, e para decidir sobre o seu consentimento, é importante que conheça as seguintes informações sobre a entrevista:
 
 - Os dados coletados durante a entrevista destinam-se estritamente à atividades relacionadas à disciplina;<br>
 - Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para os responsávei pela plataforma em estudo. A entrevista será gravada e divulgada na GitHub Pages do grupo.<br>
