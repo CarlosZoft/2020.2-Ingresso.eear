@@ -5,9 +5,19 @@
 &emsp;&emsp;Para verificar o Storyboard levantamos um roteiro de perguntas anteriormente no planejamento. Então, decidimos utilizar como técnica, previamente o teste-piloto para detectar erros e posteriormente utilizamos o método da entrevista.<br>
 
 ### Termo de consentimento
-![Termo de Consentimento](../../../assets/imagens/storyboard/termodeconssentimento.png)
-<center>Figura 1: Termo de consentimento</center>
-<center>Fonte: Autor</center>
+&emsp;&emsp;Somos alunos de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface de um site e sugerir melhorias segundo às normas de IHC. <br>
+&emsp;&emsp;O objetivo desta entrevista é analisar o fluxo de atividades apresentado nos storyboards e fornecer possíveis sugestões de melhoria para os mesmos. Estamos realizando uma série de entrevistas, e solicitamos seu consentimento para a realização de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a entrevista: <br>
+
+- Os dados coletados durante a entrevista destinam-se estritamente a atividades relacionadas à disciplina;
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documento que elaborarmos.
+- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+- A entrevista terá duração entre 5 a 10 minutos.
+
+De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: <br>
+
+- Dou meu consentimento para a sua realização.<br> 
+- Não consinto com a sua realização.
 
 ## Objetivo da avaliação
 &emsp;&emsp;O Relato dos resultados tem como objetivo saber se o storyboard elaborado pela equipe está de acordo com o que se espera com qualidade e clareza.<br>
