@@ -46,9 +46,11 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 &emsp;&emsp;O teste piloto ainda não foi realizado, por causa de imprevistos que atrasaram a avaliação do protótipo de baixa fidelidade acarretando na impossibilidade do desenvolvimento do protótipo de alta fidelidade. 
 
 #### Protótipo de Alta Fidelidade
-&emsp;&emsp;Iremos utilizar a ferramenta [Figma](https://www.figma.com/) para a elaboração dos protótipos de alta fidelidade, previamente definidos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Ingresso EEAR.
+&emsp;&emsp;Iremos utilizar a ferramenta [Figma](https://www.figma.com/) para a elaboração dos protótipos de alta fidelidade, previamente definidos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Ingresso EEAR.<br>
+&emsp;&emsp;Para a elaboração do protótipo de alta fidelidade, a equipe levou em consideração os resultados da avaliação da [protitipação de baixa fidelidade](../nivel-2/resultado-prot-papel.md) bem como os padrões utilizados nos [sites da Força Aérea Brasileira](https://www.fab.mil.br/index.php), mesclando conceitos e elementos positivos, do ponto de vista de IHC, de ambos.<br>
+&emsp;&emsp;A seguir está o protótipo de alta fidelidade final.
 
-&emsp;&emsp;O protótipo de alta fidelidade não foi realizado ainda por causa do imprevisto relatado no tópico anterior.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FxLr41ViZi2XnJqkWKG4WlV%2FIngresso.EEAR-Alta-fidelidade%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ## Coleta e Interpretação de Dados
 &emsp;&emsp;A coleta de dados deve ser realizada por pelo menos dois avaliadores: um responsável por auxiliar o participante com a utilização da plataforma que simulará o sistema e outro por observar a experiência de uso. Como durante a simulação de uso existe pelo menos um avaliador responsável pela observação, ele pode começar a interpretar os dados da experiência de uso enquanto observa a atuação do usuário.
