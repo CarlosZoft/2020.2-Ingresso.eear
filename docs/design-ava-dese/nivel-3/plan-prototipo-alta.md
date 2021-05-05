@@ -19,15 +19,15 @@
 
 &emsp;&emsp;Somos Estudantes de Engenharia de Software, da Universidade de Brasília, e estamos cursando a disciplina de Interação Humano-Computador, ministrada pelo professor Dr. André Barros de Sales. Estamos realizando um projeto que tem como objetivo identificar problemas na interface da plataforma Ingresso.EEAR e sugerir melhorias segundo às normas de IHC.
 
-&emsp;&emsp;O objetivo desta avaliação é analisar o fluxo de atividades apresentado no protótipo de alta fidelidade desenvolvido pela equipe e fornecer possíveis sugestões de melhoria para o mesmo. Por isso, o presente termo visa solicitar o seu consentimento para a realização dessa avaliação. Sendo assim, e para decidir sobre o seu consentimento, é importante que conheça as seguintes informações sobre a entrevista:
+&emsp;&emsp;O objetivo desta avaliação é analisar o fluxo de atividades apresentado no protótipo de alta fidelidade desenvolvido pela equipe e fornecer possíveis sugestões de melhoria para o mesmo. Por isso, o presente termo visa solicitar o seu consentimento para a realização dessa avaliação. Sendo assim, e para decidir sobre o seu consentimento, é importante que conheça as seguintes informações sobre a avaliação:
 
-- Os dados coletados durante a entrevista destinam-se estritamente à atividades relacionadas à disciplina;<br>
-- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para os responsávei pela plataforma em estudo. A entrevista será gravada e divulgada na GitHub Pages do grupo.<br>
-- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.<br>
-- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.<br>
-- A entrevista terá duração entre 5 a 15 minutos.
+- Os dados coletados durante a avaliação destinam-se estritamente à atividades relacionadas à disciplina;<br>
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para os responsávei pela plataforma em estudo. A avaliação será gravada e divulgada na GitHub Pages do grupo.<br>
+- O consentimento para a avaliação é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.<br>
+- A avaliação pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.<br>
+- A avaliação terá duração entre 5 a 15 minutos.
 
-De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: <br>
+De posse dessas informações, gostaríamos que você se pronunciasse acerca da avaliação: <br>
 
 - Dou meu consentimento para a sua realização.<br> 
 - Não consinto com a sua realização.
@@ -43,7 +43,7 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 #### Teste Piloto
 &emsp;&emsp;O objetivo do teste piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder as questões e objetivos do estudo. 
 
-&emsp;&emsp;O teste piloto ainda não foi realizado, por causa de imprevistos que atrasaram a avaliação do protótipo de baixa fidelidade acarretando na impossibilidade do desenvolvimento do protótipo de alta fidelidade. 
+- [O teste piloto pode ser acessado por aqui](./teste-piloto-alta.md)
 
 #### Protótipo de Alta Fidelidade
 &emsp;&emsp;Iremos utilizar a ferramenta [Figma](https://www.figma.com/) para a elaboração dos protótipos de alta fidelidade, previamente definidos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Ingresso EEAR.<br>
@@ -91,3 +91,4 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 |1.1|28/04/2021|Adição dos tópicos Introdução, Metodologia, Termo de consentimento, Preparação | Bruno, Denys e Yan |
 |1.1.0| 28/04/2021 |Correção de pequenos erros | Yan |
 |1.2| 30/04/2021 |Finalizando o planejamento | Bruno, Daniel B., Yan |
+|1.3| 04/05/2021 | Ajustando a termo de consentimento e incluindo o teste piloto| Daniel P. |
