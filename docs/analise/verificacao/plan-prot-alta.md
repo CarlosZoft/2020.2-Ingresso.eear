@@ -11,9 +11,9 @@
 ### Legenda 
 
 |Símbolo|Descrição|
-|--|--|
-|OK|Contém|
-|X|Não Contém|
+|:-:|:-:|
+|✔|Sim|
+|✖|Não|
 
 ### Resultados:
 <!- Tabela com as respostas da perguntas pra cada verificação 
