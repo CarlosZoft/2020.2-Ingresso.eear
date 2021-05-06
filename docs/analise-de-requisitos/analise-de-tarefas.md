@@ -49,7 +49,7 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 
 #### Diagrama
 ![Acompanhar inscrição em concurso](../assets/imagens/hta/hta-t2.png)
-<center>Figura 3: Acompanhar Inscrição em Concurso</center>
+<center>Figura 3: Acompanhar Inscrição em Concurso<br>[Link para a imagem ampliada](https://user-images.githubusercontent.com/48573556/117336128-3b571680-ae72-11eb-9680-aceb591fedfc.png)</center>
 
 #### Tabela de Especificações
 | **Objetivos / Operações** | **Problemas e Recomendações** |
@@ -74,3 +74,4 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 17/03/2021 | Criação e desenvolvimento do documento | Bruno Félix e Daniel Barcelos |
+| 2.0 | 06/05/2021 | Correção da análise de tarefas após avaliação | Bruno Félix e Daniel Porto |
