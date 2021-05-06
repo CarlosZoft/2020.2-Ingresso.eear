@@ -48,18 +48,22 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 ### Tarefa 2: Acompanhar Inscrição em Concurso
 
 #### Diagrama
-![Acompanhar inscrição em concurso](../assets/imagens/analise_tarefa_2.jpg)
+![Acompanhar inscrição em concurso](../assets/imagens/hta/hta-t2.png)
 <center>Figura 3: Acompanhar Inscrição em Concurso</center>
 
 #### Tabela de Especificações
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 | --- | --- |
-| 0. Acompanhar Inscrição | <strong>Input: </strong> Acessar o concurso na área do candidato; <br> <strong>Feedback: </strong> Visualizar os dados do concurso na área do candidato; <br> <strong>Plano: </strong> Informar os dados do candidato inscrito  em um concurso e visualizar as informações sobre o mesmo. |
-| 1. Acessar o Site | <strong>Plano: </strong> Visualizar a área do candidato; <br> <strong>Problema: </strong> Site constantemente fica fora do ar. |
-| 1.1. Clicar em Área do Candidato | <strong>Feedback: </strong> Redireciona para a página da área do candidato; <br> <strong>Problema: </strong> Não visualizar os concursos sem ter feito busca de inscrições; <br> <strong>Recomendação: </strong> Mostrar os concursos disponíveis sem ter feito busca de inscrições; <br> <strong>Plano: </strong> Ter acesso a página de busca de inscrições. |
-| 1.2. Clicar em Local das Provas Escritas | <strong>Feedback: </strong> Redireciona para a página da área do candidato; <br> <strong>Problema: </strong> Não visualizar os concursos sem ter feito busca de inscrições; <br> <strong>Recomendação: </strong> Mostrar os concursos disponíveis sem ter feito busca de inscrições; <br> <strong>Plano: </strong> Ter acesso a página de busca de inscrições. |
-| 2. Busca de Inscrições | <strong>Input: </strong> Preencher nome, senha e CPF; <br> <strong>Feedback: </strong> Redirecionar para a página do candidato; <br> <strong>Plano: </strong> Acesso aos concursos; <br> <strong>Problema: </strong> A página insinua que é um login, mas na verdade busca inscrições com os inputs informados, sendo pouco intuitiva; <br> <strong>Recomendação: </strong> Deixar claro seu real funcionamento. |
-| 2.1. Selecionar Concurso em que está Inscrito | <strong>Plano: </strong> Acessar as informações do concurso em que o candidato está inscrito. | 
+| 0. Acompanhar Inscrição |**Plano:** Visualizar as informações sobre um concurso inscrito. |
+| 1. Realizar login 1>2|**Input:** Campos para dados do usuário e confirmação textual;<br>**Feedback:** Redirecionamento para a área do condidato;<br>**Plano:** Efetuar o login na plataforma.|
+| 1.1. Clicar em "Área do Candidato", "Locais de Provas Escritas" ou "Solicitação de Recursos"|**Problema:** Existem muitos fluxos redundantes;<br>**Recomendação 1:** Simplificar os fluxos;<br>**Recomendação 2:** Implementar persistência de dados.|
+| 1.2. Informar os Dados 1>3|**Plano:** Informar e-mail, senha, cpf e confirma o texto.|
+| 1.2.1. Informar os dados do Usuário||
+| 1.2.2. Informar o texto da Imagem|**Problema:** O texto que precisa ser confirmado pode ser facilmente copiado;<br>**Recomendação 1:** Implementar uma confirmação a partir de uma imagem real.|
+| 1.2.3 Clicar no botão Entrar||
+| 2. Visualizar Inscrições |**Feedback:** Redirecionamento para a página do exame selecionado;<br>**Plano:** Selecionar um exame para ver suas informações;<br>**Problema 1:** Não fica intuitivo como deve ser selecionado o exame;<br>**Problema 2:** A disposição dos exames não é organizada;<br>**Recomendação 1:** Separar os exames inscritos dos demais de forma que fique mais intuitivo e organizado.|
+| 2.1. Clicar em um Concurso Inscrito |**Plano:** Selecionar um concurso em que o candidato está inscrito para ter acesso as suas informações;<br> **Problema:** O acesso ao concurso é feito por links, porém não é claro se são links ou textos normais;<br> **Recomendação 1:** Acrescentar um botão de acesso para um redirecionamento claro e intuitivo.|
+| 3. Ver informações da inscrição |**Plano:** Visualizar todas as informações da inscrição no concurso;<br> **Problema:** Difícil visualização e entedimento das informações;<br> **Recomendação 1:** Ajustar design para visualização das informações.| 
 
 
 ## Bibliografia
