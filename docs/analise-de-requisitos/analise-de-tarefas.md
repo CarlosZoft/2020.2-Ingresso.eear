@@ -15,7 +15,7 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 </p>
 
 ## Diagramas HTA
-&emsp;&emsp;A seguir estão os diagrmas HTA para as duas principais tarefas do escopo do projeto. Para desenvolver esses diagramas, a equipe utilizou a ferramenta Draw.io, onde o diagrama pode ser acessado por [aqui](https://drive.google.com/file/d/1C6jShXGzmvCVfr7s83fJBNn9U08kIvQx/view?usp=sharing).
+&emsp;&emsp;A seguir estão os diagramas HTA para as duas principais tarefas do escopo do projeto. Para desenvolver esses diagramas, a equipe utilizou a ferramenta Draw.io, onde o diagrama pode ser acessado por [aqui](https://drive.google.com/file/d/1C6jShXGzmvCVfr7s83fJBNn9U08kIvQx/view?usp=sharing).
 
 ### Legenda
 ![Legenda](../assets/imagens/hta/hta-legenda.png)
@@ -31,7 +31,7 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 | --- | --- |
 | 0. Efetuar a Inscrição 1>3|**Input:** Formulário de Inscrição em exame;<br>**Feedback:** Consta como inscrito na área do candidato;<br>**Plano:** Informar dados do candidato e enviar confirmação da inscrição.|
-| 1. Realizar login 1>2|**Input:** Campos para dados do usuário e confirmação textual;<br>**Feedback:** Redirecionamento para a área do condidato;<br>**Plano:** Efetuar o login na plataforma.|
+| 1. Realizar login 1>2|**Input:** Campos para dados do usuário e confirmação textual;<br>**Feedback:** Redirecionamento para a área do candidato;<br>**Plano:** Efetuar o login na plataforma.|
 | 1.1. Clicar em "Efetuar Inscrição" ou em "Área do candidato"|**Problema:** Existem muitos fluxos redundantes;<br>**Recomendação 1:** Simplificar os fluxos;<br>**Recomendação 2:** Implementar persistência de dados.|
 | 1.2. Informar os Dados 1>3|**Plano:** Informar e-mail, senha, cpf e confirma o texto;|
 | 1.2.1. Informar os dados do Usuário||
@@ -55,15 +55,15 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 | --- | --- |
 | 0. Acompanhar Inscrição |**Plano:** Visualizar as informações sobre um concurso inscrito. |
-| 1. Realizar login 1>2|**Input:** Campos para dados do usuário e confirmação textual;<br>**Feedback:** Redirecionamento para a área do condidato;<br>**Plano:** Efetuar o login na plataforma.|
+| 1. Realizar login 1>2|**Input:** Campos para dados do usuário e confirmação textual;<br>**Feedback:** Redirecionamento para os concursos inscritos;<br>**Plano:** Efetuar o login na plataforma.|
 | 1.1. Clicar em "Área do Candidato", "Locais de Provas Escritas" ou "Solicitação de Recursos"|**Problema:** Existem muitos fluxos redundantes;<br>**Recomendação 1:** Simplificar os fluxos;<br>**Recomendação 2:** Implementar persistência de dados.|
-| 1.2. Informar os Dados 1>3|**Plano:** Informar e-mail, senha, cpf e confirma o texto.|
+| 1.2. Informar os Dados 1>3|**Plano:** Informar e-mail, senha, cpf e confirmar o texto.|
 | 1.2.1. Informar os dados do Usuário||
 | 1.2.2. Informar o texto da Imagem|**Problema:** O texto que precisa ser confirmado pode ser facilmente copiado;<br>**Recomendação 1:** Implementar uma confirmação a partir de uma imagem real.|
 | 1.2.3 Clicar no botão Entrar||
 | 2. Visualizar Inscrições |**Feedback:** Redirecionamento para a página do exame selecionado;<br>**Plano:** Selecionar um exame para ver suas informações;<br>**Problema 1:** Não fica intuitivo como deve ser selecionado o exame;<br>**Problema 2:** A disposição dos exames não é organizada;<br>**Recomendação 1:** Separar os exames inscritos dos demais de forma que fique mais intuitivo e organizado.|
-| 2.1. Clicar em um Concurso Inscrito |**Plano:** Selecionar um concurso em que o candidato está inscrito para ter acesso as suas informações;<br> **Problema:** O acesso ao concurso é feito por links, porém não é claro se são links ou textos normais;<br> **Recomendação 1:** Acrescentar um botão de acesso para um redirecionamento claro e intuitivo.|
-| 3. Ver informações da inscrição |**Plano:** Visualizar todas as informações da inscrição no concurso;<br> **Problema:** Difícil visualização e entedimento das informações;<br> **Recomendação 1:** Ajustar design para visualização das informações.| 
+| 2.1. Clicar em um Concurso Inscrito |**Plano:** Selecionar um concurso em que o candidato está inscrito para ter acesso às suas informações;<br> **Problema:** O acesso ao concurso é feito por links, porém não é claro se são links ou textos normais;<br> **Recomendação 1:** Acrescentar um botão de acesso para um redirecionamento claro e intuitivo.|
+| 3. Ver informações da inscrição |**Plano:** Visualizar todas as informações da inscrição no concurso;<br> **Problema:** Difícil visualização e entendimento das informações;<br> **Recomendação 1:** Ajustar design para visualização das informações.| 
 
 
 ## Bibliografia
