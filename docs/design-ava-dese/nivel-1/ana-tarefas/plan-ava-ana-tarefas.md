@@ -1,5 +1,5 @@
 ## Introdução
-&emsp;&emsp;Em um processo de desenvolvimento de sistemas interativos de alta qualidade de uso, faz-se fundamental e muito necessária a valiação de IHC. Alguns dos métodos de avalição de IHC permitem usar como objetos de estudo desde uma lista de tarefas a serem realizadas individualmente até a usabilidade geral do sistema.<br>
+&emsp;&emsp;Em um processo de desenvolvimento de sistemas interativos de alta qualidade de uso, faz-se fundamental e muito necessária a avaliação de IHC. Alguns dos métodos de avalição de IHC permitem usar como objetos de estudo desde uma lista de tarefas a serem realizadas individualmente até a usabilidade geral do sistema.<br>
 &emsp;&emsp;Sendo assim, esse documento visa destrinchar o planejamento da avaliações do artefato de [análise de tarefas](../../../analise-de-requisitos/analise-de-tarefas.md) e o relato de seus resultados.
 
 ## Metodologia
@@ -89,3 +89,4 @@
 |1.4|14/04/2021|Adição das análises|Daniel P.|
 |1.5|22/04/2021|Ajustes no planejamento para avaliação de artefato| Daniel P.|
 |2.0|27/04/2021|Refatoração do planejamento após feedback| Daniel P.|
+|2.1|07/05/2021|Correção de erros de digitação| Yan Andrade |

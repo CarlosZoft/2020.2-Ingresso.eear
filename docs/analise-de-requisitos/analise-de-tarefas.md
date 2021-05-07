@@ -24,8 +24,8 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 ### Tarefa 1: Efetuar a Inscrição em Concurso
 
 #### Diagrama
-![Efetuar a inscrição em concurso](../assets/imagens/hta/hta-t1.png)
-<center>Figura 2: Efetuar a Inscrição em Concurso<br>[Link para a imagem ampliada](https://user-images.githubusercontent.com/48573556/116830304-7bbb4980-ab7f-11eb-834c-4ac02bab3367.png)</center>
+![Efetuar a inscrição em concurso](../assets/imagens/hta/hta-t1.jpg)
+<center>Figura 2: Efetuar a Inscrição em Concurso<br>[Link para a imagem ampliada](https://user-images.githubusercontent.com/48693812/117461321-cba16400-af23-11eb-9e55-08790d17bb44.jpg)</center>
 
 #### Tabela de Especificações
 | **Objetivos / Operações** | **Problemas e Recomendações** |
@@ -48,8 +48,8 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 ### Tarefa 2: Acompanhar Inscrição em Concurso
 
 #### Diagrama
-![Acompanhar inscrição em concurso](../assets/imagens/hta/hta-t2.png)
-<center>Figura 3: Acompanhar Inscrição em Concurso<br>[Link para a imagem ampliada](https://user-images.githubusercontent.com/48573556/117336128-3b571680-ae72-11eb-9680-aceb591fedfc.png)</center>
+![Acompanhar inscrição em concurso](../assets/imagens/hta/hta-t2.jpg)
+<center>Figura 3: Acompanhar Inscrição em Concurso<br>[Link para a imagem ampliada](https://user-images.githubusercontent.com/48693812/117461374-da881680-af23-11eb-83d9-c26149d483e3.jpg)</center>
 
 #### Tabela de Especificações
 | **Objetivos / Operações** | **Problemas e Recomendações** |
@@ -75,3 +75,4 @@ Como o intuito do site é ser uma plataforma para concurso da EEAR, identificamo
 |--|--|--|--|
 | 1.0 | 17/03/2021 | Criação e desenvolvimento do documento | Bruno Félix e Daniel Barcelos |
 | 2.0 | 06/05/2021 | Correção da análise de tarefas após avaliação | Bruno Félix e Daniel Porto |
+| 2.1 | 07/05/2021 | Correção de pequenos erros ortográficos | Yan Andrade |
