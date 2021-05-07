@@ -54,7 +54,7 @@ Quarto de Alberto<br>
 Realizar a inscrição no concurso da EEAR<br>
 
 ### Sequência
-<b>Definição de quais passos estão envolvidos para realização da tarefa</b>
+<b>Definição de quais passos estão envolvidos para realização da tarefa</b><br>
 1. Amigo fala sobre o concurso da EEAR, levando-o a pensar em se inscrever no concurso<br>
 2. Acessar a página da EEAR e sentir dificuldade em realizar a inscrição<br>
 3. Após realizada a inscrição, há uma dúvida se deu tudo certo<br>
@@ -86,7 +86,7 @@ Quarto de Cristina<br>
 Acompanhar inscrição no concurso da EEAR<br>
 
 ### Sequência
-<b>Definição de quais passos estão envolvidos para realização da tarefa</b>
+<b>Definição de quais passos estão envolvidos para realização da tarefa</b><br>
 1. Necessidade de acompanhar a inscrição feita<br>
 2. Encontrar informações<br>
 3. Saber data e hora da prova<br>
