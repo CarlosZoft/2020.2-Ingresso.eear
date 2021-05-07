@@ -21,8 +21,8 @@ Quarto de Alberto<br>
 Realizar a inscrição no concurso da EEAR<br>
 
 ### Sequência
-<b>Definição de quais passos estão envolvidos para realização da tarefa</b>
-1. Ficar sabendo, a partir do pai, sobre o conurso da EEAR<br>
+<b>Definição de quais passos estão envolvidos para realização da tarefa</br>
+1. Ficar sabendo, a partir do pai, sobre o concurso da EEAR<br>
 2. Acessar a página da EEAR e descobrir que as inscrições estão abertas<br>
 3. Relizar a inscrição<br>
 
@@ -42,7 +42,6 @@ Permitir a realização da inscrição para concursos da EEAR<br>
 ![Storyboard-1](../../../assets/imagens/storyboard/Storyboard-1.png)
 <center>[Link para a imagem expandida](https://user-images.githubusercontent.com/54676096/117385012-96146080-aeba-11eb-8bef-ddefc50dcb5c.png)</center>
 <center>Figura 1: Storyboard Realizar a inscrição</center>
-<center>Fonte: Autor</center>
 
 
 ## Storyboard 2: Dificuldade para realizar inscrição
@@ -76,7 +75,6 @@ Permitir a realização da inscrição para concursos da EEAR<br>
 ![Storyboard-2](../../../assets/imagens/storyboard/Storyboard-2.png)
 <center>[Link para a imagem expandida](https://user-images.githubusercontent.com/54676096/117384895-564d7900-aeba-11eb-9ce4-494602880416.png)</center>
 <center>Figura 2: Dificuldade para realizar inscrição</center>
-<center>Fonte: Autor</center>
 
 ## Storyboard 3: Acompanhar inscrição no concurso escolhido
 ### Preparo
@@ -109,11 +107,11 @@ Acompanhar andamento do concurso<br>
 ![Storyboard-3](../../../assets/imagens/storyboard/Storyboard-3.png)
 <center>[Link para a imagem expandida](https://user-images.githubusercontent.com/48693812/114180471-9d296c80-9916-11eb-9a37-4e2ad80dbdbe.png)</center>
 <center>Figura 3: Acompanhar inscrição no concurso escolhido</center>
-<center>Fonte: Autor</center>
+
 
 ## Referências
-Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-Livro: ROGERS, Y. Et al. Design de Interação: Além da Interação Humano-Computador. 1ª edição: Bookman.
+>  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+>  ROGERS, Y. Et al. Design de Interação: Além da Interação Humano-Computador. 1ª edição: Bookman.
 
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
