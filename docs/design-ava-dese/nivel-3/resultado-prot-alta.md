@@ -4,6 +4,7 @@
 ## Avaliações
 
 ### Avaliação 1: Guilherme Barbos de Freitas, 23 anos, Soldado do Exército.
+<iframe width="800" height="450" src="https://www.youtube.com/embed/wj61IlTVyoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Consolidação dos resultados
 &emsp;&emsp;Esta avaliação apresentou alguns impecilhos no que se refere a conexão do participante e a experiência do mesmo com a tecnologia. Em alguns momentos da avaliação os avaliadores não conseguiram acompanhar a tela do participante e tiveram que se basear somente na verbalização, o que gera uma dificuldade na coleta de dados.<br>
@@ -15,6 +16,7 @@
 &emsp;&emsp;Com base em tudo que foi levantado nessa avaliação, o seguinte problema de usabilidade foi identificado:
 
 - Na tela do formulário de inscrição, o participante tem uma certa hesitação e demora um pouco para entender do que se trata a tela. Isso indica uma falta de eficácia dessa página do protótipo. Sugere-se que o título da página seja mais explicativo e que sejam mostrados mensagens de ajuda para guiar o usuário nessa página. Além disso, a página pode conter algumas informações do exame selecionado.
+
 ### Avaliação 2: Carlos Linhares, 18 anos, Soldado do Exército.
 <iframe width="800" height="450" src="https://www.youtube.com/embed/vMmES7BT3nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -26,10 +28,15 @@
 &emsp;&emsp;Com base em tudo que foi levantado nessa avaliação, o seguinte problema de usabilidade foi identificado:
 
 - Na tela de login sobreposta a página do exame escolhido, nota-se uma tentativa do participante de fechar o modal para tecer algumas considerações. Ele encotra certa dificuldade para fechar o modal a partir do ícone de "X" tendo que clicar por diversas vezes sem acionar o ícone e isso é prejudicial para a maioria das metas de usabilidade, principalmente a de uttilidade. Sendo assim, o ícone deve ser aumentado de tamanho. Também, o modal deve ser fechado ao clicar na área sombreada da tela.
+
 ### Avaliação 3: Estevão Reis, 24 anos, Estudante de Engenharia de Software.
+<iframe width="800" height="450" src="https://www.youtube.com/embed/2e4eg34sMhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Consolidação dos resultados
+&emsp;&emsp;
 
 #### Relato dos resultados
+&emsp;&emsp;
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
