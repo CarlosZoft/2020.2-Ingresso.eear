@@ -21,7 +21,7 @@ Quarto de Alberto<br>
 Realizar a inscrição no concurso da EEAR<br>
 
 ### Sequência
-<b>Definição de quais passos estão envolvidos para realização da tarefa</br>
+<b>Definição de quais passos estão envolvidos para realização da tarefa</b><br>
 1. Ficar sabendo, a partir do pai, sobre o concurso da EEAR<br>
 2. Acessar a página da EEAR e descobrir que as inscrições estão abertas<br>
 3. Relizar a inscrição<br>
@@ -110,8 +110,8 @@ Acompanhar andamento do concurso<br>
 
 
 ## Referências
->  BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
->  ROGERS, Y. Et al. Design de Interação: Além da Interação Humano-Computador. 1ª edição: Bookman.
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.  
+> ROGERS, Y. Et al. Design de Interação: Além da Interação Humano-Computador. 1ª edição: Bookman.
 
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
