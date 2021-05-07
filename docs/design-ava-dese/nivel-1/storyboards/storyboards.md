@@ -73,7 +73,7 @@ Realizar inscrição para o concurso escolhido<br>
 Permitir a realização da inscrição para concursos da EEAR<br>
 
 ![Storyboard-2](../../../assets/imagens/storyboard/Storyboard-2.png)
-<center>[Link para a imagem expandida](https://user-images.githubusercontent.com/54676096/117384895-564d7900-aeba-11eb-9ce4-494602880416.png)</center>
+<center>[Link para a imagem expandida](https://user-images.githubusercontent.com/54676096/117388895-ddeab600-aec1-11eb-8a25-d1adf0a0e24a.png)</center>
 <center>Figura 2: Dificuldade para realizar inscrição</center>
 
 ## Storyboard 3: Acompanhar inscrição no concurso escolhido
