@@ -41,9 +41,7 @@
 &emsp;&emsp;Foram corrigidos os erros citados na conclusão.
 
 ## Bibliografia
-
-- [Página de verificação das Personas do grupo Prefeitura de Águas Lindas de Goiás - 2020.1](https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/verificacao/veri_personas/)
-- [Página de verificação das Personas do grupo UVaJudge - 2020.1](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_7/verificacao/personas/)
+- [Página de verificação do Perfil do Usuário do grupo Prefeitura de Águas Lindas de Goiás - 2020.1](https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/verificacao/veri_questionario/)
 
 ## Versionamento
 |Versão|Data|Modificação|Autor|

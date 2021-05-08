@@ -39,6 +39,9 @@
 ## Acompanhamento
 &emsp;&emsp;Foram corrigidos os erros citados na conclusão.
 
+## Bibliografia
+- [Página de verificação do Planejamento e avaliação dos Storyboards do grupo Prefeitura de Águas Lindas de Goiás - 2020.1](https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/verificacao/veri_av_storyboard/)
+
 ## Versionamento
 |Versão|Data|Modificação|Autor|
 |--|--|--|--|
