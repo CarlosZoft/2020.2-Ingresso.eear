@@ -6,7 +6,7 @@
 &emsp;&emsp;O objetivo da criação dos Storyboards é validar o nível 1 da fase de Design, avaliação e desenvolvimento da Engenharia de usabilidade Mayhew, que consiste em criar protótipos do modelo conceitual.
 
 ## 3. Metodologia
-&emsp;&emsp;Para desenvolver os stroyboards, foi necessário uma releitura do documento de Análise de Tarefas. A plataforma utilizada para elaborar o storyboard foi o Canva(link).
+&emsp;&emsp;Para desenvolver os stroyboards, foi necessário uma releitura do documento de Análise de Tarefas. A plataforma utilizada para elaborar o storyboard foi o [Storyboardthat](https://www.storyboardthat.com/pt).
 
 
 ## 4. Resultados
@@ -28,7 +28,7 @@ Realizar a inscrição no concurso da EEAR<br>
 
 <b>Definição do que leva a pessoa a usar a aplicação</b><br>
 Ficar sabendo sobre o concurso aberto da EEAR e realizar a inscrição<br>
-<b>Definição da tarefa a será ilustrada</b><br>
+<b>Definição da tarefa a ser ilustrada</b><br>
 Se inscrever no concurso da EEAR que será representado pelo personagem acessando a plataforma e realizando a inscrição com sucesso<br>
 
 ### Satisfação
@@ -61,7 +61,7 @@ Realizar a inscrição no concurso da EEAR<br>
 
 <b>Definição do que leva a pessoa a usar a aplicação</b><br>
 Descobrir se há algum concurso aberto da EEAR e realizar a inscrição<br>
-<b>Definição da tarefa a será ilustrada</b><br>
+<b>Definição da tarefa a ser ilustrada</b><br>
 Se inscrever, com certa dificuldade, no concurso da EEAR que será representado pelo personagem acessando a plataforma e realizando a inscrição com sucesso<br>
 
 ### Satisfação
@@ -113,9 +113,11 @@ Acompanhar andamento do concurso<br>
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.  
 > ROGERS, Y. Et al. Design de Interação: Além da Interação Humano-Computador. 1ª edição: Bookman.
 
+## Versionamento
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
 |1.0|09/04/2021|Abertura do documento e adição de informações| Denys Rógeres |
 |1.1| 09/04/2021| Adição das legendas nas imagens | Yan |
 |1.2| 09/04/2021| Adição dos links para expandir as imagens | Yan |
 |1.3| 06/05/2021| Correção do Storyboard | Denys Rógeres |
+|1.4| 08/05/2021| Correções após verificação | Daniel B. |
