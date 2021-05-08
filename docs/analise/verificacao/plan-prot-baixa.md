@@ -38,7 +38,7 @@
 ## Conclusão
 &emsp;&emsp;A partir da verificação, foram identificados algumas inconsistências gramaticais que devem ser corrigidas.
 ## Acompanhamento
-&emsp;&emsp;Todos os itens identificados nesta verificação fora corrigos.
+&emsp;&emsp;Todos os itens identificados nesta verificação fora corrigidos.
 ## Bibliografia
 > - REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020.
 > - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*

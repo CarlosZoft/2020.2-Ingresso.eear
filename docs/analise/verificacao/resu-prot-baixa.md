@@ -1,6 +1,6 @@
 ## Contexto:	
  - Técnica: Inspeção por Checklist
- - Autores: Todos os participantes
+ - Autores: Daniel P. e Denys
  - Revisores: Bruno e Daniel Porto
  - Inspetor: Denys Rógeres
  - O documento verificado está disponível [aqui](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/design-ava-dese/nivel-2/resultado-prot-papel/)
