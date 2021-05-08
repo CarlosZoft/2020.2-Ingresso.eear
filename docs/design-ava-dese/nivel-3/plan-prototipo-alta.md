@@ -91,4 +91,4 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 |1.1|28/04/2021|Adição dos tópicos Introdução, Metodologia, Termo de consentimento, Preparação | Bruno, Denys e Yan |
 |1.1.0| 28/04/2021 |Correção de pequenos erros | Yan |
 |1.2| 30/04/2021 |Finalizando o planejamento | Bruno, Daniel B., Yan |
-|1.3| 04/05/2021 | Ajustando a termo de consentimento e incluindo o teste piloto| Daniel P. |
+|1.3| 04/05/2021 |Ajustando o termo de consentimento e incluindo o teste piloto| Daniel P. |

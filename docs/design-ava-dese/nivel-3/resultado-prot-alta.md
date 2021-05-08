@@ -10,7 +10,7 @@
 &emsp;&emsp;O protótipo utilizado foi feito na plataforma Figma e toda a avaliação aconteceu no StreamYard.<br>
 
 ## Avaliações
-&emsp;&emsp;Nesta avaliação tivemos a contribuição do estudante de Engenharia de Software, Estevão Reis e dos soldados do Exército Guilherme Barbos de Freitas e Carlos Linhares. A seguir estão os vídeos das sessões
+&emsp;&emsp;Nesta avaliação tivemos a contribuição do estudante de Engenharia de Software, Estevão Reis e dos soldados do Exército Guilherme Barbosa de Freitas e Carlos Linhares. A seguir estão os vídeos das sessões
 
 ### Avaliação 1: Guilherme Barbosa de Freitas, 23 anos, Soldado do Exército.
 <iframe width="800" height="450" src="https://www.youtube.com/embed/wj61IlTVyoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,7 +38,7 @@
 - Na avaliação com o participante Guilherme, na tela do formulário de inscrição, o participante tem uma certa hesitação e demora um pouco para entender do que se trata a tela. Isso indica uma falta de eficácia dessa página do protótipo. Sugere-se que o título da página seja mais explicativo e que sejam mostrados mensagens de ajuda para guiar o usuário nessa página. Além disso, a página deve conter algumas informações do exame selecionado.<br>
 - Na avaliação com o participante Carlos, na tela de login sobreposta a página do exame escolhido, nota-se uma tentativa do participante de fechar o modal para tecer algumas considerações. Ele encontra certa dificuldade para fechar o modal a partir do ícone de "X" tendo que clicar por diversas vezes sem acionar o ícone e isso é prejudicial para a maioria das metas de usabilidade, principalmente a de utilidade. Sendo assim, o ícone deve ser aumentado de tamanho. Também, o modal deve ser fechado ao clicar na área sombreada da tela.<br>
 - Após fazer o cadastro em um concurso, é aberto um modal que informa que a inscrição foi feita com sucesso e abaixo existe um botão para o participante ir para a área do candidato. Foi notado pelo participante Estevão que o condicionamento para que o usuário vá para área de candidato após fazer a inscrição, tira, de certa forma, a sua liberdade para navegar e explorar o sistema. <br>
-- Observou-se, tambḿe pelo Estevão, que, caso os concursos abertos já fossem mostrados desde a página inicial, melhoria a experiência do usuário que quer se inscrever em um concurso. Portanto, para resolver estes impasses, deve ser acrescentado um botão para que o usuário possa fechar o modal de confirmação da inscrição sem precisar ir para a área do candidato. Outra solução que deve ser acrescentada é já mostrar os concursos abertos na página inicial do sistema, como forma de notícia. <br> 
+- Observou-se, também pelo Estevão, que, caso os concursos abertos já fossem mostrados desde a página inicial, melhoria a experiência do usuário que quer se inscrever em um concurso. Portanto, para resolver estes impasses, deve ser acrescentado um botão para que o usuário possa fechar o modal de confirmação da inscrição sem precisar ir para a área do candidato. Outra solução que deve ser acrescentada é já mostrar os concursos abertos na página inicial do sistema, como forma de notícia. <br> 
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
