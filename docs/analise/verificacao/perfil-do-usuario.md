@@ -24,9 +24,8 @@
 |5|Os links redirecionam para o local correto?|✔|
 |6|A página possui referências do conteúdo?|✔|
 |7|As imagens possuem legendas?|✔|
-|8|As imagens podem ser expandidas?|✖|
-|9|O versionamento está correto?|✔|
-||**Porcentagem de sucesso**|**78%**|
+|8|O versionamento está correto?|✔|
+||**Porcentagem de sucesso**|**88%**|
 
 ### Resultados Específicos:
 |Número|Questão|Resposta|
@@ -36,7 +35,7 @@
 ||**Porcentagem de sucesso**|**100%**|
 
 ## Conclusão
-&emsp;&emsp;Foi encontrado erros de português e as imagens do questionário não se expandem.
+&emsp;&emsp;Foi encontrado erros de português.
 
 ## Acompanhamento
 &emsp;&emsp;Foram corrigidos os erros citados na conclusão.
