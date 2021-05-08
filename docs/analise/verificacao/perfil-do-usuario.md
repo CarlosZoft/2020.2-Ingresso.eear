@@ -1,11 +1,11 @@
-## Contexto:	
+## Contexto	
  - Técnica: Inspeção por Checklist
  - Autores: Daniel Porto e Denys Rógeres
  - Revisores: Bruno Félix e Yan Andrade
  - Inspetor: Bruno Félix
  - O documento verificado está disponível [aqui](../../analise-de-requisitos/perfil-do-usuario.md)
 
-## Checklist:
+## Checklist
 
 ### Legenda 
 
@@ -14,7 +14,7 @@
 |✔|Sim|
 |✖|Não|
 
-### Resultados Gerais:
+### Resultados Gerais
 |Número|Questão|Resposta|
 |:-|:-:|:-:|
 |1|A ortografia está correta?|✖|
@@ -27,7 +27,7 @@
 |8|O versionamento está correto?|✔|
 ||**Porcentagem de sucesso**|**88%**|
 
-### Resultados Específicos:
+### Resultados Específicos
 |Número|Questão|Resposta|
 |:-|:-:|:-:|
 |1|As questões foram bem estabelecidas para se levantar o Perfil do Usuário?|✔|

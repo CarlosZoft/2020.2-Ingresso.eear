@@ -1,11 +1,11 @@
-## Contexto:	
+## Contexto	
  - Técnica: Inspeção por Checklist
  - Autores: Daniel Barcelos, Daniel Porto, Denys Rógeres e Yan Andrade
  - Revisores: Bruno Félix
  - Inspetor: Bruno Félix
  - O documento verificado está disponível [aqui](../../analise-de-requisitos/guia-de-estilo.md)
 
-## Checklist:
+## Checklist
 
 ### Legenda 
 
@@ -14,7 +14,7 @@
 |✔|Sim|
 |✖|Não|
 
-### Resultados Gerais:
+### Resultados Gerais
 |Número|Questão|Resposta|
 |:-|:-:|:-:|
 |1|A ortografia está correta?|✖|
@@ -29,7 +29,7 @@
 |10|O versionamento está correto?|✔|
 ||**Porcentagem de sucesso**|**80%**|
 
-### Resultados Específicos:
+### Resultados Específicos
 |Número|Questão|Resposta|
 |:-|:-:|:-:|
 |1|Os Resultados de Análise foram bem levantados?|✔|

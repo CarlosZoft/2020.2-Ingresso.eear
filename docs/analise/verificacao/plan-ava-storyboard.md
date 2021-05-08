@@ -1,11 +1,11 @@
-## Contexto:	
+## Contexto	
  - Técnica: Inspeção por Checklist
  - Autores: Daniel Barcelos
  - Revisores: Bruno Félix e Daniel Porto
  - Inspetor: Bruno Félix
  - O documento verificado está disponível [aqui](../../design-ava-dese/nivel-1/storyboards/plan-ava-storyboard.md)
 
-## Checklist:
+## Checklist
 
 ### Legenda 
 
@@ -14,7 +14,7 @@
 |✔|Sim|
 |✖|Não|
 
-### Resultados Gerais:
+### Resultados Gerais
 |Número|Questão|Resposta|
 |:-|:-:|:-:|
 |1|A ortografia está correta?|✖|
@@ -26,7 +26,7 @@
 |7|O versionamento está correto?|✔|
 ||**Porcentagem de sucesso**|**100%**|
 
-### Resultados Específicos:
+### Resultados Específicos
 |Número|Questão|Resposta|
 |:-|:-:|:-:|
 |1|A Avaliação foi bem estabelecida?|✔|
