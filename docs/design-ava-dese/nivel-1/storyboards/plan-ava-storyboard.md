@@ -1,11 +1,11 @@
 ## Introdução
-&emsp;&emsp;Os storyboards são um tipo de prototipação de baixa-fidelidade com a finalidade de facilitar a visualização de uma ideia que ainda será realizada. Para evitar erros, é necessário que os mesmos sejam avaliados e validados pela equipe de trabalho.<br>
+&emsp;&emsp;Os storyboards são um tipo de prototipação de baixa-fidelidade com a finalidade de facilitar a visualização de uma ideia que ainda será realizada. Para evitar erros, é necessário que os mesmos sejam avaliados e validados pela equipe de trabalho.
 
 ## Objetivo
 &emsp;&emsp; O objetivo deste documento é guiar o grupo na avaliação dos storyboards para que qualquer membro seja capaz de realizar a mesma de maneira eficaz.
 
 ## Metodologia
-&emsp;&emsp;A metodologia escolhida será a de entrevistas que trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador buscar obter informações de um entrevistado.
+&emsp;&emsp;A metodologia escolhida será a de entrevistas que trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informações de um entrevistado.
 
 ## Avaliação
 
@@ -28,8 +28,7 @@
 &emsp;&emsp;Após a entrevista o avaliador deve escrever um breve relatório, identificando os problemas encontrados, sugestões de melhoria e outros aspectos relevantes.
  
 ## Conclusão
-
-Esse documento tem a finalidade de orientar o processo de avaliação do storyboard, porém pode sofrer modificações de acordo com as necessidades do avaliador. 
+&emsp;&emsp;Esse documento tem a finalidade de orientar o processo de avaliação do storyboard, porém pode sofrer modificações de acordo com as necessidades do avaliador. 
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
