@@ -6,7 +6,7 @@
 
 ## Metodologia
 &emsp;&emsp;A metodologia a ser utilizada será a metodologia de avaliação para prototipação em papel, que foi extraída diretamente do livro de IHC de Simone Barbosa e Bruno Silva. Esse método consiste em 4 fases diferentes: Preparação, Coleta e Interpretação de Dados, Consolidação dos Resultados, Relato dos Resultados.
-&emsp;&emsp;Esta avaliação foi realizada aplicando-se um teste de usabilidade com 1 avaliadores membros da equipe e 2 participantes que se encaixam no perfil do usuário levantado anteriormente. Dos avaliadores, um fica responsável por guiar e instruir o participante, enquanto que outro somente por observar a interação e tecer suas conclusões.
+&emsp;&emsp;Esta avaliação foi realizada aplicando-se um teste de usabilidade com 1 avaliador membro da equipe e 2 participantes que se encaixam no perfil do usuário levantado anteriormente. Dos avaliadores, um fica responsável por guiar e instruir o participante, enquanto que outro somente por observar a interação e tecer suas conclusões.
 &emsp;&emsp;O protótipo utilizado foi feito em papel e importado para a plataforma Marvelapp e toda a avaliação aconteceu no StreamYard.
 ## Avaliações
 &emsp;&emsp;As seguintes avaliações foram feitas pelo StreamYard utilizando a plataforma de prototipação Marvelapp.
@@ -26,7 +26,7 @@
 
 #### Relatos dos Resultados
 &emsp;&emsp;Tendo como objetivo a verificação do protótipo de baixa fidelidade e sua conformidade com as metas de usabilidades propostas, a presente avaliação tem como o escopo as tarefas de realizar uma inscrção em concurso e acompanhar a inscrição.<br>
-&emsp;&emsp;A avalição se deu com dois avaliadores membro da equipe do projeto e os estudante de Psicologia Jõao Rosena, 21 anos, e o estudante de Engenharia de Software, Wengel Rodrigues.. O protótipo utilizado foi feito em papel e digitalizado para a plataforma Marvelapp e toda a avaliação se deu de forma remota.<br>
+&emsp;&emsp;A avalição se deu com dois avaliadores membro da equipe do projeto e os estudante de Psicologia Jõao Rosena, 21 anos, e o estudante de Engenharia de Software, Wengel Rodrigues. O protótipo utilizado foi feito em papel e digitalizado para a plataforma Marvelapp e toda a avaliação se deu de forma remota.<br>
 &emsp;&emsp;Com base em tudo que foi levantado nessa avalição, os seguintes problemas de usabilidade foram identificados e devem ser corrigidos na elaboração do protótipo de alta fidelidade:
 - O Wengel conseguiu realizar a atividade de busca pelo concurso e efetuação da inscrição conforme modelado na análise de tarefas sem apresentar muitas dificuldades. No entanto, foi observado que ao realizar a inscrição, o participante demora cerca de 12 segundos para entender em qual página está e assimilar que a inscrição foi feita com sucesso.
 - O Wengel conseguiu realizar a atividade de acompanhamento de inscrição conforme modelado na análise de tarefas sem apresentar nenhum impedimento. Ele afirma que foi intuitivo mas diz que poderia melhorar o fluxo para acompanhar a inscrição, tendo um pequeno problema para assimilar o menu "Meus exames".
@@ -43,4 +43,4 @@
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
 |1.0|29/04/2021|Abertura do documento|Daniel P., Denys|
-|1.1|08/04/2021|Correção do documento|Denys|
+|1.1|08/05/2021|Correção do documento|Denys|
