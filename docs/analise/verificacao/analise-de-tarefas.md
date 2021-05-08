@@ -6,7 +6,6 @@
  - O documento verificado está disponível [aqui](../../analise-de-requisitos/analise-de-tarefas.md)
 ## Checklist:
 ### Legenda 
-### Legenda 
 |Símbolo|Descrição|
 |--|--|
 |✔|Sim|
