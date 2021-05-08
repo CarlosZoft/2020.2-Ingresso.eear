@@ -69,25 +69,25 @@
 &emsp;&emsp;O site da ingresso.EEAR possui algumas janelas. Dentre as janelas existentes, encontram-se a Homepage, a tela de login, a tela de notícia, questões anteriores e gabarito, entre outras. Colocamos abaixo alguns exemplos das janelas do site.
 
 <center>![Homepage](../assets/imagens/homepage.png)</center>
-<center>Figura 6 - Hompage</center><br><br>
+<center>Figura 6 - Hompage<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554308-35f1fb80-b02d-11eb-8b3e-8b12062beec8.png)</center><br><br>
 
 <center>![Login](../assets/imagens/candidato.png)</center>
-<center>Figura 7 - Tela de login</center><br><br>
+<center>Figura 7 - Tela de login<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554360-89fce000-b02d-11eb-81a2-1ac60cef01e0.png)</center><br><br>
 
 <center>![Tela](../assets/imagens/tela.png)</center>
-<center>Figura 8 - Tela dentro do sistema</center><br><br>
+<center>Figura 8 - Tela dentro do sistema<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554376-a13bcd80-b02d-11eb-976e-826b5aa8c0f0.png)</center><br><br>
 
 <center>![Inscricao](../assets/imagens/inscricao.png)</center>
-<center>Figura 9 - Informação de inscricão</center><br><br>
+<center>Figura 9 - Informação de inscricão<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554400-c03a5f80-b02d-11eb-8d13-685266495134.png)</center><br><br>
 
 <center>![Informações](../assets/imagens/informacao.png)</center>
-<center>Figura 10 - Tela de informações</center><br><br>
+<center>Figura 10 - Tela de informações<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554408-d6482000-b02d-11eb-8372-730ba5eef960.png)</center><br><br>
 
-<center>![Prova](../assets/imagens/informacao.png)</center>
-<center>Figura 11 - Provas e gabaritos</center><br><br>
+<center>![Prova](../assets/imagens/provas.png)</center>
+<center>Figura 11 - Provas e gabaritos<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554468-566e8580-b02e-11eb-8756-1b41ba6e6c7d.png)</center><br><br>
 
 <center>![Exame](../assets/imagens/exame.png)</center>
-<center>Figura 12 - Informações candidato</center><br><br>
+<center>Figura 12 - Informações candidato<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554482-6e460980-b02e-11eb-8833-0be71b7cd7a1.png)</center><br><br>
 
 ### Tipografia
 &emsp;&emsp;A tipografia do site utiliza as seguintes fontes:<br>
@@ -163,4 +163,5 @@ Estas foram as cores predominantes no site:
 | 1.2 | 25/03/2021 | Adição das imagens da janela | Denys |
 | 1.3 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
 | 1.4 | 25/03/2021 | Adição dos tópicos símbolos não tipográficos e animaçẽos | Daniel P. |
-| 1.5 | 08/05/2021 | Corrigindo documento pela verificação |Bruno Félix|
+| 1.5 | 08/05/2021 | Corrigindo documento pela verificação | Bruno Félix |
+| 1.6 | 08/05/2021 | Inserindo imagens de expansão | Bruno Félix |
