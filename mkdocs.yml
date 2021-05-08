@@ -43,6 +43,8 @@ nav:
                         - Personas: analise/verificacao/personas.md
                         - Storyboards: analise/verificacao/storyboards.md
                         - Relato dos Resultados da Avaliação do Storyboard: analise/verificacao/resultado-ava-storyboard.md
+                - Validação:
+                        - Validação informal: analise/validacao/validacao-informal.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 23/02/2021: atas/reuniao-23-02-2021.md
