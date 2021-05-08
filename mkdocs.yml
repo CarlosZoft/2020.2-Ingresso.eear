@@ -43,6 +43,9 @@ nav:
                         - Personas: analise/verificacao/personas.md
                         - Storyboards: analise/verificacao/storyboards.md
                         - Relato dos Resultados da Avaliação do Storyboard: analise/verificacao/resultado-ava-storyboard.md
+                        - Perfil do Usuário: analise/verificacao/perfil-do-usuario.md
+                        - Guia de Estilo: analise/verificacao/guia-de-estilo.md
+                        - Planejamento da Avaliação do Storyboard: analise/verificacao/plan-ava-storyboard.md
                 - Validação:
                         - Validação informal: analise/validacao/validacao-informal.md
         - Apresentações: apresentacoes.md
