@@ -1,7 +1,7 @@
 ## Contexto:	
  - Técnica: Inspeção por Checklist
  - Autores: Todos os participantes
- - Revisores: Daniel Barcelos e Yan Andrade
+ - Revisores: Yan Andrade, Daniel Porto e Denys
  - Inspetor: Daniel Porto 
  - O documento verificado está disponível [aqui](../../../design-ava-dese/nivel-3/resultado-prot-alta)
 
