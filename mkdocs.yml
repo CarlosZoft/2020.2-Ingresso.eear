@@ -53,6 +53,8 @@ nav:
                         - Planejamento da Avaliação do Storyboard: analise/verificacao/plan-ava-storyboard.md
                         - Planejamento da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/plan-prot-alta.md
                         - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/resu-prot-alta.md
+                        - Planejamento da Avaliação do Protótipo de Baixa Fidelidade: analise/verificacao/plan-prot-baixa.md
+                        - Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade: analise/verificacao/resu-prot-baixa.md
                 - Validação:
                         - Validação informal: analise/validacao/validacao-informal.md
         - Apresentações: apresentacoes.md

@@ -1,9 +1,9 @@
 ## Contexto:	
  - Técnica: Inspeção por Checklist
- - Autores: Todos os participantes
- - Revisores: Yan Andrade, Daniel Porto e Denys
- - Inspetor: Daniel Porto 
- - O documento verificado está disponível [aqui](../../../design-ava-dese/nivel-3/resultado-prot-alta)
+ - Autores: Daniel P. e Denys
+ - Revisores: Bruno e Daniel Porto
+ - Inspetor: Denys Rógeres
+ - O documento verificado está disponível [aqui](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/design-ava-dese/nivel-2/resultado-prot-papel/)
 
 ## Checklist:
 
@@ -17,8 +17,8 @@
 ### Resultados:
 |Número|Questão|Resposta|
 |:-:|--|--|
-|1|Os objetivos da avaliação estão destacados?|✔|
-|2|Possui uma breve descrição sobre o método de avaliação?|✔|
+|1|Os objetivos da avaliação estão destacados?|✖|
+|2|Possui uma breve descrição sobre o método de avaliação?|✖|
 |3|Possui o número e o perfil de avaliadores e dos participantes?|✔|
 |6|Possui as tarefas executadas pelos participantes?|✔|
 |7|Possui os vídeos das avaliações?|✔|
@@ -26,10 +26,10 @@
 |9|O Relato dos resultados está corretamente feito?|✔|
 |10|A linguagem está simples e compreensível?|✔|
 |11|A ortografia está correta?|✖|
-||**Porcentagem de Sucesso**|**91%**|  
+||**Porcentagem de Sucesso**|**73%**|  
 
 ## Conclusão
-&emsp;&emsp;Apesar de o documento estar conforme o esperado, foram encotrados alguns erros ortográficos e de digitação.
+&emsp;&emsp;A partir da verificação, foi encontrado algumas inconsistências que devem ser corrigidas tais como a ausência do destaque da avaliação e da metodologia utilizada. 
 
 ## Acompanhamento
 &emsp;&emsp;Todos os pontos levantados na verificação foram corrigidos.
@@ -41,6 +41,6 @@
 ## Versionamento
 |Versão|Data|Modificação|Autor|
 |--|--|--|--|
-|1.0|04/05/2021|Abertura do Documento|Daniel Porto|
-|1.1|06/05/2021|Elaboração do checklist|Daniel Porto|
-|1.2|08/05/2021|Finalização da verificação|Daniel Porto|
+|1.0|08/05/2021|Abertura do Documento|Denys Rógeres|
+|1.1|08/05/2021|Verificação dos resultados do protótipo de papel|Denys Rógeres|
+|1.2|08/05/2021|Finalização do documento|Denys Rógeres|
