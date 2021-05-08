@@ -9,27 +9,27 @@
 ### Legenda 
 |Símbolo|Descrição|
 |--|--|
-|OK|Contém|
-|X|Não Contém|
+|✔|Sim|
+|✖|Não|
 
 ### Resultados Gerais:
 |Número|Questão|Resposta|
 |--|--|--|
-|1|A ortografia está correta?|X|
-|2|Existe uma breve introdução sobre o tópico a ser abordado?|OK|
-|3|A linguagem está simples e compreensível?|OK|
-|4|As informações estão consistentes e objetivas?|OK|
-|5|As informações necessárias estão presentes?|OK|
-|6|A página possui referências do conteúdo?|OK|
+|1|A ortografia está correta?|✖|
+|2|Existe uma breve introdução sobre o tópico a ser abordado?|✔|
+|3|A linguagem está simples e compreensível?|✔|
+|4|As informações estão consistentes e objetivas?|✔|
+|5|As informações necessárias estão presentes?|✔|
+|6|A página possui referências do conteúdo?|✔|
 ||<strong>Porcentagem de sucesso</strong>|<strong>83,33%</strong>|
 
 ### Resultados Específicos:
 |Número|Questão|Resposta|
 |--|--|--|
-|1|Teve especificação de qual diagrama foi relatado?|OK|
-|2|Teve especificação de qual persona foi utilizada?|OK|
-|3|Houve relato das ações claras e concisa?|OK|
-|4|Houve o levantamento correto das perguntas referentes a coleta de dados?|OK|
+|1|Teve especificação de qual diagrama foi relatado?|✔|
+|2|Teve especificação de qual persona foi utilizada?|✔|
+|3|Houve relato das ações claras e concisa?|✔|
+|4|Houve o levantamento correto das perguntas referentes a coleta de dados?|✔|
 ||<strong>Porcentagem de sucesso</strong>|<strong>100%</strong>|
 
 ## Conclusão
@@ -49,3 +49,4 @@
 |:-:|--|--|--|
 |0.1|07/05/2021| Criação do documento | Yan Andrade |
 |1.0|08/05/2021| Correção e padronização do documento | Yan Andrade |
+|1.1|08/05/2021| Padronização do documento | Yan Andrade |

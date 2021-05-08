@@ -9,29 +9,29 @@
 ### Legenda 
 |Símbolo|Descrição|
 |--|--|
-|OK|Contém|
-|X|Não Contém|
+|✔|Sim|
+|✖|Não|
 
 ### Resultados Gerais:
 |Número|Questão|Resposta|
 |--|--|--|
-|1|A ortografia está correta?|OK|
-|2|Existe uma breve introdução sobre o tópico a ser abordado?|OK|
-|3|A linguagem está simples e compreensível?|OK|
-|4|As informações estão consistentes e objetivas?|OK|
-|5|As informações necessárias estão presentes?|OK|
-|6|A página possui referências do conteúdo?|OK|
+|1|A ortografia está correta?|✔|
+|2|Existe uma breve introdução sobre o tópico a ser abordado?|✔|
+|3|A linguagem está simples e compreensível?|✔|
+|4|As informações estão consistentes e objetivas?|✔|
+|5|As informações necessárias estão presentes?|✔|
+|6|A página possui referências do conteúdo?|✔|
 ||<strong>Porcentagem de sucesso</strong>|<strong>100%</strong>|
 
 ### Resultados Específicos:
 |Número|Questão|Resposta|
 |--|--|--|
-|1|Diante do critério de eficácia, o site foi avaliado de maneira condizente?|OK|
-|2|Diante do critério de eficiência, o site foi avaliado de maneira condizente?|OK|
-|3|Diante do critério de segurança, o site foi avaliado de maneira condizente?|OK|
-|4|Diante do critério de utilidade, o site foi avaliado de maneira condizente?|OK|
-|5|Diante do critério de aprendizagem, o site foi avaliado de maneira condizente?|OK|
-|6|Diante do critério de memorização, o site foi avaliado de maneira condizente?|OK|
+|1|Diante do critério de eficácia, o site foi avaliado de maneira condizente?|✔|
+|2|Diante do critério de eficiência, o site foi avaliado de maneira condizente?|✔|
+|3|Diante do critério de segurança, o site foi avaliado de maneira condizente?|✔|
+|4|Diante do critério de utilidade, o site foi avaliado de maneira condizente?|✔|
+|5|Diante do critério de aprendizagem, o site foi avaliado de maneira condizente?|✔|
+|6|Diante do critério de memorização, o site foi avaliado de maneira condizente?|✔|
 ||<strong>Porcentagem de sucesso</strong>|<strong>100%</strong>|
 
 ## Conclusão
@@ -52,3 +52,4 @@
 |:-:|--|--|--|
 |0.1|07/05/2021| Criação do documento | Yan Andrade |
 |1.0|08/05/2021| Correção e padronização do documento | Yan Andrade |
+|1.1|08/05/2021| Padronização do documento | Yan Andrade |

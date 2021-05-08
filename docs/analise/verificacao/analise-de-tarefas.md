@@ -6,34 +6,35 @@
  - O documento verificado está disponível [aqui](../../analise-de-requisitos/analise-de-tarefas.md)
 ## Checklist:
 ### Legenda 
+### Legenda 
 |Símbolo|Descrição|
 |--|--|
-|OK|Contém|
-|X|Não Contém|
+|✔|Sim|
+|✖|Não|
 
 ### Resultados Gerais:
 |Número|Questão|HTA1|HTA2|
 |--|--|--|--|
-|1|A ortografia está correta?|X|X|
-|2|Existe uma breve introdução sobre o tópico a ser abordado?|OK|OK|
-|3|A linguagem está simples e compreensível?|OK|OK|
-|4|As informações estão consistentes e objetivas?|OK|OK|
-|5|As informações necessárias estão presentes?|OK|OK|
-|6|A página possui referências do conteúdo?|OK|OK|
-|7|As imagens possuem legendas?|OK|OK|
-|8|A imagem pode ser expandida?|OK|OK|
-|9|Cada tarefa possui um diagrama?|OK|OK|
-|10|Cada diagrama possui uma tabela de especificação?|OK|OK|
+|1|A ortografia está correta?|✖|✖|
+|2|Existe uma breve introdução sobre o tópico a ser abordado?|✔|✔|
+|3|A linguagem está simples e compreensível?|✔|✔|
+|4|As informações estão consistentes e objetivas?|✔|✔|
+|5|As informações necessárias estão presentes?|✔|✔|
+|6|A página possui referências do conteúdo?|✔|✔|
+|7|As imagens possuem legendas?|✔|✔|
+|8|A imagem pode ser expandida?|✔|✔|
+|9|Cada tarefa possui um diagrama?|✔|✔|
+|10|Cada diagrama possui uma tabela de especificação?|✔|✔|
 ||<strong>Porcentagem de sucesso</strong>|<strong>90%</strong>|
 
 ### Resultados Específicos:
 |Número|Questão|HTA1|HTA2|
 |--|--|--|--|
-|1|Os objetivos estão corretos?|OK|OK|
-|2|As operações estão corretas?|OK|OK|
-|3|O nível dos objetivos estã corretos?|OK|OK|
-|4|Os níveis dos subobjetivos estã corretos?|OK|OK|
-|5|As relações entre os subobjetivos estão corretos?|OK|OK|
+|1|Os objetivos estão corretos?|✔|✔|
+|2|As operações estão corretas?|✔|✔|
+|3|O nível dos objetivos estã corretos?|✔|✔|
+|4|Os níveis dos subobjetivos estã corretos?|✔|✔|
+|5|As relações entre os subobjetivos estão corretos?|✔|✔|
 ||<strong>Porcentagem de sucesso</strong>|<strong>100%</strong>|
 
 ## Conclusão
@@ -53,3 +54,4 @@
 |:-:|--|--|--|
 |0.1|07/05/2021| Criação do documento | Yan Andrade |
 |1.0|08/05/2021| Correção e padronização do documento | Yan Andrade |
+|1.1|08/05/2021| Padronização do documento | Yan Andrade |
