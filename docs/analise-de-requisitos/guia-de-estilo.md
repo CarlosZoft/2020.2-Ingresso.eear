@@ -163,3 +163,4 @@ Estas foram as cores predominantes no site:
 | 1.2 | 25/03/2021 | Adição das imagens da janela | Denys |
 | 1.3 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
 | 1.4 | 25/03/2021 | Adição dos tópicos símbolos não tipográficos e animaçẽos | Daniel P. |
+| 1.5 | 08/05/2021 | Corrigindo documento pela verificação |Bruno Félix|

@@ -86,3 +86,4 @@
 | 0.1 | 15/03/2021 | Criação e compartilhamento do questionário | Daniel P. e Denys |
 | 1.0 | 16/03/2021 | Adição da introdução e e metodologia  | Daniel P. e Denys |
 | 2.0 | 17/03/2021 | Adição dos resultados, análise dos dados e perfil do usuário | Daniel P. e Denys |
+| 2.1 | 08/05/2021 | Corrigindo documento pela verificação |Bruno Félix|

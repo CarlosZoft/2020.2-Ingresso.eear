@@ -37,3 +37,4 @@
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
 |1.0|08/04/2021|Abertura do documento| Daniel Barcelos |
+|1.1|08/05/2021|Corrigindo documento pela verificação|Bruno Félix|
