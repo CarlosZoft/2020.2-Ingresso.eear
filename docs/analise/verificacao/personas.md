@@ -1,7 +1,7 @@
 ## Contexto:	
  - Técnica: Inspeção por Checklist
  - Autores: Daniel Porto e Yan
- - Revisor: Daniel Porto
+ - Revisores: Daniel Barcelos e Denys Rógeres
  - Inspetor: Daniel Barcelos
  - O documento verificado está disponível [aqui](../../analise-de-requisitos/personas.md)
 
@@ -37,8 +37,11 @@
 |5|As motivações e frustrações estão coerentes?|✔|✔|✔|
 ||**Porcentagem de sucesso**|**100%**|**100%**|**100%**|
 
+## Conclusão
+&emsp;&emsp;O documento está dentro dos padrões esperados pelo grupo.
+
 ## Acompanhamento
-&emsp;&emsp;O acompanhamento não será necessário, pois o documento está dentro dos padrões esperados pelo grupo.
+&emsp;&emsp;De acordo com a conclusão acima, não será necessário realizar nenhuma modificação no documento.
 
 ## Bibliografia
 

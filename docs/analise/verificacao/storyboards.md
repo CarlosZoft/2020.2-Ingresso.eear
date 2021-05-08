@@ -1,7 +1,7 @@
 ## Contexto:	
  - Técnica: Inspeção por Checklist
  - Autores: Denys Rógeres e Yan
- - Revisor: Daniel Porto
+ - Revisores: Bruno e Daniel Porto
  - Inspetor: Daniel Barcelos
  - O documento verificado está disponível [aqui](../../design-ava-dese/nivel-1/storyboards/storyboards.md)
 
@@ -39,8 +39,11 @@
 |3|A etapa de satisfação está clara?|✔|✔|✔|
 ||**Porcentagem de sucesso**|**100%**|**100%**|**100%**|
 
+## Conclusão
+&emsp;&emsp;Foram identificados alguns erros de português, de versionamento e um link que não redirecionava para o local correto.
+
 ## Acompanhamento
-&emsp;&emsp;Foram feitas correções de erros de português, versionamento e redirecionamento dos links presentes no documento.
+&emsp;&emsp;Foram corrigidos os erros citados na conclusão.
 
 ## Bibliografia
 

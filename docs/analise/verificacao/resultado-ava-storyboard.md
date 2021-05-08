@@ -1,7 +1,7 @@
 ## Contexto:	
  - Técnica: Inspeção por Checklist
  - Autor: Yan
- - Revisor: Daniel Porto
+ - Revisores: Bruno e Daniel Porto
  - Inspetor: Daniel Barcelos
  - O documento verificado está disponível [aqui](../../design-ava-dese/nivel-1/storyboards/resultado-ava-storyboard.md)
 
@@ -29,8 +29,11 @@
 |10|O versionamento está correto?|✔|
 ||**Porcentagem de sucesso**|**100%**|
 
+## Conclusão
+&emsp;&emsp;O documento está dentro dos padrões esperados pelo grupo.
+
 ## Acompanhamento
-&emsp;&emsp;O documento está dentro dos padrões esperados pelo grupo, portanto não foi feita nenhuma correção.
+&emsp;&emsp;De acordo com a conclusão acima, não será necessário realizar nenhuma modificação no documento.
 
 ## Bibliografia
 
