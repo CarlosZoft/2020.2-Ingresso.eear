@@ -1,4 +1,4 @@
-# Teste piloto da avaliação do protótipo de baixa fidelidade
+# Teste piloto da avaliação do protótipo de alta fidelidade
 
 ## Introdução
 &emsp;&emsp;Como feito anteriormente na prototipação de baixa fidelidade, o teste piloto tem como objetivo avaliar o planejamento da avaliação, e analisar se ela produz os dados necessários para responder a questões e objetivos determinados. Trata-se de uma aplicação não oficial da técnica de avaliação para dar a oportinudade aos avaliadores de checar diversos aspectos da avaliação. Por se tratar de um teste, os dados coletados devem ser descartados ao final de sua aplicação.
