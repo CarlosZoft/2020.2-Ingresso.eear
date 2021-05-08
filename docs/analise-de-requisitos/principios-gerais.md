@@ -68,6 +68,6 @@ O princípio do Projeto para Erros visa desenvolver um sistema que qualquer falh
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 0.1 | 21/03/2021 | Criação do documento | Bruno Félix |
-| 1.0 | 25/03/2021 | Desenvolvimento da introdução | Bruno Félix |
+| 1.0 | 21/03/2021 | Criação do documento | Bruno Félix |
+| 1.1 | 25/03/2021 | Desenvolvimento da introdução | Bruno Félix |
 | 2.0 | 26/03/2021 | Desenvolvimento dos princípios gerais | Bruno Félix |

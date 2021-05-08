@@ -79,5 +79,5 @@ Para avaliar a plataforma para concurso da EEAR, <strong>analisamos e definimos<
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 0.1 | 21/03/2021 | Criação do documento | Bruno Félix |
-| 1.0 | 21/03/2021 | Desenvolvimento das metas de usabilidade | Bruno Félix |
+|1.0| 21/03/2021 | Criação do documento | Bruno Félix |
+|1.1| 21/03/2021 | Desenvolvimento das metas de usabilidade | Bruno Félix |

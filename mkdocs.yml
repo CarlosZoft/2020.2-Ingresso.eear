@@ -24,7 +24,7 @@ nav:
         - Design, avaliação e desenvolvimento:
                 - Nível 1:
                         - Análise de Tarefas:
-                                - Planejamento e Avaliação da Análise de Tarefas: design-ava-dese/nivel-1/ana-tarefas/plan-ava-ana-tarefas.md
+                                - Planejamento da Avaliação da Análise de Tarefas: design-ava-dese/nivel-1/ana-tarefas/plan-ava-ana-tarefas.md
                                 - Relato dos Resultados da Avaliação da Análise de Tarefas:
                                         - Avaliação da Tarefa 1: design-ava-dese/nivel-1/ana-tarefas/resultados/avaliacao-efetua.md
                                         - Avaliação da Tarefa 2: design-ava-dese/nivel-1/ana-tarefas/resultados/avaliacao-acompanha.md
@@ -33,30 +33,30 @@ nav:
                                 - Planejamento da Avaliação do Storyboard: design-ava-dese/nivel-1/storyboards/plan-ava-storyboard.md
                                 - Relato dos Resultados da Avaliação do Storyboard: design-ava-dese/nivel-1/storyboards/resultado-ava-storyboard.md
                 - Nível 2:
-                        - Planejamento do Protótipo de Baixa Fidelidade: design-ava-dese/nivel-2/plan-prototipo-papel.md
+                        - Planejamento da Avaliação do Protótipo de Baixa Fidelidade: design-ava-dese/nivel-2/plan-prototipo-papel.md
                         - Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade: design-ava-dese/nivel-2/resultado-prot-papel.md
                 - Nível 3:
-                        - Planejamento do Protótipo de Alta Fidelidade: design-ava-dese/nivel-3/plan-prototipo-alta.md
+                        - Planejamento da Avaliação do Protótipo de Alta Fidelidade: design-ava-dese/nivel-3/plan-prototipo-alta.md
                         - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design-ava-dese/nivel-3/resultado-prot-alta.md
         - Análise:
                 - Verificação:
-                        - Metas de usabilidade: analise/verificacao/metas-de-usabilidade.md
-                        - Princípios Gerais do Projeto: analise/verificacao/principio-gerais-do-projeto.md
-                        - Planejamento da Avaliação da Análise de Tarefas: analise/verificacao/plan-ava-analise-de-tarefas.md
-                        - Análise de Tarefas: analise/verificacao/analise-de-tarefas.md
-                        - Planejamento: analise/verificacao/planejamento.md
+                        - Planejamento da Varificação: analise/verificacao/planejamento.md
+                        - Perfil do Usuário: analise/verificacao/perfil-do-usuario.md
                         - Personas: analise/verificacao/personas.md
+                        - Análise de Tarefas: analise/verificacao/analise-de-tarefas.md
+                        - Metas de Usabilidade: analise/verificacao/metas-de-usabilidade.md
+                        - Princípios Gerais do Projeto: analise/verificacao/principio-gerais-do-projeto.md
+                        - Guia de Estilo: analise/verificacao/guia-de-estilo.md
+                        - Planejamento da Avaliação da Análise de Tarefas: analise/verificacao/plan-ava-analise-de-tarefas.md
+                        - Planejamento da Avaliação do Storyboard: analise/verificacao/plan-ava-storyboard.md                        
                         - Storyboards: analise/verificacao/storyboards.md
                         - Relato dos Resultados da Avaliação do Storyboard: analise/verificacao/resultado-ava-storyboard.md
-                        - Perfil do Usuário: analise/verificacao/perfil-do-usuario.md
-                        - Guia de Estilo: analise/verificacao/guia-de-estilo.md
-                        - Planejamento da Avaliação do Storyboard: analise/verificacao/plan-ava-storyboard.md
-                        - Planejamento da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/plan-prot-alta.md
-                        - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/resu-prot-alta.md
                         - Planejamento da Avaliação do Protótipo de Baixa Fidelidade: analise/verificacao/plan-prot-baixa.md
                         - Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade: analise/verificacao/resu-prot-baixa.md
+                        - Planejamento da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/plan-prot-alta.md
+                        - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: analise/verificacao/resu-prot-alta.md
                 - Validação:
-                        - Validação informal: analise/validacao/validacao-informal.md
+                        - Validação Informal: analise/validacao/validacao-informal.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 23/02/2021: atas/reuniao-23-02-2021.md

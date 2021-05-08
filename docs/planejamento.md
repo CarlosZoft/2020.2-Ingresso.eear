@@ -61,6 +61,11 @@ Ferramenta | Nome | Descrição
 ![Alt text](./assets/imagens/Google_Drive_icon.png) | Google Drive | Plataforma utilizada para armazenar os slides da apresentação e outros artefatos gerados.
 ![Alt text](./assets/imagens/planilhas.png) | Planilhas Google | Ferramenta para criação de planilhas.
 ![Alt text](./assets/imagens/Telegram.png) | Telegram | Ferramenta de comunicação rápida entre os integrantes.
+![Alt text](./assets/imagens/forms.jpeg) | Google Forms | Ferramenta de aplicação de formulários.
+![Alt text](./assets/imagens/draw.jpeg)| Draw.ia | Ferramenta utilizada para elaboração de diagramas.
+![Alt text](./assets/imagens/lucid.jpeg)| Lucidchart | Ferramenta utilizada para a elaboração da Rich Picture.
+![Alt text](./assets/imagens/marvel.jpeg)| Marvelapp | Ferramenta utilizada para simular a interação com um layout.
+![Alt text](./assets/imagens/story.jpeg)| Storyboard That | Plataforma para criação de storyboards.
 ![Alt text](./assets/imagens/Figma.png) | Figma | Ferramenta utilizada para a elaboração de protótipos de design.
 ![Alt text](./assets/imagens/Google_Slides_logo.png) | Apresentações Google | Ferramenta utilizada para criação de slides simultaneamente entre os integrantes.
 ![Alt text](./assets/imagens/GitHub.png) | GitHub | Plataforma de versionamento em que iremos armazenar todos os artefatos relacionados ao projeto.

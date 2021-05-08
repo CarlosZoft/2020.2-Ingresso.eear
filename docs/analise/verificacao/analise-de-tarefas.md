@@ -51,7 +51,7 @@
 
 | Versão | Data | Modificação | Autor |
 |:-:|--|--|--|
-|0.1|07/05/2021| Criação do documento | Yan Andrade |
-|1.0|08/05/2021| Correção e padronização do documento | Yan Andrade |
-|1.1|08/05/2021| Padronização do documento | Yan Andrade |
-|1.2|08/05/2021| Correção dos revisores | Yan Andrade |
+|1.0|07/05/2021| Criação do documento | Yan Andrade |
+|1.1|08/05/2021| Correção e padronização do documento | Yan Andrade |
+|1.2|08/05/2021| Padronização do documento | Yan Andrade |
+|1.3|08/05/2021| Correção dos revisores | Yan Andrade |

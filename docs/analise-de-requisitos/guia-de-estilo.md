@@ -157,11 +157,11 @@ Estas foram as cores predominantes no site:
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |:-:|--|--|--|
-| 0.1 | 23/03/2021 | Criação do Guia de Estilo | Daniel B. e Yan |
-| 1.0 | 24/03/2021 | Adição do grid da Homepage | Daniel P. e Denys |
-| 1.1 | 25/03/2021 | Adição da imagem de realizar login | Yan |
-| 1.2 | 25/03/2021 | Adição das imagens da janela | Denys |
-| 1.3 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
-| 1.4 | 25/03/2021 | Adição dos tópicos símbolos não tipográficos e animaçẽos | Daniel P. |
-| 1.5 | 08/05/2021 | Corrigindo documento pela verificação | Bruno Félix |
-| 1.6 | 08/05/2021 | Inserindo imagens de expansão | Bruno Félix |
+| 1.0 | 23/03/2021 | Criação do Guia de Estilo | Daniel B. e Yan |
+| 1.1 | 24/03/2021 | Adição do grid da Homepage | Daniel P. e Denys |
+| 1.2 | 25/03/2021 | Adição da imagem de realizar login | Yan |
+| 1.3 | 25/03/2021 | Adição das imagens da janela | Denys |
+| 1.4 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
+| 1.5 | 25/03/2021 | Adição dos tópicos símbolos não tipográficos e animaçẽos | Daniel P. |
+| 1.6 | 08/05/2021 | Corrigindo documento pela verificação | Bruno Félix |
+| 1.7 | 08/05/2021 | Inserindo imagens de expansão | Bruno Félix |
