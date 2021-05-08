@@ -1,7 +1,7 @@
 ## Contexto:	
  - Técnica: Inspeção por Checklist
  - Autores: Bruno Félix
- - Revisores: Bruno Félix
+ - Revisores: Daniel Porto e Denys Rógeres
  - Inspetores: Yan Andrade
  - O documento verificado está disponível [aqui](../../analise-de-requisitos/principios-gerais.md)
 
@@ -55,3 +55,4 @@
 |0.1|07/05/2021| Criação do documento | Yan Andrade |
 |1.0|08/05/2021| Correção e padronização do documento | Yan Andrade |
 |1.1|08/05/2021| Padronização do documento | Yan Andrade |
+|1.2|08/05/2021| Correção dos revisores | Yan Andrade |

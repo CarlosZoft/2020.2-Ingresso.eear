@@ -1,7 +1,7 @@
 ## Contexto:	
  - Técnica: Inspeção por Checklist
  - Autores: Bruno Félix e Daniel Porto
- - Revisores: Bruno Félix
+ - Revisores: Daniel Barcelos, Denys Rógeres e Yan Andrade 
  - Inspetores: Yan Andrade
  - O documento verificado está disponível [aqui](../../design-ava-dese/nivel-1/ana-tarefas/plan-ava-ana-tarefas.md)
 
