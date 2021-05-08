@@ -43,3 +43,4 @@
 |--|--|--|--|
 |1.0|08/05/2021|Abertura do Documento|Denys Rógeres|
 |1.1|08/05/2021|Verificação dos resultados do protótipo de papel|Denys Rógeres|
+|1.2|08/05/2021|Finalização do documento|Denys Rógeres|
