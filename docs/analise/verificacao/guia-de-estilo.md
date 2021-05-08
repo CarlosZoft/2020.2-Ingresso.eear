@@ -40,7 +40,7 @@
 ||**Porcentagem de sucesso**|**100%**|
 
 ## Conclusão
-&emsp;&emsp;Foi encontrado erros de português e as algumas imagens do questionário não expandem.
+&emsp;&emsp;Foi encontrado erros de português e as algumas imagens do questionário não se expandem.
 
 ## Acompanhamento
 &emsp;&emsp;Foram corrigidos os erros citados na conclusão.
