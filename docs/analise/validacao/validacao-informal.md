@@ -2,12 +2,9 @@
 &emsp;&emsp;A validação de software é um processo da Engenharia de Requisitos que busca assegurar que o produto final corresponda aos requisitos do software.
 
 ## Objetivo
-&emsp;&emsp;A equipe acredita que um feedback sobre o projeto seria de extrema importância e, para isso, optou por enviar um e-mail para os mantenedores do site Ingresso EEAR.
+&emsp;&emsp;A equipe acredita que um feedback sobre o projeto seria de extrema importância para um maior aprendizado e, para isso, optou por enviar um e-mail para os mantenedores do site Ingresso EEAR.
 
 ## E-mail enviado
-
-### Definição das tarefas
-
 &emsp;&emsp;Olá, 
 
 &emsp;&emsp;Nós somos alunos do curso de Engenharia de Software da FGA e estamos cursando a disciplina de Interação Humano Computador. Nessa disciplina nosso objetivo é fazer um projeto que consiste em realizar todas as etapas do processo de design, e para isso escolhemos o site do Ingresso EEAR.
