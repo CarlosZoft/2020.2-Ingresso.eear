@@ -10,7 +10,7 @@
 
 ## Conclusão
 &emsp;&emsp;Alguns aspectos e detalhes que precisavam ser ajustados no termo de consentimento foram detectados no teste piloto e foram corrigidos para a aplicação oficial da avaliação.<br> 
-&emsp;&emsp;Contundo, a partir do presente teste piloto realizado, se conclui que os aspectos referentes ao planejamentda da avaliação do protótipo de alta fidelidade estão a contento com o esperado e podem gerar dados relevantes para a avaliação de IHC que será realizada, permitindo assim, com que os avaliadores possam prosseguir para as etapas seguintes.
+&emsp;&emsp;Contudo, a partir do presente teste piloto realizado, se conclui que os aspectos referentes ao planejamento da avaliação do protótipo de alta fidelidade estão a contento com o esperado e podem gerar dados relevantes para a avaliação de IHC que será realizada, permitindo assim, com que os avaliadores possam prosseguir para as etapas seguintes.
 
 ## Bibliografia 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
