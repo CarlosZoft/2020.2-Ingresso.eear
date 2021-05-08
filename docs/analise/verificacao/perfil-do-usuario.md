@@ -49,3 +49,4 @@
 |Versão|Data|Modificação|Autor|
 |--|--|--|--|
 |1.0|08/05/2021|Abertura e desenvolvimento do Documento|Bruno Félix|
+|1.1|08/05/2021|Ajustando Resultados Gerais e Concusão|Bruno Félix|
