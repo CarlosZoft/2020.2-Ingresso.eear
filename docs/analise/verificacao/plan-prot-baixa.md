@@ -28,21 +28,23 @@
 |5|As atividades da tabela da metodologia estão explicadas?|✔|
 |6|As tarefas das atividades estão completamente explicadas?|✔|
 |7|O protótipo está acessível?|✔|
-|8|É possível interagir com o protótipo?|✖|
+|8|É possível interagir com o protótipo?|✔|
 |9|Os fluxos do protótipo estão corretos?|✔|
 |10|Todos os links estão corretos?|✔|
 |11|A linguagem está simples e compreensível?|✔|
-|12|A ortografia está correta?|✔|
+|12|A ortografia está correta?|✖|
 ||**Porcentagem de Sucesso**|**92%**| 
 
 ## Conclusão
-
+&emsp;&emsp;A partir da verificação, foram identificados algumas inconsistências gramaticais que devem ser corrigidas.
 ## Acompanhamento
 &emsp;&emsp;Todos os itens identificados nesta verificação fora corrigos.
 ## Bibliografia
-
+> - REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020.
+> - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
 ## Versionamento
 |Versão|Data|Modificação|Autor|
 |--|--|--|--|
 |1.0|08/05/2021|Abertura do Documento|Denys Rógeres|
 |1.1|08/05/2021|Elaboração da verificação|Denys Rógeres|
+|1.2|08/05/2021|Finalização da verificação|Denys Rógeres|
