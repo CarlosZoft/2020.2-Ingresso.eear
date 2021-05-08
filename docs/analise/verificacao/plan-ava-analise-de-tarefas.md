@@ -1,8 +1,3 @@
-## Introdução
-
-&emsp;&emsp;Este documento visa verificar o Planejamento da Avaliação da Análise de Tarefas para detectar os erros e defeitos antes de finalizar o projeto.
-&emsp;&emsp;Para a verificação foi escolhida a estratégia de inspeção por checklist, por sua simplicidade e objetividade.
-
 ## Contexto:	
  - Técnica: Inspeção por Checklist
  - Autores: Bruno Félix e Daniel Porto
@@ -17,7 +12,7 @@
 |OK|Contém|
 |X|Não Contém|
 
-### Resultados
+### Resultados Gerais:
 |Número|Questão|Resposta|
 |--|--|--|
 |1|A ortografia está correta?|X|
@@ -28,12 +23,24 @@
 |6|A página possui referências do conteúdo?|OK|
 ||<strong>Porcentagem de sucesso</strong>|<strong>83,33%</strong>|
 
+### Resultados Específicos:
+|Número|Questão|Resposta|
+|--|--|--|
+|1|Teve especificação de qual diagrama foi relatado?|OK|
+|2|Teve especificação de qual persona foi utilizada?|OK|
+|3|Houve relato das ações claras e concisa?|OK|
+|4|Houve o levantamento correto das perguntas referentes a coleta de dados?|OK|
+||<strong>Porcentagem de sucesso</strong>|<strong>100%</strong>|
+
 ## Conclusão
 
 &emsp;&emsp;Feita a verificação do artefato, foi encontrada somente uma única irregularidade. Ocorreu um erro de digitação em relação a palavra "avaliação" que está escrita de forma errônea.
 
+## Acompanhamento
+
+&emsp;&emsp;Foram corrigidos os erros citados na conclusão.
+
 ## Bibiolgrafia
-> - REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020.
 > - [Página de verificação dos Planejamento da Avaliação da Análise de Tarefas do grupo Prefeitura Municipal de Arco-íris](https://interacao-humano-computador.github.io/2020.1-Prefeitura-Municipal-de-Arco-Iris/#/verificacao/planejamento_avaliacao_tarefas.md)
 > - [Página de verificação dos Planejamento da Avaliação da Análise de Tarefas do grupo Prefeitura Águas Lindas de Goiás](https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/verificacao/veri_av_analise_tarefas/)
 ## Versionamento
@@ -41,3 +48,4 @@
 | Versão | Data | Modificação | Autor |
 |:-:|--|--|--|
 |0.1|07/05/2021| Criação do documento | Yan Andrade |
+|1.0|08/05/2021| Correção e padronização do documento | Yan Andrade |

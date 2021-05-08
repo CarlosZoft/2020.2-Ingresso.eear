@@ -1,8 +1,3 @@
-## Introdução
-
-&emsp;&emsp;Este documento visa verificar a Análise de Tarefas para detectar os erros e defeitos antes de finalizar o projeto.
-&emsp;&emsp;Para a verificação foi escolhida a estratégia de inspeção por checklist, por sua simplicidade e objetividade.
-
 ## Contexto:	
  - Técnica: Inspeção por Checklist
  - Autores: Bruno Félix, Daniel Barcelos e Daniel Porto
@@ -16,7 +11,7 @@
 |OK|Contém|
 |X|Não Contém|
 
-### Resultados
+### Resultados Gerais:
 |Número|Questão|HTA1|HTA2|
 |--|--|--|--|
 |1|A ortografia está correta?|X|X|
@@ -31,12 +26,25 @@
 |10|Cada diagrama possui uma tabela de especificação?|OK|OK|
 ||<strong>Porcentagem de sucesso</strong>|<strong>90%</strong>|
 
+### Resultados Específicos:
+|Número|Questão|HTA1|HTA2|
+|--|--|--|--|
+|1|Os objetivos estão corretos?|OK|OK|
+|2|As operações estão corretas?|OK|OK|
+|3|O nível dos objetivos estã corretos?|OK|OK|
+|4|Os níveis dos subobjetivos estã corretos?|OK|OK|
+|5|As relações entre os subobjetivos estão corretos?|OK|OK|
+||<strong>Porcentagem de sucesso</strong>|<strong>100%</strong>|
+
 ## Conclusão
 
 &emsp;&emsp;Feita a verificação do artefato, foi encontrada somente duas irregularidades. Ocorreu um erro de digitação em relação a palavra "Efetuar" que está escrita de forma errônea no Diagrama 1 e occorreu também um erro de digitação em relação a palavra "imagem" que está escrita de forma errônea no Diagrama 2.
 
+## Acompanhamento
+
+&emsp;&emsp;Foram corrigidos os erros citados na conclusão.
+
 ## Bibiolgrafia
-> - REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020.
 > - [Página de verificação da Análise de Tarefas do grupo Prefeitura Municipal de Arco-íris](https://interacao-humano-computador.github.io/2020.1-Prefeitura-Municipal-de-Arco-Iris/#/verificacao/tarefas.md)
 > - [Página de verificação da Análise de Tarefas do grupo Prefeitura Águas Lindas de Goiás](https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/verificacao/veri_analise_tarefas/)
 ## Versionamento
@@ -44,3 +52,4 @@
 | Versão | Data | Modificação | Autor |
 |:-:|--|--|--|
 |0.1|07/05/2021| Criação do documento | Yan Andrade |
+|1.0|08/05/2021| Correção e padronização do documento | Yan Andrade |
