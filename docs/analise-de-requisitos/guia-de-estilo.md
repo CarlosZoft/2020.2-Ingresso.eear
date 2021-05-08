@@ -6,7 +6,7 @@
 &emsp;&emsp;O principal objetivo do guia de estilo é registrar as principais escolhas de design tomadas pelos desenvolvedores e documentar todas as características do site Ingresso EEAR. O guia de estilo é uma ferramenta de comunicação entre a equipe de design que irá desenvolver os primeiros protótipos e os desenvolvedores. 
 
 ### Organização e conteúdo do guia de estilo
-&emsp;&emsp;Esse guia de estilo irá arbodar os seguintes tópicos:
+&emsp;&emsp;Esse guia de estilo irá abordar os seguintes tópicos:
 
 - Introdução <br>
 - Resultados de Análise <br>
@@ -16,7 +16,7 @@
 - Vocabulário e Padrões <br>
 
 ### Público-alvo do guia de estilos
-&emsp;&emsp;O público alvo desse guia são os próprios integrantes da equipe, que irão utilizar como material de apoio e estudo.
+&emsp;&emsp;O público alvo deste guia são os próprios integrantes da equipe, que irão utilizar como material de apoio e estudo.
 
 ### Como utilizar o guia
 &emsp;&emsp;O guia deve ser utilizado como base para as futuras decisões do projeto principalmente na elaboração de protótipos.
@@ -32,17 +32,17 @@
 ## Elementos de Interface
 
 ### Disposição espacial e grid
-&emsp;&emsp;O site usa as tags de tabela do HTML para montar o grid. Além disso, o site não segue um padrão de páginas o que ocasiona a existência de mais de um tipo de grid utilizado no site para apresentar a disposição espacial dos elementos. Por isso tem-se que analizar e identificar os tipos de disposições usadas.<br>
+&emsp;&emsp;O site usa as tags de tabela do HTML para montar o grid. Além disso, o site não segue um padrão de páginas o que ocasiona a existência de mais de um tipo de grid utilizado no site para apresentar a disposição espacial dos elementos. Por isso tem-se que analisar e identificar os tipos de disposições usadas.<br>
 &emsp;&emsp;Sendo assim, foram separados 5 tipos de grids principais no site:
 
 #### Homepage:
-&emsp;&emsp;A Homepage do site é bem simples. Utilizando tabelas HTML para dispor os elementos, possui um espaço para o título na parte superior com uma barra de pesquisa logo abaixo. Também é separada por uma linha vertical onde na direita se encotra um conjustos de botões quadrados em volta de outro quadrado central o qual contem alguns botões para se acessar as notícias. Na esqerda da linha divisória está um espaço direcionado para as noticias do dia. Segue abaixo o grid que foi citado anteriormente: 
+&emsp;&emsp;A Homepage do site é bem simples. Utilizando tabelas HTML para dispor os elementos, possui um espaço para o título na parte superior com uma barra de pesquisa logo abaixo. Também é separada por uma linha vertical onde na direita se encontra um conjunto de botões quadrados em volta de outro quadrado central o qual contém alguns botões para se acessar as notícias. Na esquerda da linha divisória está um espaço direcionado para as notícias do dia. Segue abaixo o grid que foi citado anteriormente: 
 
 ![Grid Homepage](../assets/imagens/guia-de-estilo/grid-homepage.png)
 <center>Figura 1: Grid da homepage.<br>[link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112408369-6c322080-8cf6-11eb-8b1c-6a45c5fea30c.png)</center>
 
 #### Login:
-&emsp;&emsp;O site não possui persistência de dados de usuário. Por isso, sempre que o usuário precise acessar alguma funcionalidade fora da área do participante, é preciso realizar o login. Isso causa algum transtorno por conta da repetição de atividades visto que são preciso preencher 4 campos para fazer o login. Segue abaixo o grid que foi citado anteriormente:
+&emsp;&emsp;O site não possui persistência de dados de usuário. Por isso, sempre que o usuário precisar acessar alguma funcionalidade fora da área do participante, é preciso realizar o login. Isso causa algum transtorno por conta da repetição de atividades visto que é preciso preencher 4 campos para fazer o login. Segue abaixo o grid que foi citado anteriormente:
 
 ![Grid Login](../assets/imagens/guia-de-estilo/grid-login.png)
 <center>Figura 2: Grid da página de login.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552402-7c530a00-8da1-11eb-9013-4f2e44e00662.png)</center>
@@ -54,40 +54,40 @@
 <center>Figura 3: Grid da página da área do Candidato.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552472-a6a4c780-8da1-11eb-9a9f-1ee568989c3a.png)</center>
 
 #### Provas Anteriores:
-&emsp;&emsp;Nessa página o usuário pode obter os gabaritos de provas de concursos anteriores. A página é bem simples e direta, os dados de cada prova é separado por uma linha horizontal. No lado esquedo de cada bloco está a identificação da prova e no direito se encontra um link direto para o gabarito. Segue abaixo o grid que foi citado anteriomente: 
+&emsp;&emsp;Nessa página o usuário pode obter os gabaritos de provas de concursos anteriores. A página é bem simples e direta, os dados de cada prova é separado por uma linha horizontal. No lado esquerdo de cada bloco está a identificação da prova e no direito se encontra um link direto para o gabarito. Segue abaixo o grid que foi citado anteriormente: 
 
 ![Grid Provas Anteriores](../assets/imagens/guia-de-estilo/grid-provas-anteriores.png)
 <center>Figura 4: Grid da página de provas anteriores.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552581-d522a280-8da1-11eb-821a-0d0f60faae6f.png)</center>
 
 #### Notícias:
-&emsp;&emsp;A abordagem dessa página é muito simples e direta. As notícias publicadas são dispostas sequencialmente identificadas por seu título. A baixo do título fica um link extenso que dericiona o usuário para um arquivo ondestão as informações. Segue abaixo o grid que foi citado anteriormente:
+&emsp;&emsp;A abordagem dessa página é muito simples e direta. As notícias publicadas são dispostas sequencialmente identificadas por seu título. Abaixo do título fica um link extenso que direciona o usuário para um arquivo onde estão as informações. Segue abaixo o grid que foi citado anteriormente:
 
 ![Grid Notícias](../assets/imagens/guia-de-estilo/grid-noticia.png)
 <center>Figura 5: Grid da página de notícias.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/112552641-e9ff3600-8da1-11eb-997e-7d4d6fbcd596.png)</center>
 
 ### Janelas
-&emsp;&emsp;O site da ingresso.EEAR possui algumas janelas. Dentre as janelas existentes, encontram-se a Homepage, a tela de login, a tela de noticía, questões anteriores e gabarito, entre outras. Colocamos abaixo alguns exemplos das janelas do site.
+&emsp;&emsp;O site da ingresso.EEAR possui algumas janelas. Dentre as janelas existentes, encontram-se a Homepage, a tela de login, a tela de notícia, questões anteriores e gabarito, entre outras. Colocamos abaixo alguns exemplos das janelas do site.
 
 <center>![Homepage](../assets/imagens/homepage.png)</center>
-<center>Figura 6 - Hompage</center><br><br>
+<center>Figura 6 - Hompage<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554308-35f1fb80-b02d-11eb-8b3e-8b12062beec8.png)</center><br><br>
 
 <center>![Login](../assets/imagens/candidato.png)</center>
-<center>Figura 7 - Tela de login</center><br><br>
+<center>Figura 7 - Tela de login<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554360-89fce000-b02d-11eb-81a2-1ac60cef01e0.png)</center><br><br>
 
 <center>![Tela](../assets/imagens/tela.png)</center>
-<center>Figura 8 - Tela dentro do sistema</center><br><br>
+<center>Figura 8 - Tela dentro do sistema<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554376-a13bcd80-b02d-11eb-976e-826b5aa8c0f0.png)</center><br><br>
 
 <center>![Inscricao](../assets/imagens/inscricao.png)</center>
-<center>Figura 9 - Informação de inscricão</center><br><br>
+<center>Figura 9 - Informação de inscricão<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554400-c03a5f80-b02d-11eb-8d13-685266495134.png)</center><br><br>
 
 <center>![Informações](../assets/imagens/informacao.png)</center>
-<center>Figura 10 - Tela de informações</center><br><br>
+<center>Figura 10 - Tela de informações<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554408-d6482000-b02d-11eb-8372-730ba5eef960.png)</center><br><br>
 
-<center>![Prova](../assets/imagens/informacao.png)</center>
-<center>Figura 11 - Provas e gabaritos</center><br><br>
+<center>![Prova](../assets/imagens/provas.png)</center>
+<center>Figura 11 - Provas e gabaritos<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554468-566e8580-b02e-11eb-8756-1b41ba6e6c7d.png)</center><br><br>
 
 <center>![Exame](../assets/imagens/exame.png)</center>
-<center>Figura 12 - Informações candidato</center><br><br>
+<center>Figura 12 - Informações candidato<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/38890440/117554482-6e460980-b02e-11eb-8833-0be71b7cd7a1.png)</center><br><br>
 
 ### Tipografia
 &emsp;&emsp;A tipografia do site utiliza as seguintes fontes:<br>
@@ -95,10 +95,10 @@
 <center>Figura 13 - Tipografia</center><br><br>
 
 ### Símbolos não tipográficos
-&emsp;&emsp;A plataforma não utiliza muitos elementos não tipográficos que não sejam emblemas e simbolos militares. Segue abaixo alguns dos elementos não tipográficos presentes na página:
+&emsp;&emsp;A plataforma não utiliza muitos elementos não tipográficos que não sejam emblemas e símbolos militares. Segue abaixo alguns dos elementos não tipográficos presentes na página:
 
 - Lupa da barra de pesquisa 🔍
-- Simbolo de delete <div class="ico"><img src="../../assets/imagens/guia-de-estilo/delete.gif"></div>
+- Símbolo de delete <div class="ico"><img src="../../assets/imagens/guia-de-estilo/delete.gif"></div>
 - Gladio Alado <div class="ico"><img src="../../assets/imagens/guia-de-estilo/gladio.gif"></div>
 - Distintivo de terceiro sargento <div class="ico"><img src="../../assets/imagens/guia-de-estilo/3S.gif"></div>
 
@@ -112,8 +112,8 @@ Estas foram as cores predominantes no site:
 <center>Figura 15 - Paleta de cores site</center><br><br>
 
 ### Animações
-&emsp;&emsp;O site possui poucas animações. Nas páginas referentes a área do participante, ao passar o mouse na imagem da lapela, a area do concurso escurece e surge um texto em vermelho na área em arco no suṕerior da página.<br>
-&emsp;&emsp;Outra animação diponível no site fica na página de notícias, onde é possivel esconder o conteúdo da página clicando no ícone do gládio alado.
+&emsp;&emsp;O site possui poucas animações. Nas páginas referentes a área do participante, ao passar o mouse na imagem da lapela, a área do concurso escurece e surge um texto em vermelho na área em arco no superior da página.<br>
+&emsp;&emsp;Outra animação disponível no site fica na página de notícias, onde é possível esconder o conteúdo da página clicando no ícone do gládio alado.
 
 ## Elementos de Interação
 
@@ -162,4 +162,6 @@ Estas foram as cores predominantes no site:
 | 1.1 | 25/03/2021 | Adição da imagem de realizar login | Yan |
 | 1.2 | 25/03/2021 | Adição das imagens da janela | Denys |
 | 1.3 | 25/03/2021 | Conclusão do tópico disposição espacial e grid | Daniel P. |
-| 1.4 | 25/03/2021 | Adição dos tópicos simbolos não tipográficos e animaçẽos | Daniel P. |
+| 1.4 | 25/03/2021 | Adição dos tópicos símbolos não tipográficos e animaçẽos | Daniel P. |
+| 1.5 | 08/05/2021 | Corrigindo documento pela verificação | Bruno Félix |
+| 1.6 | 08/05/2021 | Inserindo imagens de expansão | Bruno Félix |
