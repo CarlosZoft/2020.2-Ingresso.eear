@@ -43,7 +43,7 @@
 &emsp;&emsp;Foi encontrado erros de português e as algumas imagens do questionário não se expandem.
 
 ## Acompanhamento
-&emsp;&emsp;Foram corrigidos os erros citados na conclusão.
+&emsp;&emsp;Foram corrigidos os erros citados na conclusão. Foi encontrado uma imagem duplicada, onde foi corrigido e inserido a imagem certa.
 
 ## Bibliografia
 - [Página de verificação do Guia de Estilo do grupo Prefeitura de Águas Lindas de Goiás - 2020.1](https://interacao-humano-computador.github.io/2020.1-Prefeiturade-Aguas-Lindas-de-Goias/verificacao/veri_guia_estilo/)
