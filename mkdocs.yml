@@ -38,6 +38,12 @@ nav:
                 - Nível 3:
                         - Planejamento do Protótipo de Alta Fidelidade: design-ava-dese/nivel-3/plan-prototipo-alta.md
                         - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design-ava-dese/nivel-3/resultado-prot-alta.md
+        - Análise:
+                - Verificação:
+                        - Planejamento: analise/verificacao/planejamento.md
+                        - Planejamento da Avaliação do Prototipo de Alta Fidelidade: analise/verificacao/plan-prot-alta.md
+                        - Prototipo de Alta Fidelidade: analise/verificacao/prot-alta.md
+                        - Personas: analise/verificacao/personas.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 23/02/2021: atas/reuniao-23-02-2021.md
