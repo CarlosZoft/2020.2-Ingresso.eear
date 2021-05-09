@@ -26,8 +26,8 @@ Um de nossos integrantes participou do <strong>concurso da EEAR em 2017</strong>
 Alguns sites foram avaliados para serem trabalhados na disciplina, mas o <strong>Ingresso.eear</strong> foi o escolhido por já termos uma <strong>prática</strong> e também fornecer boas oportunidades de estudo, avaliação e de elaboração de um <strong>processo de redesign</strong>.
 </p>
 
-Wiki do Projeto [**Ingresso EEAR**](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/)
-Site Avaliado [**Ingresso EEAR**](https://ingresso.eear.aer.mil.br/)
+Wiki do Projeto: [**Wiki Ingresso EEAR**](https://interacao-humano-computador.github.io/2020.2-Ingresso.eear/)<br>
+Site Avaliado: [**Site Ingresso EEAR**](https://ingresso.eear.aer.mil.br/)
 
 ## Equipe
 
