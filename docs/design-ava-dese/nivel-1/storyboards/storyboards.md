@@ -6,7 +6,7 @@
 &emsp;&emsp;O objetivo da criação dos Storyboards é validar o nível 1 da fase de Design, avaliação e desenvolvimento da Engenharia de usabilidade Mayhew, que consiste em criar protótipos do modelo conceitual.
 
 ## Metodologia
-&emsp;&emsp;Para desenvolver os stroyboards, foi necessário uma releitura do documento de Análise de Tarefas. A plataforma utilizada para elaborar o storyboard foi o [Storyboardthat](https://www.storyboardthat.com/pt).
+&emsp;&emsp;Para desenvolver os storyboards, foi necessário uma releitura do documento de Análise de Tarefas. A plataforma utilizada para elaborar o storyboard foi o [Storyboardthat](https://www.storyboardthat.com/pt).
 
 
 ## Resultados
