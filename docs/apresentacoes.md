@@ -20,3 +20,6 @@
 
 # 6ª Apresentação - Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Alta Fidelidade
 <iframe width="800" height="450" src="https://www.youtube.com/embed/qY-dPAICME0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# 7ª Apresentação - Apresentação Final
+<iframe width="800" height="450" src="https://www.youtube.com/embed/ZCSlje_1jJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
