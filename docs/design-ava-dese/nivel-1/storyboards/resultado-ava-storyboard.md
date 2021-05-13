@@ -22,8 +22,11 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 ## Objetivo da avaliação
 &emsp;&emsp;O Relato dos resultados tem como objetivo saber se o storyboard elaborado pela equipe está de acordo com o que se espera com qualidade e clareza.<br>
 
-## Relato da Avaliação
-### Teste-Piloto
+## Teste-Piloto
+&emsp;&emsp;Realizamos o teste piloto com dois integrantes da equipe, sendo que um está no papel de entrevistador e o outro no papel de entrevistado.<br>
+
+<!--VIDEO DO YOUTUBE | descrever minimamente o vídeo -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1BlhK0G1wM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 | Número | <center>Pergunta | <center>Opções de resposta |
 |:---:|:----------|:-------------------|
@@ -34,7 +37,10 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 | 5 | A situação representada pelo terceiro storyboard condiz com a realidade? | [X] Sim<br>[ ] Não<br>|
 | 6 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Nenhuma melhoria nem alteração foi sugerida. |
 
-### Entrevista Convencional
+<!--CONCLUSASO SOBRE O TESTE PILOTO DO STORYBOARD -->
+## Relato da Avaliação
+<!--- FALAR SOBRE O PERFIL E DESCREVER COMO FOI A AVALIAÇÃO -->
+&emsp;&emsp;A avaliação foi feita com o Carlos Júnior que tem 21 anos e diz ter feito a prova da EEAR apróximadamente 7 vezes. Pelo fato de se enquadrar no perfil levantado e por ter feito a prova diversas vezes, Carlos Júnior pôde contribuir bastante e trouxe bons insumos.<br>
 
 | Número | <center>Pergunta | <center>Opções de resposta |
 |:---:|:----------|:-------------------|
@@ -45,6 +51,9 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 | 5 | A situação representada pelo terceiro storyboard condiz com a realidade? | [X] Sim<br>[ ] Não<br>|
 | 6 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Nenhuma melhoria nem alteração foi sugerida. |
 
+## Conclusão
+<!--CONCLUSAO-->
+&emsp;&emsp;Após fazer a avaliação com o Carlos Júnior, foi observado que devemos melhorar o Storyboard 1 pois o mesmo não está tão fidedigno à realidade. Foi levando pelo Carlos que geralmente as pessoas ficam sabendo sobre a prova devido ao fato dos pais serem militares ou ter alguém militar na família que acaba divulgando. Portanto, devemos reajustar este ponto para que o Storyboard represente melhor a realidade.<br>
 ## Referência
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
 
@@ -55,3 +64,4 @@ De posse dessas informações, gostaríamos que você se pronunciasse acerca da 
 |:-:|--|--|--|
 |1.0|22/04/2021|Abertura do documento| Daniel Barcelos |
 |1.1|23/04/2021|Relato dos resultados do Storyboard| Yan Andrade |
+|1.2|13/05/2021|Adicionando vídeo e corrigindo relato| Denys Rógeres |
