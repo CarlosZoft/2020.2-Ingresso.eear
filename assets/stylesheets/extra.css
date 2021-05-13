@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu&display=swap');
+
+p {
+	text-align: justify;
+}
+
+p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+body{
+  color: #000000;
+  background-color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
